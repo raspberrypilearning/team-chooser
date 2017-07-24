@@ -1,12 +1,10 @@
 --- challenge ---
-## Challenge: Random team names
-Can you give both of your teams a random team name?
+## Challenge: Adding more players
+Can you add more players to your list? You can add as many players as you like, but make sure that there is an __even__ number of players.
 
-You can create a list called `teamNames` containing the names to choose from.
+You can also change the names of the first 2 players if you prefer.
 
-You can then choose (and display) a random name for each team.
-
-![screenshot](images/team-finished.png)
+Can you add code to print __just one__ of your new players?
 
 
 
