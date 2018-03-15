@@ -1,0 +1,26 @@
+hero_image: images/team-chooser.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: Creatore di Squadra
+description: Creare un programma per dividere i giocatori in 2 squadre a caso.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: ''
+technologies: python
+site_areas: codeclub, python
+steps:
+- title: 'Introduzione'
+- title: Giocatori
+- title: 'Sfida: Aggiungi altri giocatori'
+- title: Giocatori a caso
+- title: 'Sfida: Scegliere per la squadra B'
+- title: Scegliere tanti giocatori
+- title: File
+- title: Giocatori dispari
+- title: 'Sfida: Nomi casuali di squadra'
+- title: 'Sfida: Immagazzinamento dei nomi di squadra'
+- title: 'Sfida: Altre squadre'
+
