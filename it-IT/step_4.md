@@ -30,7 +30,7 @@ Scegliamo dei giocatori a caso!
 
 + Prova questo codice aggiungendo un comando 'print' per mostrare i 'players' rimasti dai quali scegliere.
 
-	[screenshot](images/team-players-remove-test.png)
+	![screenshot](images/team-players-remove-test.png)
 
 	Nell'esempio di sopra, Hermione è stata scelta per il 'teamA', ed è quindi stata rimossa dalla lista di 'players'.
 
