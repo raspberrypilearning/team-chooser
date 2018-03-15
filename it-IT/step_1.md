@@ -2,8 +2,7 @@
 In questo progetto, imparerai come creare 2 squadre a caso da una lista di giocatori.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/70d24d92b8?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+  <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
   <img src="images/team-finished.png">
 </div>
 
