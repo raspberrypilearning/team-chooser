@@ -1,0 +1,26 @@
+hero_image: images/team-chooser.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: 团队选择器
+description: 制作一个程序来将玩家分成 2 个随机团队。
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: ''
+technologies: python
+site_areas: codeclub, python
+steps:
+- title: '介绍'
+- title: 玩家
+- title: '挑战：添加更多玩家'
+- title: 随机玩家
+- title: '挑战：选择 B 队玩家'
+- title: 选择大量玩家
+- title: 文件
+- title: 奇数玩家
+- title: '挑战：随机团队名称'
+- title: '挑战：储存团队名称'
+- title: '挑战：更多团队'
+
