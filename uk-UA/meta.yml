@@ -1,0 +1,41 @@
+---
+hero_image: images / team-chooser.png
+theme: фіолетовий
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Команда Chooser
+description: Зробіть програму, щоб розділити гравців на 2 випадкових команди.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2018-04-05
+steps:
+  - 
+    title: 'Introduction: '
+  - 
+    title: Гравці
+  - 
+    title: 'Виклик: додати більше гравців'
+  - 
+    title: Випадкові гравці
+  - 
+    title: 'Виклик: вибір команди Б.'
+  - 
+    title: Вибір багатьох гравців
+  - 
+    title: Файли
+  - 
+    title: Непарні гравці
+  - 
+    title: 'Виклик: випадкові імена команди'
+  - 
+    title: 'Виклик: збереження імен команди'
+  - 
+    title: 'Виклик: більше команд'
