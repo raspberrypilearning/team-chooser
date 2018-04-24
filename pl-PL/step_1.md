@@ -3,7 +3,7 @@
 W tym projekcie nauczysz się tworzyć dwie losowe drużyny dobierając graczy z listy.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/python/8638d150aa?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/team-finished.png">
 </div>
@@ -28,26 +28,26 @@ W tym projekcie dzieci nauczą się, jak stworzyć program dzielący listę grac
 
 Dostępny jest też szablon zawierający ukończony projekt:
 
-* [Ukończony projekt "Selekcjoner" - trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* [Ukończony projekt "Selekcjoner" - trinket.io/python/a699c44ce6](https://trinket.io/python/8638d150aa)
 
 ## Zasoby Offline
 
 Ten projekt można także [wykonać offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Źródła", która zawieraj zasoby, potrzebne dzieciom do wykonania projektu w wersji offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
 
-* team / team.py
+* team/team.py
 
 Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wolontariuszy", która zawiera:
 
-* team-finished / team.py
+* team-finished/team.py
 
-(Wszystkie powyższe zasoby można również pobrać jako pliki `.zip`.)
+(Powyższe zasoby można również pobrać jako plik `.zip`.)
 
 ## Cele dydaktyczne
 
 * Listy;
 * Pobieranie danych do listy z pliku.
 
-Ten projekt obejmuje elementy z następujących wątków [Curriculum Digital Making Raspberry Pi](http://rpf.io/curriculum):
+Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
 
 * [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -74,7 +74,7 @@ Ten projekt obejmuje elementy z następujących wątków [Curriculum Digital Mak
 ## Zasoby dla lidera klubu
 
 * [Plik .zip zawierający zasoby z ukończonym projektem](resources/team-chooser-volunteer-resources.zip)
-* [Ukończony projekt "Selekcjoner"](https://trinket.io/python/a699c44ce6)
+* [Ukończony projekt "Selekcjoner"](https://trinket.io/python/8638d150aa)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 \--- /collapse \---
