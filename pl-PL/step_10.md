@@ -1,7 +1,7 @@
-\--- wyzwanie \---
+\--- challenge \---
 
-## Wyzwanie: Przechowywanie nazw drużyn
+## Wyzwanie: Przechowywanie nazw zespołów
 
-Czy możesz przechowywać listę nazw drużyn w pliku?
+Czy potrafisz przechować listę nazw zespołów w pliku?
 
-\--- / wyzwanie \---
+\--- /challenge \---
