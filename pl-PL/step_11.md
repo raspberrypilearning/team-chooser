@@ -1,7 +1,7 @@
-\--- wyzwanie \---
+\--- challenge \---
 
-## Wyzwanie: więcej zespołów
+## Wyzwanie: Więcej zespołów
 
-Czy możesz ulepszyć swój program, aby podzielić graczy na 3 drużyny zamiast 2?
+Czy możesz ulepszyć swój program, aby podzielić graczy na trzy drużyny zamiast dwóch?
 
-\--- / wyzwanie \---
+\--- /challenge \---
