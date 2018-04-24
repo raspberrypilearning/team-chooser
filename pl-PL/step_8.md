@@ -1,21 +1,21 @@
-## Dziwni gracze
+## Nieparzyści gracze
 
-Poprawmy Twój program, aby działał z nieparzystą liczbą graczy.
+Udoskonalmy twój program, aby działał z nieparzystą liczbą graczy.
 
-+ Dodaj inną nazwę do listy `players.txt` , aby mieć nieparzystą liczbę graczy.
++ Dodaj kolejne imię do listy `gracze.txt` tak, aby mieć nieparzystą liczbę graczy.
     
-    ![zrzut ekranu](images/team-luna.png)
+    ![screenshot](images/team-luna.png)
 
 + Jeśli przetestujesz kod, zobaczysz komunikat o błędzie.
     
-    ![zrzut ekranu](images/team-error.png)
+    ![screenshot](images/team-error.png)
 
-+ Błąd polega na tym, że twój program wybiera losowych graczy dla drużyny A, a następnie drużyny B. Jednakże, jeśli jest nieparzysta liczba graczy, to po wybraniu gracza dla drużyny A nie ma już żadnych graczy do wyboru dla drużyny B.
++ Błąd polega na tym, że twój program wybiera losowych graczy do zespołu A, a następnie do zespołu B. Jeśli jednak liczba graczy jest nieparzysta, to po wybraniu gracza do zespołu A nie ma już żadnych graczy do wyboru do zespołu B.
     
-    Aby naprawić ten błąd, możesz powiedzieć programowi, aby `przerwał` z `, podczas gdy` zapełnił, jeśli twoja lista `graczy` jest pusta.
+    Aby naprawić ten błąd, możesz powiedzieć programowi, aby przerwał (ang. `break`) wykonywanie kodu w pętli `while`, jeśli twoja lista `gracze` jest pusta.
     
-    ![zrzut ekranu](images/team-fix.png)
+    ![screenshot](images/team-fix.png)
 
-+ Jeśli ponownie przetestujesz swój kod, powinieneś zobaczyć, że działa on teraz z nieparzystą liczbą graczy.
++ Kiedy ponownie przetestujesz swój kod, powinieneś zobaczyć, że działa on teraz poprawnie z nieparzystą liczbą graczy.
     
-    ![zrzut ekranu](images/team-fix-test.png)
+    ![screenshot](images/team-fix-test.png)
