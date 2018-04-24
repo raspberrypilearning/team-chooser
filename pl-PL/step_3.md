@@ -1,5 +1,4 @@
 --- challenge ---
-
 ## Wyzwanie: Dodawanie kolejnych graczy
 
 Potraficz dodać więcej graczy do swojej listy? Możesz dodać dowolną liczbę graczy, ale upewnij się, że jest ich **parzysta** liczba.
