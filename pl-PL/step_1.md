@@ -63,7 +63,7 @@ Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspbe
 
 --- collapse ---
 ---
-#title: Materiały do projektu
+title: Materiały do projektu
 ---
 
 ## Zasoby
