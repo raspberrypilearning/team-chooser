@@ -2,7 +2,7 @@
 
 ## Wyzwanie: Wybieranie do zespołu B
 
-Czy umiesz dodać kod, który wybierze losowego gracza do zespołu B? W tym celu musisz:
+Czy potrafisz dodać kod, który wybierze losowego gracza do zespołu B? W tym celu musisz:
 
 + Utworzyć nową listę `zespolB`
 + Wylosować gracza do zespołu B (i zapisać go w zmiennej `graczB`)
