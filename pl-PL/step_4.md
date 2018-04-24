@@ -12,7 +12,7 @@ Wybierzmy losowych graczy!
 
 + Przetestuj swój kod z funkcją `choice` kilka razy, a za każdym razem powinieneś zobaczyć innego gracza.
 
-+ Możesz też utworzyć nową zmienną o nazwie `graczA` i użyć jej do przechowywania wylosowanego odtwarzacza.
++ Możesz też utworzyć nową zmienną o nazwie `graczA` i użyć jej do przechowywania wylosowanego gracza.
     
     ![screenshot](images/team-random-playerA.png)
 
