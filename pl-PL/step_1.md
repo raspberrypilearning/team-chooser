@@ -16,6 +16,7 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 ---
 title: Dla lidera klubu
 ---
+
 ## Wprowadzenie
 
 W tym projekcie dzieci nauczą się, jak stworzyć program dzielący listę graczy na 2 losowe drużyny. Ten projekt uczy jak używać list i plików.
@@ -65,6 +66,7 @@ Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspbe
 ---
 #title: Materiały do projektu
 ---
+
 ## Zasoby
 
 * [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/team-chooser-project-resources.zip)
