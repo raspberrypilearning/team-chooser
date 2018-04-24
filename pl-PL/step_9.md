@@ -1,13 +1,13 @@
-\--- wyzwanie \---
+\--- challenge \---
 
-## Wyzwanie: Losowe nazwy drużyn
+## Wyzwanie: Losowe nazwy zespołów
 
-Czy możesz podać obu drużynom losową nazwę drużyny?
+Czy możesz nadać losowe nazwy każdemu zespołowi?
 
-Możesz utworzyć listę o nazwie `teamNames` zawierającą nazwy do wyboru.
+Możesz utworzyć listę o nazwie `nazwyZespolow` zawierającą nazwy do wyboru.
 
-Następnie możesz wybrać (i wyświetlić) losową nazwę dla każdej drużyny.
+Następnie możesz wybrać (i wyświetlić) nazwy wylosowane dla każdego z zespołów.
 
-![zrzut ekranu](images/team-finished.png)
+![screenshot](images/team-finished.png)
 
-\--- / wyzwanie \---
+\--- /challenge \---
