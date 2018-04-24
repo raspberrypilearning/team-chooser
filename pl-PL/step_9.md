@@ -1,5 +1,4 @@
 --- challenge ---
-
 ## Wyzwanie: Losowe nazwy zespołów
 
 Czy możesz nadać losowe nazwy każdemu zespołowi?
