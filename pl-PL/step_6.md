@@ -1,31 +1,31 @@
 ## Wybieranie wielu graczy
 
-Następnie musisz upewnić się, że każdy gracz został wybrany do zespołu.
+Teraz musisz upewnić się, że każdy gracz został wybrany do zespołu.
 
-+ Podświetl swój kod, aby wybrać graczy dla drużyny A i zespołu B i naciśnij klawisz tabulacji, aby wprowadzić kod.
++ Zaznacz kod, który wybiera graczy do zespołu A i zespołu B i naciśnij klawisz tabulacji, aby kod był wcięty (przesunięty w prawo).
     
-    ![zrzut ekranu](images/team-loop-tab.png)
+    ![screenshot](images/team-loop-tab.png)
 
-+ Dodaj **, podczas gdy** zapętla, aby dalej wybierać graczy, dopóki długość `graczy` lista wynosi 0.
++ Dodaj pętlę **while** (dopóki), aby wybierać graczy do momentu, kiedy długość listy `gracze` będzie wynosić 0.
     
-    ![zrzut ekranu](images/team-loop-while.png)
+    ![screenshot](images/team-loop-while.png)
 
-+ Uruchom swój kod, aby go przetestować. Powinieneś zobaczyć graczy wybranych do drużyny A i drużyny B, dopóki nie pozostanie więcej graczy.
++ Uruchom swój kod, aby go przetestować. Powinieneś zobaczyć, że gracze są wybierani do zespołu A i zespołu B tak długo, dopóki nie będzie już więcej graczy do wyboru.
     
-    ![zrzut ekranu](images/team-loop-test.png)
+    ![screenshot](images/team-loop-test.png)
 
-+ Dodaj kod, aby wydrukować swój zespół `A` lista **po** swoim `podczas gdy pętla` (upewniając się, że nie jest wcięta).
++ Dodaj kod, który wypisze zawartość listy `zespolA` **zaraz za** pętlą `while` (upewnij się, że nowy kod nie jest wcięty).
     
-    Oznacza to, że `drużynaA` zostanie wydrukowana tylko raz, po wybraniu wszystkich graczy.
+    Dzięki temu zawartość listy `zespolA` zostanie wyświetlona tylko raz, po wybraniu wszystkich graczy.
     
-    ![zrzut ekranu](images/team-teamA-paste.png)
+    ![screenshot](images/team-teamA-paste.png)
 
-+ Możesz zrobić to samo dla `zespołu B`, możesz też usunąć inne polecenia drukowania, ponieważ były tam tylko po to, aby przetestować twój kod.
++ Możesz zrobić to samo z listą `zespolB`. Możesz też usunąć inne polecenia print, ponieważ były tam tylko po to, aby przetestować twój kod.
     
-    Oto, jak powinien wyglądać twój kod:
+    Tak powinien wyglądać twój kod:
     
-    ![zrzut ekranu](images/team-loop-finished.png)
+    ![screenshot](images/team-loop-finished.png)
 
-+ Przetestuj swój kod ponownie i powinieneś zobaczyć listę graczy, a także końcowe drużyny.
++ Przetestuj swój kod ponownie. Powinieneś zobaczyć tylko listę graczy i składy zespołów.
     
-    ![zrzut ekranu](images/team-loop-finished-test.png)
+    ![screenshot](images/team-loop-finished-test.png)
