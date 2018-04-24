@@ -1,5 +1,4 @@
 --- challenge ---
-
 ## Wyzwanie: Wybieranie do zespołu B
 
 Czy potrafisz dodać kod, który wybierze losowego gracza do zespołu B? W tym celu musisz:
