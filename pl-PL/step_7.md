@@ -1,25 +1,25 @@
-## Akta
+## Pliki
 
-Możesz użyć pliku do przechowywania listy graczy.
+Do przechowywania listy graczy możesz użyć pliku.
 
-+ Kliknij ikonę + i utwórz nowy plik o nazwie `players.txt`.
++ Kliknij ikonę + i utwórz nowy plik o nazwie `gracze.txt`.
     
-    ![zrzut ekranu](images/team-file-create.png)
+    ![screenshot](images/team-file-create.png)
 
-+ Dodaj swoich graczy do nowego pliku. Upewnij się, że po twoim ostatnim graczu nie ma pustej linii.
++ Dodaj swoich graczy do tego pliku. Upewnij się, że po twoim ostatnim graczu nie ma pustej linii.
     
-    ![zrzut ekranu](images/team-file-add.png)
+    ![screenshot](images/team-file-add.png)
 
-+ Zmień listę `graczy` tak, aby była pusta.
++ Zmień listę `gracze` tak, aby była pusta.
     
-    ![zrzut ekranu](images/team-players-empty.png)
+    ![screenshot](images/team-players-empty.png)
 
-+ Otwórz plik `players.txt` ( `'r'` oznacza tylko do odczytu).
++ Otwórz plik `gracze.txt` (`'r'` oznacza tylko do odczytu, ang. read-only).
     
-    ![zrzut ekranu](images/team-file-open.png)
+    ![screenshot](images/team-file-open.png)
 
-+ Przeczytaj listę z pliku i dodaj do listy `graczy`. (Kod `podziałów` oznacza, że ​​każda linia w pliku jest nową pozycją na liście `graczy`).
++ Odczytaj listę z pliku i dodaj do listy `gracze`. (Funkcja `splitlines` oznacza, że ​​każda linia w pliku jest nową pozycją na liście `gracze`).
     
-    ![zrzut ekranu](images/team-file-load.png)
+    ![screenshot](images/team-file-load.png)
 
-+ Jeśli przetestujesz swój kod, powinien on działać dokładnie tak samo jak poprzednio. Teraz jednak znacznie łatwiej jest dodać graczy do twojego `players.txt` pliku.
++ Kiedy przetestujesz swój kod, powinien on działać dokładnie tak samo jak poprzednio. Teraz jednak znacznie łatwiej jest dodać graczy do twojego pliku `gracze.txt`.
