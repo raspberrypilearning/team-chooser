@@ -1,0 +1,30 @@
+---
+hero_image: images/team-chooser.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Selekcjoner
+description: Stwórz program, który losowo podzieli graczy na dwie drużyny.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2018-04-05
+steps:
+- title: Wprowadzenie
+- title: Gracze
+- title: 'Wyzwanie: Dodawanie kolejnych graczy'
+- title: Losowi gracze
+- title: 'Wyzwanie: Wybieranie do zespołu B'
+- title: Wybieranie wielu graczy
+- title: Pliki
+- title: Nieparzyści gracze
+- title: 'Wyzwanie: Losowe nazwy zespołów'
+- title: 'Wyzwanie: Przechowywanie nazw zespołów'
+- title: 'Wyzwanie: Więcej zespołów'
