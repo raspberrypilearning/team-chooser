@@ -18,7 +18,7 @@ title: Clubleider notities
 ---
 ## Inleiding:
 
-In dit project leren kinderen om een programma te maken dat een ​​lijst met spelers opsplitst in 2 willekeurige teams. In dit project wordt het gebruik van lijsten (lists) en het werken met bestanden geleerd.
+In dit project leren kinderen om een programma te maken dat een lijst met spelers opsplitst in 2 willekeurige teams. In dit project wordt het gebruik van lijsten (lists) en het werken met bestanden geleerd.
 
 ## Online bronnen
 
@@ -28,7 +28,7 @@ In dit project leren kinderen om een programma te maken dat een ​​lijst met 
 
 Er is ook een trinket met het voltooide project:
 
-* ['Teamkiezer' voltooid - trinket.io/python/a699c44ce6](https://trinket.io/python/87461863f9)
+* ['Teamkiezer' voltooid - trinket.io/python/87461863f9](https://trinket.io/python/87461863f9)
 
 ## Offline bronnen
 
