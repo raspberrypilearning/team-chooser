@@ -1,0 +1,30 @@
+---
+hero_image: images/team-chooser.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Teamkiezer
+description: Maak een programma om spelers op te splitsen in 2 willekeurige teams.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2018-04-05
+steps:
+  - title: 'Inleiding'
+  - title: Spelers
+  - title: 'Uitdaging: meer spelers toevoegen'
+  - title: Willekeurige spelers
+  - title: 'Uitdaging: kiezen voor team B'
+  - title: Kies een aantal spelers
+  - title: Bestanden
+  - title: Oneven aantal spelers
+  - title: 'Uitdaging: willekeurige teamnamen'
+  - title: 'Uitdaging: teamnamen opslaan'
+  - title: 'Uitdaging: meer teams'
