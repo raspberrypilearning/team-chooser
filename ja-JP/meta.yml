@@ -1,0 +1,41 @@
+---
+hero_image: images / team-chooser.png
+theme: バイオレット
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1、design-0、programming-1、phys-comp-0、製造-0、コミュニティ-0
+title: チーム選手
+description: 選手を2つのランダムなチームに分けるプログラムを作ってください。
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: ゲーム
+technologies: パイソン
+site_areas: プロジェクト
+hardware: ''
+software: パイソン
+version: 3
+last_tested: 2018-04-05
+steps:
+  - 
+    title: '前書き： '
+  - 
+    title: プレイヤー
+  - 
+    title: '課題：より多くのプレーヤーを追加する'
+  - 
+    title: ランダムプレイヤー
+  - 
+    title: '課題：チームBの選択'
+  - 
+    title: たくさんの選手を選ぶ
+  - 
+    title: ファイル
+  - 
+    title: 奇妙な選手
+  - 
+    title: '課題：ランダムなチーム名'
+  - 
+    title: '課題：チーム名の保存'
+  - 
+    title: '挑戦：より多くのチーム'
