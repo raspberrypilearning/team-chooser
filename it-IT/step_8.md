@@ -1,21 +1,21 @@
-## Odd players
+## Giocatori dispari
 
-Let's improve your program to work with an odd number of players.
+Miglioriamo il tuo programma per lavorare con un numero dispari di giocatori.
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ Aggiungi un altro nome alla tua lista `giocatori.txt`, in modo da avere un numero dispari di giocatori.
     
     ![screenshot](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ Se esegui il test del codice, vedrai che ricevi un messaggio di errore.
     
     ![screenshot](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ L'errore è dovuto al fatto che il tuo programma continua a scegliere giocatori casuali per la squadra A e poi la squadra B. Tuttavia, se c'è un numero dispari di giocatori, dopo aver scelto un giocatore per la squadra A non rimangono giocatori da scegliere per la squadra B.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    Per correggere questo bug, puoi dire al tuo programma di interrompere (`break`) il tuo ciclo `while` se la lista `giocatori` è vuota.
     
     ![screenshot](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ Se testi nuovamente il codice, dovreste vedere che ora funziona con un numero dispari di giocatori.
     
     ![screenshot](images/team-fix-test.png)
