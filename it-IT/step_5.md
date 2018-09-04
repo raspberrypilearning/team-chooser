@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: Choosing for team B
+## Sfida: Scegliere per il team B
 
-Can you add code to choose a player at random for team B? You'll need to:
+Riesci ad aggiungere codice per scegliere un giocatore a caso per la squadra B? Dovrai:
 
-+ Create a new `teamB` list
-+ Choose a random player for team B (called `playerB`)
-+ `append` the chosen player to your `teamB` list
-+ `remove` the chosen player from your list of `players`
++ Creare una nuova lista `teamB`
++ Scegliere un giocatore casuale per il team B (chiamato `giocatoreB`)
++ `append` il giocatore scelto alla lista `teamB`
++ `remove` il giocatore scelto dalla tua lista di `giocatori`
 
-The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
+Il codice necessario per il `teamB` sarà **molto** simile al codice che hai già scritto per il `teamA`!
 
 \--- /challenge \---
