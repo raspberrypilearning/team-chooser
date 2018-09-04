@@ -1,0 +1,41 @@
+---
+hero_image: images/team-chooser.png
+theme: fioled
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Dewisydd Tîm
+description: Gwnewch raglen i rannu chwaraewyr yn 2 dîm ar hap.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: gemau
+technologies: python
+site_areas: prosiectau
+hardware: ''
+software: python
+version: 3
+last_tested: 2018-04-05
+steps:
+  - 
+    title: 'Cyflwyniad: '
+  - 
+    title: Chwaraewyr
+  - 
+    title: 'Her: Ychwanegu mwy o chwaraewyr'
+  - 
+    title: Chwaraewyr ar hap
+  - 
+    title: 'Her: Dewis ar gyfer tîm B'
+  - 
+    title: Dewis llawer o chwaraewyr
+  - 
+    title: Ffeiliau
+  - 
+    title: Chwaraewyr odrif
+  - 
+    title: 'Her: Enwau tîm ar hap'
+  - 
+    title: 'Her: Storio enwau tîm'
+  - 
+    title: 'Her: Mwy o dimau'
