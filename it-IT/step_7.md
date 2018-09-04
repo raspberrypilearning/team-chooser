@@ -1,25 +1,25 @@
-## Files
+## File
 
-You can use a file to store your list of players.
+Puoi usare un file per memorizzare la tua lista di giocatori.
 
-+ Click the + icon and create a new file called `players.txt`.
++ Fai clic sull'icona + e crea un nuovo file chiamato `giocatori.txt`.
     
     ![screenshot](images/team-file-create.png)
 
-+ Add your players to your new file. Make sure that there is no blank line after your last player.
++ Aggiungi i tuoi giocatori al tuo nuovo file. Assicurati che non ci sia una riga vuota dopo il tuo ultimo giocatore.
     
     ![screenshot](images/team-file-add.png)
 
-+ Change your `players` list so that it is empty.
++ Cambia la tua lista `giocatori` in modo che sia vuota.
     
     ![screenshot](images/team-players-empty.png)
 
-+ Open your `players.txt` file (the `'r'` means read-only).
++ Apri il tuo file `giocatori.txt ` (la lettera `'r'` significa in sola lettura).
     
     ![screenshot](images/team-file-open.png)
 
-+ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
++ Leggi la lista dal file e aggiungila alla tua lista `giocatori`. (Il codice `splitlines` significa che ogni riga nel file deve essere trattata come un nuovo elemento da inserire nella lista `giocatori`).
     
     ![screenshot](images/team-file-load.png)
 
-+ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
++ Se provi il tuo codice, dovrebbe funzionare esattamente come in precedenza. Tuttavia, ora è molto più semplice aggiungere giocatori al tuo file `giocatori.txt `.
