@@ -10,9 +10,9 @@ Vamos escolher jogadores aleatórios!
     
     ![captura de tela](images/team-random-player.png)
 
-+ Teste seu código `escolha` algumas vezes e você verá um jogador diferente sendo escolhido a cada vez.
++ Teste seu código `choice` algumas vezes e você verá um jogador diferente sendo escolhido a cada vez.
 
-+ Você também pode criar uma nova variável chamada `playerA`e usá-la para armazenar seu player aleatório.
++ Você também pode criar uma nova variável chamada `jogadorA` e usá-la para armazenar seu player aleatório.
     
     ![captura de tela](images/team-random-playerA.png)
 
