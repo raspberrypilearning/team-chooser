@@ -2,11 +2,11 @@
 
 Vamos escolher jogadores aleatórios!
 
-+ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
++ Para conseguir obter um usuário aleatório da sua lista de `jogadores`, primeiro você precisa importar o `choice` que faz parte do módulo `random`.
     
     ![captura de tela](images/team-import-random.png)
 
-+ Para obter um player aleatório, você pode usar a `escolha`. (Você também pode excluir o código para imprimir jogadores individuais.)
++ Para obter um player aleatório, você pode usar a `choice`. (Você também pode excluir o código para imprimir jogadores individuais.)
     
     ![captura de tela](images/team-random-player.png)
 
