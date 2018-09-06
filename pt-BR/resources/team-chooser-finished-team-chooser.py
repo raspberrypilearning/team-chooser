@@ -2,17 +2,17 @@
 
 from random import choice
 
-#create a list of players from a file
-players = []
-file = open('players.txt', 'r')
-players = file.read().splitlines()
-print('Players:', players)
+#cria uma lista de jogadores vindos de um arquivo
+jogadores= []
+arquivo= open('jogadores.txt', 'r')
+jogadores = arquivo.read().splitlines()
+print('Jogadores:', jogadores)
 
-#create a list of team names from a file
-teamNames = []
-file = open('teamNames.txt', 'r')
-teamNames = file.read().splitlines()
-print('Team names:', teamNames)
+#cria uma lista com as casas dos jogadores de um arquivo
+nomesCasas = []
+arquivo = open('nomesCasas.txt', 'r')
+nomesCasas = file.read().splitlines()
+print('Nome das Casas:', nomesCasas)
 
 #create empty team lists
 teamA = []
