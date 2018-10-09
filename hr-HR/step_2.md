@@ -1,21 +1,21 @@
-## Players
+## Igrači
 
-Let's start by creating a list of players to choose from.
+Započnimo sa kreiranjem popisa igrača koji će biti u timovima.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Otvori prazan Python predložak u Trinketu: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
++ **Listu** igrača možeš spremiti u varijablu. Lista se mora nalaziti unutar uglatih zagrada `[ ]`, a elemente liste potrebno je odvojiti zarezom.
     
-    Start by adding a list of players to your program.
+    Započni s dodavanjem liste igrača u svoj program.
     
     ![screenshot](images/team-create-players.png)
 
-+ Add this code to print your `players` variable:
++ Dodaj sljedeći kôd za ispisivanje varijable `igraci`:
     
     ![screenshot](images/team-print-players.png)
 
-+ You can get to an item in the list by adding its position in square brackets after the variable name.
++ Do elementa u listi možeš doći upisivanjem njegove pozicije unutar uglatih zagrada nakon imena varijable.
     
-    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
+    Prvi element liste ima **poziciju 0**. To se razlikuje od Scratcha gdje prvi element ima poziciju 1.
     
     ![screenshot](images/team-print-players-index.png)
