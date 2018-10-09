@@ -1,7 +1,7 @@
 --- challenge ---
-## Sfida: Immagazzinamento dei nomi di squadra
-Puoi immagazzinare in un file la tua lista di nomi di squadra?
 
+## Sfida: Salvataggio dei nomi dei team
 
+Riesci a salvare il tuo elenco di nomi di squadre in un file?
 
 --- /challenge ---
