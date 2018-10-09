@@ -1,34 +1,31 @@
 ## Scegliere tanti giocatori
 
-Dopo, dovrai assicurarti che ogni giocatore sia stato scelto per una squadra.
+Nel seguito dovrai assicurarti che ogni giocatore sia stato scelto per una squadra.
 
-+ Evidenzia il tuo codice per scegliere i giocatori per la squadra A e la squadra B, e premi il tasto tab per indentare il codice.
++ Evidenzia il tuo codice per scegliere i giocatori per la squadra A e la squadra B e premi il tasto tab per far rientrare (indentare) il codice.
+    
+    ![screenshot](images/team-loop-tab.png)
 
-	![screenshot](images/team-loop-tab.png)
++ Aggiungi un ciclo **while** per continuare a scegliere i giocatori finché la lunghezza della lista `giocatori` è pari a 0.
+    
+    ![screenshot](images/team-loop-while.png)
 
-+ Aggiungi un loop_while_per continuare a scegliere giocatori finché la lunghezza della lista di 'players' è 0.
++ Esegui il tuo codice per testarlo. Dovresti vedere che i giocatori vengono selezionati per la squadra A e la squadra B fino a quando non ce ne sono più da scegliere.
+    
+    ![screenshot](images/team-loop-test.png)
 
-	![screenshot](images/team-loop-while.png)
++ Aggiungi codice per stampare la lista `teamA` **dopo** il tuo ciclo ` while` (assicurandoti che non sia indentato).
+    
+    Ciò significa che il `teamA` verrà stampato una sola volta, dopo che tutti i giocatori sono stati scelti.
+    
+    ![screenshot](images/team-teamA-paste.png)
 
-+ Lancia il codice per vedere se funziona. Vedrai che verranno scelti giocatori per la squadra A e la squadra B finché non ne saranno rimasti più.
++ Puoi fare lo stesso per il `teamB` e puoi anche cancellare gli altri comandi di stampa, visto che erano lì solo per testare il tuo codice.
+    
+    Il tuo codice dovrebbe essere più o meno così:
+    
+    ![screenshot](images/team-loop-finished.png)
 
-	![screenshot](images/team-loop-test.png)
-
-+ Aggiungi un codice per stampare la tua lista 'teamA'_dopo_il tuo loop 'while' (assicurandoti che non sia indentato).
-
-	Questo significa che il 'teamA' verrà stampato solo una volta, dopo che sono stati scelti tutti i giocatori.
-
-	![screenshot](images/team-teamA-paste.png)
-
-+ Puoi fare la stessa cosa per 'teamB' e puoi anche cancellare gli altri comandi di stampa, in quanto erano lì solo per provare il tuo codice.
-
-	Il tuo codice dovrebbe apparire così:
-
-	![screenshot](images/team-loop-finished.png)
-
-+ Prova di nuovo il tuo codice e vedrai la tua lista di giocatori così come le squadre finali.
-
-	![screenshot](images/team-loop-finished-test.png)
-
-
-
++ Metti alla prova il tuo codice e dovresti vedere solo la tua lista di giocatori assieme ai team finali.
+    
+    ![screenshot](images/team-loop-finished-test.png)
