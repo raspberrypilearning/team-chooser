@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Storing team names
+## Izazov: Spremanje imena timova
 
-Can you store your list of team names in a file?
+Možeš li spremiti listu sa imenima timova u datoteku?
 
 \--- /challenge \---
