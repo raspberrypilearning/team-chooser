@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Izazov: Odaberi igrače za tim B
+## Challenge: Choosing for team B
 
-Možeš li dodati kôd kojim ćeš nasumično odabrati igrače za tim B? Trebaš učiniti sljedeće:
+Can you add code to choose a player at random for team B? You'll need to:
 
-+ Kreiraj novu listu imena `timB`
-+ Odaberi nasumičnog igrača za tim B (imena `igracB`)
-+ Naredbom `append` dodaj odabranog igrača listi `timB`
-+ Naredbom `remove` ukloni odabranog igraca sa liste `igraci`
++ Create a new `teamB` list
++ Choose a random player for team B (called `playerB`)
++ `append` the chosen player to your `teamB` list
++ `remove` the chosen player from your list of `players`
 
-Kôd za listu `timB` biti će **veoma** sličan kôdu koji si već napisao za listu `timA`!
+The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
 
 \--- /challenge \---
