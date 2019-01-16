@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## 挑战：更多团队
+## Challenge: More teams
 
-你可以改进你的程序，让它为3个而不是2个团队选择队员吗？
+Can you improve your program to split players into 3 teams instead of 2?
 
 \--- /challenge \---
