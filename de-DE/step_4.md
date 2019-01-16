@@ -10,9 +10,9 @@ Lass uns Spieler zufällig auswählen!
     
     ![screenshot](images/team-random-player.png)
 
-+ Test your `choice` code a few times and you should see a different player being chosen each time.
++ Teste deinen `choice` Code ein paar Mal und es sollte jedes Mal eine anderer Spieler ausgewählt werden.
 
-+ You can also create a new variable called `playerA`, and use it to store your random player.
++ Du kannst auch eine neue Variable mit dem Namen `spielerA` erstellen und sie dann zum Speichern deines zufälligen Spielers zu verwenden.
     
     ![screenshot](images/team-random-playerA.png)
 
