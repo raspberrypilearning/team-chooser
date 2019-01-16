@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Izazov: Nasumični nazivi timova
+## Challenge: Random team names
 
-Možeš li da daš svojim timovima nasumične nazive?
+Can you give both of your teams a random team name?
 
-Možeš da kreiraš listu koju ćeš nazvati `naziviTimova`. Lista će sadržati nazive timova koji mogu biti odabrani.
+You can create a list called `teamNames` containing the names to choose from.
 
-Zatim možeš da odabereš (i prikažeš) nasumičan naziv za svaki tim.
+You can then choose (and display) a random name for each team.
 
 ![screenshot](images/team-finished.png)
 
