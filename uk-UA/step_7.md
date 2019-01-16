@@ -1,25 +1,25 @@
-## Файли
+## Files
 
-Ви можете використовувати файл для зберігання вашого списку гравців.
+You can use a file to store your list of players.
 
-+ Натисніть піктограму + і створіть новий файл із назвою `players.txt`.
++ Click the + icon and create a new file called `players.txt`.
     
-    ![скріншот](images/team-file-create.png)
+    ![screenshot](images/team-file-create.png)
 
-+ Додайте своїх гравців до нового файлу. Переконайтеся, що після останнього гравця немає порожньої рядка.
++ Add your players to your new file. Make sure that there is no blank line after your last player.
     
-    ![скріншот](images/team-file-add.png)
+    ![screenshot](images/team-file-add.png)
 
-+ Змініть `гравців` список, щоб він був порожнім.
++ Change your `players` list so that it is empty.
     
-    ![скріншот](images/team-players-empty.png)
+    ![screenshot](images/team-players-empty.png)
 
-+ Відкрийте `player.txt` файл ( `'r'` означає лише читання).
++ Open your `players.txt` file (the `'r'` means read-only).
     
-    ![скріншот](images/team-file-open.png)
+    ![screenshot](images/team-file-open.png)
 
-+ Прочитайте список з файлу та додайте до `гравця` списку. (Код `splitlines` означає, що кожен рядок у файлі є новим елементом у списку `гравців`).
++ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
     
-    ![скріншот](images/team-file-load.png)
+    ![screenshot](images/team-file-load.png)
 
-+ Якщо ви перевіряєте свій код, він повинен працювати точно так само, як і раніше. Проте зараз простіше додавати гравців до вашого `players.txt` файлу.
++ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
