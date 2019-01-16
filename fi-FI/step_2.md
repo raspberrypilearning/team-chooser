@@ -1,21 +1,21 @@
-## Pelaajat
+## Players
 
-Aloitetaan luomalla luettelo pelaajista, joista voit valita.
+Let's start by creating a list of players to choose from.
 
-+ Avaa tyhjä Python-mallipohja Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Voit käyttää muuttujaa tallentamaan pelaajan **lista**. Luettelon tulisi olla hakasulkeissa `[]`, pilkulla jokaisen listan välillä.
++ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
     
-    Aloita lisäämällä ohjelmien luettelo pelaajista.
+    Start by adding a list of players to your program.
     
-    ![kuvakaappaus](images/team-create-players.png)
+    ![screenshot](images/team-create-players.png)
 
-+ Lisää tämä koodi tulostaa `pelaajasi` muuttuja:
++ Add this code to print your `players` variable:
     
-    ![kuvakaappaus](images/team-print-players.png)
+    ![screenshot](images/team-print-players.png)
 
-+ Voit päästä kohteeseen luettelossa lisäämällä sen sijainti hakasulkeissa muuttujan nimen jälkeen.
++ You can get to an item in the list by adding its position in square brackets after the variable name.
     
-    Listan ensimmäinen kohde on **asennossa 0**. Tämä eroaa Scratchistä, joka alkaa paikasta 1.
+    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
     
-    ![kuvakaappaus](images/team-print-players-index.png)
+    ![screenshot](images/team-print-players-index.png)
