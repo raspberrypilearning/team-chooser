@@ -1,7 +1,7 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Lưu trữ tên nhóm
+## Challenge: Storing team names
 
-Bạn có thể lưu trữ danh sách tên nhóm trong một tệp không?
+Can you store your list of team names in a file?
 
-\--- /thử thách \---
+\--- /challenge \---
