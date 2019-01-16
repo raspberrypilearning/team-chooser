@@ -1,35 +1,35 @@
-## ランダムプレイヤー
+## Random players
 
-ランダムプレイヤーを選んでみましょう！
+Let's choose random players!
 
-+ `人のプレイヤー` リストからランダムプレイヤーを得るには、まず `ランダム` モジュールのうちの `選択肢` をインポートする必要があります。
++ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
     
-    ![スクリーンショット](images/team-import-random.png)
+    ![screenshot](images/team-import-random.png)
 
-+ ランダムプレイヤーを取得するには、 `選択肢`使用します。 （個々のプレーヤーを印刷するコードを削除することもできます）。
++ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
     
-    ![スクリーンショット](images/team-random-player.png)
+    ![screenshot](images/team-random-player.png)
 
-+ `選択肢の` コードを数回テストし、毎回異なるプレーヤーが選択されるのを確認する必要があります。
++ Test your `choice` code a few times and you should see a different player being chosen each time.
 
-+ あなたはとも呼ばれる新しい変数を作成することができます `playerA`、そしてあなたのランダムプレイヤーを保存するためにそれを使用します。
++ You can also create a new variable called `playerA`, and use it to store your random player.
     
-    ![スクリーンショット](images/team-random-playerA.png)
+    ![screenshot](images/team-random-playerA.png)
 
-+ チームAのすべてのプレーヤーを保存するには、新しいリストが必要です。まず、このリストは空でなければなりません。
++ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
     
-    ![スクリーンショット](images/team-teamA.png)
+    ![screenshot](images/team-teamA.png)
 
-+ ランダムに選んだ選手を `チームに追加することができます`。 これを行うには、 `teamA.append` （**追加** は末尾に追加することを意味します）を使用できます。
++ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
     
-    ![スクリーンショット](images/team-teamA-add.png)
+    ![screenshot](images/team-teamA-add.png)
 
-+ あなたの選手が選出されたので、あなたは `人の選手のリストから選ぶことができます`。
++ Now that your player has been chosen, you can remove them from your list of `players`.
     
-    ![スクリーンショット](images/team-players-remove.png)
+    ![screenshot](images/team-players-remove.png)
 
-+ このコードをテストするには、 `print` コマンドを追加して、選んだ `人のプレイヤー` を表示します。
++ Test this code by adding a `print` command, to show the `players` left to choose from.
     
-    ![スクリーンショット](images/team-players-remove-test.png)
+    ![screenshot](images/team-players-remove-test.png)
     
-    上記の例では、Hermioneが `チームA`ために選ばれたので、 `人のプレイヤーのリストから削除されました`。
+    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
