@@ -1,6 +1,6 @@
-## Uvod:
+## Introduction:
 
-U ovom projektu naučićeš kako da kreiraš dva nasumična tima koristeći imena sa liste igrača.
+In this project, you'll learn how to create 2 random teams from a list of players.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,73 +8,73 @@ U ovom projektu naučićeš kako da kreiraš dva nasumična tima koristeći imen
   <img src="images/team-finished.png">
 </div>
 
-### Dodatne informacije za vođe kluba
+### Additional information for club leaders
 
-Ukoliko je potrebno da odštampate ovaj projekat, koristite [Verziju za štampu](https://projects.raspberrypi.org/en/projects/team-chooser/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print).
 
 ## \--- collapse \---
 
-## title: Bilješke za vođe kluba
+## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
-U ovom projektu djeca će naučiti kako da naprave program koji dijeli listu igrača na dva nasumična tima. U ovom projektu uči se izrada listi i korišćenje datoteka.
+In this project, children will learn how to make a program to split a list of players into 2 random teams. This project teaches lists and using files.
 
-## Online izvori
+## Online Resources
 
-**U ovom projektu koristi se Python 3.** Preporučujemo korišćenje [trinketa](https://trinket.io/) za online pisanje u Pythonu. Ovaj projekat sadrži sljedeće Trinkete:
+**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
-* [Novi (prazan) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [New (blank) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-Takođe postoji trinket koji sadrži završen projekat:
+There is also a trinket containing the completed project:
 
-* [Završen projekat 'Odaberi tim' -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* [‘Team Chooser’ Finished -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
-## Offline izvori
+## Offline Resources
 
-Ako želite, ovaj projekat može biti [izrađen offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Izvorima projekta možete pristupiti klikom na link projekta 'Projektni materijali'. Navedeni link sadrži odjeljak 'Izvori projekta' u kojem se nalaze izvori koji će djeci biti potrebni kako bi izradila ovaj projekat offline. Obezbijedite da svako dijete ima pristup kopiji ovih izvora. Odjeljak sadrži sljedeće datoteke:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * team/team.py
 
-Takođe, završenu verziju ovoga projekta možete naći u odjeljku 'Izvori za volontere' koji sadrži:
+You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
 
 * team-finished/team.py
 
-(Sve navedene izvore moguće je preuzeti kao `.zip` datoteke.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Ciljevi učenja
+## Learning Objectives
 
-* Liste;
-* Učitavanje podataka sa liste iz datoteke.
+* Lists;
+* Loading list data from a file.
 
-Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Koristite osnovne programske konstrukcije za kreiranje jednostavnih programa.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Izazovi
+## Challenges
 
-* ''Dodaj još igrača'' - dodavanje elemenata na listu `igraci`;
-* ''Odaberi igrača za tim B'' - kreiranje nove liste `timB` na koju će biti dodati nasumično odabrani igrači;
-* ''Nasumični nazivi timova'' - kreiranje i korišćenje nove liste `naziviTimova` za dodjeljivanje nasumično odabranih naziva timovima;
-* ''Čuvanje naziva timova'' - smještanje naziva timova u datoteku i učitavanje naziva u promjenljivu `naziviTimova`;
-* ''Više timova'' - podjela igrača u 3 tima, umjesto u 2.
+* "Adding more players" - adding elements to a `players` list;
+* "Choosing for team B" - creating a new `teamB` list to add random players to;
+* "Random team names" - creating and using a new `teamNames` list to assign random names to teams;
+* "Storing team names" - storing team names in a file, and loading them into a `teamNames` variable;
+* "More teams" - splitting players into 3 teams instead of 2.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Projektni materijali
+## title: Project materials
 
-## Izvori projekta
+## Project resources
 
-* [.zip datoteka koja sadrži sve izvore projekta](resources/team-chooser-project-resources.zip)
-* [Online prazan Python Trinket](http://jumpto.cc/python-new)
-* [Offline prazna Python datoteka](resources/new-new.py)
+* [.zip file containing all project resources](resources/team-chooser-project-resources.zip)
+* [Online blank Python Trinket](http://jumpto.cc/python-new)
+* [Offline blank Python file](resources/new-new.py)
 
-## Izvori za vođe kluba
+## Club leader resources
 
-* [.zip datoteka koja sadrži sve završene izvore projekta](resources/team-chooser-volunteer-resources.zip)
-* [Završen Trinket projekat online](https://trinket.io/python/a699c44ce6)
+* [.zip file containing all completed project resources](resources/team-chooser-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 \--- /collapse \---
