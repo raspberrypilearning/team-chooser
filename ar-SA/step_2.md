@@ -1,21 +1,21 @@
-## لاعبين
+## Players
 
-لنبدأ بإنشاء قائمة من اللاعبين للاختيار من بينها.
+Let's start by creating a list of players to choose from.
 
-+ افتح trinket يحتوي على قالب Python فارغ:<a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ يمكنك استخدام متغير لتخزين قائمة **** من اللاعبين. يجب أن تكون القائمة بين أقواس مربعة `[]` ، مع فاصلة بين كل عنصر في القائمة.
++ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
     
-    ابدأ بإضافة قائمة باللاعبين إلى برنامجك.
+    Start by adding a list of players to your program.
     
-    ![لقطة الشاشة](images/team-create-players.png)
+    ![screenshot](images/team-create-players.png)
 
-+ إضافة هذه التعليمة البرمجية لطباعة متغير `اللاعبين` الخاصة بك:
++ Add this code to print your `players` variable:
     
-    ![لقطة الشاشة](images/team-print-players.png)
+    ![screenshot](images/team-print-players.png)
 
-+ يمكنك الوصول إلى عنصر في القائمة بإضافة موضعه بين أقواس مربعة بعد اسم المتغير.
++ You can get to an item in the list by adding its position in square brackets after the variable name.
     
-    العنصر الأول في القائمة هو في **الموضع 0**. هذا يختلف عن سكراتش ، التي تبدأ في الموضع 1.
+    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
     
-    ![لقطة الشاشة](images/team-print-players-index.png)
+    ![screenshot](images/team-print-players-index.png)
