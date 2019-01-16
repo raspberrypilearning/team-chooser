@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## التحدي: تخزين أسماء الفريق
+## Challenge: Storing team names
 
-هل يمكنك تخزين قائمة أسماء الفرق في ملف؟
+Can you store your list of team names in a file?
 
 \--- /challenge \---
