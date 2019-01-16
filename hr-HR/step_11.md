@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Izazov: Više timova
+## Challenge: More teams
 
-Možeš li poboljšati svoj program tako da dijeli igrače u 3 tima, a ne 2?
+Can you improve your program to split players into 3 teams instead of 2?
 
 \--- /challenge \---
