@@ -1,21 +1,21 @@
-## 奇妙な選手
+## Odd players
 
-奇数のプレイヤーと作業するようプログラムを改善してみましょう。
+Let's improve your program to work with an odd number of players.
 
-+ プレイヤー数が奇数になるように、 `players.txt` リストに別の名前を追加します。
++ Add another name to your `players.txt` list, so that you have an odd number of players.
     
-    ![スクリーンショット](images/team-luna.png)
+    ![screenshot](images/team-luna.png)
 
-+ コードをテストすると、エラーメッセージが表示されます。
++ If you test your code, you'll see that you get an error message.
     
-    ![スクリーンショット](images/team-error.png)
+    ![screenshot](images/team-error.png)
 
-+ このエラーは、あなたのプログラムがAチームとBチームのランダムプレイヤーを選択し続けるためです。しかし、奇数のプレーヤーがある場合、Aチームのプレーヤーを選んだ後、Bチームの選手はいません。
++ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
     
-    このバグを修正するには、にあなたのプログラムを伝えることができます `ブレーク` あなたのうち `中` お使いの場合はループ `選手` リストは空です。
+    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
     
-    ![スクリーンショット](images/team-fix.png)
+    ![screenshot](images/team-fix.png)
 
-+ コードを再度テストすると、奇数のプレイヤーで動作することがわかります。
++ If you test your code again, you should see that it now works with an odd number of players.
     
-    ![スクリーンショット](images/team-fix-test.png)
+    ![screenshot](images/team-fix-test.png)
