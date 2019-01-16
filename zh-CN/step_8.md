@@ -1,21 +1,21 @@
-## Odd players
+## 奇数数量的队员
 
-Let's improve your program to work with an odd number of players.
+让我们改进你的程序使它还能够处理数量为奇数的队员。
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ 向你的`players.txt`列表文件中再添加一个队员名字，这样你就有了奇数数量的队员。
     
-    ![screenshot](images/team-luna.png)
+    ![截图](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ 如果测试你的代码，你将看到一条错误信息。
     
-    ![screenshot](images/team-error.png)
+    ![截图](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ 这个错误是因为你的程序一直循环在为A队和B队选择随机队员，如果队员总数为奇数的话，在最后一轮中当为A队选好队员之后B队就没有队员可以选择了。
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    要修复这个问题，你可以告诉你的程序如果`players`列表为空，则使用`break`来跳出你的`while`循环、
     
-    ![screenshot](images/team-fix.png)
+    ![截图](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ 当你再次测试你的代码，你应该看到现在它可以处理奇数数量的队员了。
     
-    ![screenshot](images/team-fix-test.png)
+    ![截图](images/team-fix-test.png)
