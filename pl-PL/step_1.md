@@ -28,7 +28,7 @@ W tym projekcie dzieci nauczą się, jak stworzyć program dzielący listę grac
 
 Dostępny jest też szablon zawierający ukończony projekt:
 
-* [Ukończony projekt "Selekcjoner" - trinket.io/python/a699c44ce6](https://trinket.io/python/8638d150aa)
+* [Ukończony projekt "Selekcjoner" - trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
 ## Zasoby Offline
 
@@ -74,7 +74,7 @@ Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspbe
 ## Zasoby dla lidera klubu
 
 * [Plik .zip zawierający zasoby z ukończonym projektem](resources/team-chooser-volunteer-resources.zip)
-* [Ukończony projekt "Selekcjoner"](https://trinket.io/python/8638d150aa)
+* [Ukończony projekt "Selekcjoner"](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 \--- /collapse \---
