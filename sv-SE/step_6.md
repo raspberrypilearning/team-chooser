@@ -1,31 +1,31 @@
-## Välja massor av spelare
+## Choosing lots of players
 
-Därefter måste du se till att varje spelare har valts för ett lag.
+Next you'll need to make sure that every player has been chosen for a team.
 
-+ Markera din kod för att välja spelare för lag A och lag B och tryck på flikknappen för att dra in koden.
++ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
     
-    ![skärmdump](images/team-loop-tab.png)
+    ![screenshot](images/team-loop-tab.png)
 
-+ Lägg till en **** slinga för att fortsätta välja spelare tills längden på de `spelare` listan är 0.
++ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
     
-    ![skärmdump](images/team-loop-while.png)
+    ![screenshot](images/team-loop-while.png)
 
-+ Kör din kod för att testa den. Du bör se spelare väljas för lag A och lag B tills det inte finns fler spelare kvar.
++ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
     
-    ![skärmdump](images/team-loop-test.png)
+    ![screenshot](images/team-loop-test.png)
 
-+ Lägg till kod för att skriva ut ditt `teamA` lista **efter** din `medan` loop (se till att den inte är inryckt).
++ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
     
-    Det betyder att `teamA` bara kommer att skrivas ut en gång, efter att alla spelare har valts.
+    This means that `teamA` will only be printed once, after all the players have been chosen.
     
-    ![skärmdump](images/team-teamA-paste.png)
+    ![screenshot](images/team-teamA-paste.png)
 
-+ Du kan göra detsamma för `teamB`, och du kan även ta bort de andra skrivkommandon, eftersom de bara var där för att testa din kod.
++ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
     
-    Så här ser din kod ut:
+    Here's how your code should look:
     
-    ![skärmdump](images/team-loop-finished.png)
+    ![screenshot](images/team-loop-finished.png)
 
-+ Testa din kod igen och du bör bara se din lista över spelare samt dina slutliga lag.
++ Test your code again and you should just see your list of players as well as your final teams.
     
-    ![skärmdump](images/team-loop-finished-test.png)
+    ![screenshot](images/team-loop-finished-test.png)
