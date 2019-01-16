@@ -2,48 +2,48 @@
 
 from random import choice
 
-#create a list of players from a file
-players = []
-file = open('players.txt', 'r')
-players = file.read().splitlines()
-print('Players:', players)
+#kreiraj listu igrača iz datoteke
+igraci = []
+datoteka = open('igraci.txt', 'r')
+igraci = datoteka.read().splitlines()
+print('Igrači:', igraci)
 
-#create a list of team names from a file
-teamNames = []
-file = open('teamNames.txt', 'r')
-teamNames = file.read().splitlines()
-print('Team names:', teamNames)
+#kreiraj listu naziva timova iz datoteke
+naziviTimova = []
+datoteka = open('naziviTimova.txt', 'r')
+naziviTimova = datoteka.read().splitlines()
+print('Nazivi timova:', naziviTimova)
 
-#create empty team lists
-teamA = []
-teamB = []
+#kreiraj prazne liste timova
+timA = []
+timB = []
 
-#loop until there are no players left
-while len(players) > 0:
+#ponavljaj dok više ne bude igrača
+while len(igraci) > 0:
   
-  #choose a random player for team A
-  playerA = choice(players)
-  teamA.append(playerA)
-  #remove the player from the players list
-  players.remove(playerA)
+  #odaberi nasumičnog igrača za tim A
+  igracA = choice(igraci)
+  timA.append(igracA)
+  #ukloni igrača sa liste igrača
+  igraci.remove(igracA)
   
-  #break out of the loop if there are no players left
-  if players == []: 
+  #zaustavi petlju ako više nema igrača
+  if igraci == []: 
     break
   
-  #choose a random player for team B
-  playerB = choice(players)
-  teamB.append(playerB)
-  #remove the player from the players list
-  players.remove(playerB)
+  #odaberi nasumičnog igrača za tim B
+  igracB = choice(igraci)
+  timB.append(igracB)
+  #ukloni igrača sa liste igrača
+  igraci.remove(igracB)
 
-#choose random team names for the 2 teams
-teamNameA = choice(teamNames)
-teamNames.remove(teamNameA)
-teamNameB = choice(teamNames)
-teamNames.remove(teamNameB)
+#odaberi nasumične nazive za 2 tima
+nazivTimaA = choice(naziviTimova)
+naziviTimova.remove(nazivTimaA)
+nazivTimaB = choice(naziviTimova)
+naziviTimova.remove(nazivTimaB)
 
-#print the teams
-print('\nHere are your teams:\n')
-print(teamNameA, teamA)
-print(teamNameB, teamB)
+#ispiši timove
+print('\nOvo su tvoji timovi:\n')
+print(nazivTimaA, timA)
+print(nazivTimaB, timB)
