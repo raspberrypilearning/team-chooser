@@ -1,21 +1,21 @@
-## 队员
+## Players
 
-让我们首先创建一个可供选择的队员列表。
+Let's start by creating a list of players to choose from.
 
-+ 单击链接<a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>，打开一个空白的Trinket Python模版。
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ 您可以使用变量来保存队员**列表** 列表应在一对方括号`[ ]`中 ，列表中的成员之间用逗号分隔。
++ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
     
-    首先在你的程序中添加一个队员列表。
+    Start by adding a list of players to your program.
     
-    ![截图](images/team-create-players.png)
+    ![screenshot](images/team-create-players.png)
 
-+ 添加此代码以显示`players`变量：
++ Add this code to print your `players` variable:
     
-    ![截图](images/team-print-players.png)
+    ![screenshot](images/team-print-players.png)
 
-+ 您可以通过在变量名称后面的方括号中添加其位置来获取列表中的一个成员。
++ You can get to an item in the list by adding its position in square brackets after the variable name.
     
-    列表中的第一个成员的位置是**０**。 这与Scratch不同，后者是从1开始。
+    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
     
-    ![截图](images/team-print-players-index.png)
+    ![screenshot](images/team-print-players-index.png)
