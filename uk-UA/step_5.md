@@ -1,14 +1,14 @@
-\--- завдання \---
+\--- challenge \---
 
-## Виклик: вибір команди Б.
+## Challenge: Choosing for team B
 
-Чи можете ви додати код для вибору гравця випадковим для команди Б? Вам потрібно буде:
+Can you add code to choose a player at random for team B? You'll need to:
 
-+ Створіть новий `teamB` список
-+ Виберіть випадковий гравець для команди B (називається `playerB`)
-+ `додати` вибраного гравця до списку `teamB`
-+ `видалити` вибраного гравця зі свого списку `гравців`
++ Create a new `teamB` list
++ Choose a random player for team B (called `playerB`)
++ `append` the chosen player to your `teamB` list
++ `remove` the chosen player from your list of `players`
 
-Код, який вам буде потрібно для `teamB` , буде **дуже** подібним до коду, який ви вже написали для `teamA`!
+The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
 
-\--- / виклик \---
+\--- /challenge \---
