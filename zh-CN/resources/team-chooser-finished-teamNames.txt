@@ -1,6 +1,6 @@
-鳄鱼队
-猩猩队
-老鹰队
-蟒蛇队
-黄蜂队
-黑豹队
+Alligators
+Gorillas
+Eagles
+Pythons
+Wasps
+Panthers
