@@ -1,13 +1,13 @@
-\--- завдання \---
+\--- challenge \---
 
-## Виклик: випадкові імена команди
+## Challenge: Random team names
 
-Ви можете надати обом вашим командам назву випадкової команди?
+Can you give both of your teams a random team name?
 
-Ви можете створити список, який називається `teamNames` , що містить імена на вибір.
+You can create a list called `teamNames` containing the names to choose from.
 
-Потім ви можете вибрати (і відображати) випадкове ім'я для кожної команди.
+You can then choose (and display) a random name for each team.
 
-![скріншот](images/team-finished.png)
+![screenshot](images/team-finished.png)
 
-\--- / виклик \---
+\--- /challenge \---
