@@ -18,13 +18,13 @@ version: 3
 last_tested: 2018-04-05
 steps:
   - 
-    title: 'Einführung'
+    title: 'Einleitung: '
   - 
     title: Mitspieler
   - 
     title: 'Aufgabe: Weitere Mitspieler hinzufügen'
   - 
-    title: Beliebige Mitspieler
+    title: Zufällig ausgesuchte Mitspieler
   - 
     title: 'Aufgabe:  Für Team B wählen'
   - 
@@ -32,9 +32,9 @@ steps:
   - 
     title: Dateien
   - 
-    title: Ungleiche Anzahl an Mitspielern
+    title: Ungerade Anzahl an Mitspielern
   - 
-    title: 'Aufgabe: Beliebige Team-Namen'
+    title: 'Aufgabe: Zufällige Team-Namen'
   - 
     title: 'Aufgabe: Team Namen speichern'
   - 
