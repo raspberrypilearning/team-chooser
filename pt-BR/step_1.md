@@ -1,6 +1,6 @@
-## Introdução:
+## Introduction:
 
-Neste projeto, você aprenderá a criar duas equipes aleatórias de uma lista de jogadores.
+In this project, you'll learn how to create 2 random teams from a list of players.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,73 +8,73 @@ Neste projeto, você aprenderá a criar duas equipes aleatórias de uma lista de
   <img src="images/team-finished.png">
 </div>
 
-### Informação adicional para líderes de clubes
+### Additional information for club leaders
 
-Se você precisar imprimir este projeto, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/team-chooser/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print).
 
-## \--- colapso \---
+## \--- collapse \---
 
-## título: notas do líder do clube
+## title: Club leader notes
 
-## Introdução:
+## Introduction:
 
-Neste projeto, as crianças aprenderão como fazer um programa para dividir uma lista de jogadores em duas equipes aleatórias. Este projeto ensina listas e usa arquivos.
+In this project, children will learn how to make a program to split a list of players into 2 random teams. This project teaches lists and using files.
 
-## Recursos online
+## Online Resources
 
-**Este projeto usa o Python 3.** Recomendamos usar [trinket](https://trinket.io/) para escrever Python online. Este projeto contém os seguintes Trinkets:
+**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
-* [Novo Trinket Python (em branco) - jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [New (blank) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-Há também uma bugiganga contendo o projeto concluído:
+There is also a trinket containing the completed project:
 
-* ['Team Chooser' terminado - trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* [‘Team Chooser’ Finished -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
-## Recursos offline
+## Offline Resources
 
-Este projeto pode ser [concluído off-line](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) , se preferir. Você pode acessar os recursos do projeto clicando no link 'Project Materials' para este projeto. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* team / team.py
+* team/team.py
 
-Você também pode encontrar uma versão completa deste projeto na seção 'Recursos para Voluntários', que contém:
+You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
 
-* team-finished / team.py
+* team-finished/team.py
 
-(Todos os recursos acima também podem ser baixados como arquivos `.zip` do projeto e voluntários.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## objetivos de aprendizado
+## Learning Objectives
 
-* Listas;
-* Carregando dados da lista de um arquivo.
+* Lists;
+* Loading list data from a file.
 
-Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Desafios
+## Challenges
 
-* "Adicionando mais jogadores" - adicionando elementos a uma lista de `jogadores`;
-* "Escolhendo para o time B" - criando uma nova lista `teamB` para adicionar jogadores aleatórios;
-* "Random team names" - criando e usando uma nova lista `teamNames` para atribuir nomes aleatórios às equipes;
-* "Armazenando nomes de equipe" - armazenando nomes de equipe em um arquivo e carregando-os em uma variável `teamNames`;
-* "Mais equipas" - dividindo os jogadores em 3 equipas em vez de 2.
+* "Adding more players" - adding elements to a `players` list;
+* "Choosing for team B" - creating a new `teamB` list to add random players to;
+* "Random team names" - creating and using a new `teamNames` list to assign random names to teams;
+* "Storing team names" - storing team names in a file, and loading them into a `teamNames` variable;
+* "More teams" - splitting players into 3 teams instead of 2.
 
-\--- / colapso \---
+\--- /collapse \---
 
-## \--- colapso \---
+## \--- collapse \---
 
-## Título: Materiais do projeto
+## title: Project materials
 
-## Recursos do projeto
+## Project resources
 
-* [arquivo .zip contendo todos os recursos do projeto](resources/team-chooser-project-resources.zip)
-* [Trinket de Python em branco on-line](http://jumpto.cc/python-new)
-* [Arquivo Python offline em branco](resources/new-new.py)
+* [.zip file containing all project resources](resources/team-chooser-project-resources.zip)
+* [Online blank Python Trinket](http://jumpto.cc/python-new)
+* [Offline blank Python file](resources/new-new.py)
 
-## Recursos do líder do clube
+## Club leader resources
 
-* [arquivo .zip contendo todos os recursos do projeto concluídos](resources/team-chooser-volunteer-resources.zip)
-* [Projeto Trinket concluído online](https://trinket.io/python/a699c44ce6)
-* [team-chooser-finished / team-chooser.py](resources/team-chooser-finished-team-chooser.py)
+* [.zip file containing all completed project resources](resources/team-chooser-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
+* [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
-\--- / colapso \---
+\--- /collapse \---
