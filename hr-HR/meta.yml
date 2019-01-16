@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Odaberi tim
-description: U ovom projektu ćeš naučiti kako kreirati dva nasumična tima koristeći imena igrača sa datog popisa.
+title: Team Chooser
+description: Make a program to split players into 2 random teams.
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
 interests: games
 technologies: python
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2018-04-05
 steps:
   - 
-    title: 'Uvod: '
+    title: 'Introduction: '
   - 
-    title: Igrači
+    title: Players
   - 
-    title: 'Izazov: Dodaj još igrača'
+    title: 'Challenge: Adding more players'
   - 
-    title: Nasumični igrači
+    title: Random players
   - 
-    title: 'Izazov: Odaberi igrače za tim B'
+    title: 'Challenge: Choosing for team B'
   - 
-    title: Odabir više igrača
+    title: Choosing lots of players
   - 
-    title: Datoteke
+    title: Files
   - 
-    title: Neparan broj igrača
+    title: Odd players
   - 
-    title: 'Izazov: Nasumična imena timova'
+    title: 'Challenge: Random team names'
   - 
-    title: 'Izazov: Spremanje imena timova'
+    title: 'Challenge: Storing team names'
   - 
-    title: 'Izazov: Više timova'
+    title: 'Challenge: More teams'
