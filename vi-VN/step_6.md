@@ -1,31 +1,31 @@
-## Chọn rất nhiều người chơi
+## Choosing lots of players
 
-Tiếp theo, bạn sẽ cần đảm bảo rằng mọi người chơi đã được chọn cho một đội.
+Next you'll need to make sure that every player has been chosen for a team.
 
-+ Đánh dấu mã của bạn để chọn người chơi cho đội A và đội B và nhấn phím tab để thụt lề mã.
++ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
     
-    ![ảnh chụp màn hình](images/team-loop-tab.png)
+    ![screenshot](images/team-loop-tab.png)
 
-+ Thêm vòng lặp **trong khi** để tiếp tục chọn người chơi cho đến khi độ dài của danh sách `người chơi` là 0.
++ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
     
-    ![ảnh chụp màn hình](images/team-loop-while.png)
+    ![screenshot](images/team-loop-while.png)
 
-+ Chạy mã của bạn để kiểm tra nó. Bạn sẽ thấy người chơi được chọn cho đội A và đội B cho đến khi không còn người chơi nào nữa.
++ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
     
-    ![ảnh chụp màn hình](images/team-loop-test.png)
+    ![screenshot](images/team-loop-test.png)
 
-+ Thêm mã để in danh sách `teamA` của bạn **sau** vòng `của bạn trong khi` vòng lặp (đảm bảo nó không bị thụt lề).
++ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
     
-    Điều này có nghĩa rằng `teamA` sẽ chỉ được in một lần, sau khi tất cả các cầu thủ đã được chọn.
+    This means that `teamA` will only be printed once, after all the players have been chosen.
     
-    ![ảnh chụp màn hình](images/team-teamA-paste.png)
+    ![screenshot](images/team-teamA-paste.png)
 
-+ Bạn có thể làm tương tự cho `teamB`và bạn cũng có thể xóa các lệnh in khác, vì chúng chỉ ở đó để kiểm tra mã của bạn.
++ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
     
-    Đây là cách mã của bạn nên xem xét:
+    Here's how your code should look:
     
-    ![ảnh chụp màn hình](images/team-loop-finished.png)
+    ![screenshot](images/team-loop-finished.png)
 
-+ Kiểm tra lại mã của bạn và bạn sẽ chỉ thấy danh sách người chơi cũng như các đội cuối cùng của mình.
++ Test your code again and you should just see your list of players as well as your final teams.
     
-    ![ảnh chụp màn hình](images/team-loop-finished-test.png)
+    ![screenshot](images/team-loop-finished-test.png)
