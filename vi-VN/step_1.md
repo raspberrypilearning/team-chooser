@@ -1,6 +1,6 @@
-## Giới thiệu:
+## Introduction:
 
-Trong dự án này, bạn sẽ học cách tạo 2 đội ngẫu nhiên từ danh sách người chơi.
+In this project, you'll learn how to create 2 random teams from a list of players.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,73 +8,73 @@ Trong dự án này, bạn sẽ học cách tạo 2 đội ngẫu nhiên từ da
   <img src="images/team-finished.png">
 </div>
 
-### Thông tin bổ sung cho các nhà lãnh đạo câu lạc bộ
+### Additional information for club leaders
 
-Nếu bạn cần in dự án này, hãy sử dụng [phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/team-chooser/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print).
 
-## \--- sự sụp đổ \---
+## \--- collapse \---
 
-## title: Ghi chú của leader club
+## title: Club leader notes
 
-## Giới thiệu:
+## Introduction:
 
-Trong dự án này, trẻ sẽ học cách tạo một chương trình chia danh sách người chơi thành 2 nhóm ngẫu nhiên. Dự án này dạy danh sách và sử dụng tệp.
+In this project, children will learn how to make a program to split a list of players into 2 random teams. This project teaches lists and using files.
 
-## Những nguồn thông tin trên mạng
+## Online Resources
 
-**Dự án này sử dụng Python 3.** Chúng tôi khuyên bạn nên sử dụng [trinket](https://trinket.io/) để viết Python trực tuyến. Dự án này chứa các nữ trang sau đây:
+**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
-* [Mới (trống) Trinket Python - jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [New (blank) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-Ngoài ra còn có một vật đính kèm chứa dự án đã hoàn thành:
+There is also a trinket containing the completed project:
 
-* ['Team Chooser' Finished - trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* [‘Team Chooser’ Finished -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
-## Tài nguyên ngoại tuyến
+## Offline Resources
 
-Dự án này có thể là [hoàn thành ngoại tuyến](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) nếu được ưu tiên. Bạn có thể truy cập tài nguyên dự án bằng cách nhấp vào liên kết 'Tài liệu Dự án' cho dự án này. Liên kết này chứa phần 'Tài nguyên dự án', bao gồm các tài nguyên mà trẻ em sẽ cần để hoàn thành dự án này ngoại tuyến. Đảm bảo rằng mỗi đứa trẻ đều có quyền truy cập vào một bản sao của các tài nguyên này. Phần này bao gồm các tệp sau:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* team / team.py
+* team/team.py
 
-Bạn cũng có thể tìm thấy phiên bản hoàn chỉnh của dự án này trong phần 'Tài nguyên tình nguyện', trong đó có:
+You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
 
-* team-finished / team.py
+* team-finished/team.py
 
-(Tất cả các tài nguyên trên cũng có thể tải xuống dưới dạng dự án và tình nguyện viên `.zip` tệp.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Mục tiêu học tập
+## Learning Objectives
 
-* Danh sách;
-* Đang tải dữ liệu danh sách từ một tệp.
+* Lists;
+* Loading list data from a file.
 
-Dự án này bao gồm các yếu tố từ các chuỗi sau đây của [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Thách thức
+## Challenges
 
-* "Thêm nhiều người chơi" - yếu tố làm tăng thêm một `người chơi` danh sách;
-* "Chọn đội B" - tạo danh sách `teamB` để thêm người chơi ngẫu nhiên vào;
-* "Tên nhóm ngẫu nhiên" - tạo và sử dụng danh sách `teamNames` để gán tên ngẫu nhiên cho các đội;
-* "Lưu trữ tên nhóm" - lưu trữ tên nhóm trong một tệp và tải chúng thành biến số `teamNames`;
-* "Nhiều đội hơn" - chia người chơi thành 3 đội thay vì 2.
+* "Adding more players" - adding elements to a `players` list;
+* "Choosing for team B" - creating a new `teamB` list to add random players to;
+* "Random team names" - creating and using a new `teamNames` list to assign random names to teams;
+* "Storing team names" - storing team names in a file, and loading them into a `teamNames` variable;
+* "More teams" - splitting players into 3 teams instead of 2.
 
-\--- /sự sụp đổ \---
+\--- /collapse \---
 
-## \--- sự sụp đổ \---
+## \--- collapse \---
 
-## title: Tài liệu dự án
+## title: Project materials
 
-## Tài nguyên dự án
+## Project resources
 
-* [tệp .zip chứa tất cả tài nguyên dự án](resources/team-chooser-project-resources.zip)
-* [Trực tuyến trống Python Trinket](http://jumpto.cc/python-new)
-* [Tệp Python trống ngoại tuyến](resources/new-new.py)
+* [.zip file containing all project resources](resources/team-chooser-project-resources.zip)
+* [Online blank Python Trinket](http://jumpto.cc/python-new)
+* [Offline blank Python file](resources/new-new.py)
 
-## Tài nguyên lãnh đạo câu lạc bộ
+## Club leader resources
 
-* [tệp .zip chứa tất cả tài nguyên dự án đã hoàn thành](resources/team-chooser-volunteer-resources.zip)
-* [Dự án Trinket hoàn thành trực tuyến](https://trinket.io/python/a699c44ce6)
-* [team-chooser-finished / team-chooser.py](resources/team-chooser-finished-team-chooser.py)
+* [.zip file containing all completed project resources](resources/team-chooser-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
+* [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
-\--- /sự sụp đổ \---
+\--- /collapse \---
