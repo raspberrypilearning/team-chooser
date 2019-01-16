@@ -1,49 +1,49 @@
 #!/bin/python3
 
-from random import randint
+from random import choice
 
-#从文件中导入队员名单
+#create a list of players from a file
 players = []
 file = open('players.txt', 'r')
 players = file.read().splitlines()
-print('队员：', players)
+print('Players:', players)
 
-#从文件中导入团队名单
+#create a list of team names from a file
 teamNames = []
 file = open('teamNames.txt', 'r')
 teamNames = file.read().splitlines()
-print('队名：', teamNames)
+print('Team names:', teamNames)
 
-#创建空的团队人员名单
+#create empty team lists
 teamA = []
 teamB = []
 
-#重复循环直到所有队员全部被选走
+#loop until there are no players left
 while len(players) > 0:
   
-  #为A队随机选择一名队员
+  #choose a random player for team A
   playerA = choice(players)
   teamA.append(playerA)
-  #将已选的队员从队员名单中去除
+  #remove the player from the players list
   players.remove(playerA)
   
-  #如果没有队员剩下了，则跳出循环
+  #break out of the loop if there are no players left
   if players == []: 
     break
   
-  #为B队随机选择一名队员
+  #choose a random player for team B
   playerB = choice(players)
   teamB.append(playerB)
-  #将已选的队员从队员名单中去除
+  #remove the player from the players list
   players.remove(playerB)
 
-#为两队随机选择队名
+#choose random team names for the 2 teams
 teamNameA = choice(teamNames)
 teamNames.remove(teamNameA)
 teamNameB = choice(teamNames)
 teamNames.remove(teamNameB)
 
-#显示两队的名字和队员名单
-print('\n这是你的团队：\n')
+#print the teams
+print('\nHere are your teams:\n')
 print(teamNameA, teamA)
 print(teamNameB, teamB)
