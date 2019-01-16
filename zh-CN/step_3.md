@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Adding more players
+## 挑战：添加更多队员
 
-Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
+你可以向你的列表中添加更多队员吗？ 您可以添加任意数量的队员，但要确保队员的总数量是**偶数**。
 
-You can also change the names of the first 2 players if you prefer.
+如果您愿意，也可以更改最先2名队员的名字。
 
-Can you add code to print **just one** of your new players?
+你可以添加代码来只输出显示**一个**你的新队员吗？
 
 \--- /challenge \---
