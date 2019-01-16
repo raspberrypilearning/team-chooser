@@ -1,14 +1,14 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Lựa chọn đội B
+## Challenge: Choosing for team B
 
-Bạn có thể thêm mã để chọn ngẫu nhiên người chơi cho đội B không? Bạn sẽ cần phải:
+Can you add code to choose a player at random for team B? You'll need to:
 
-+ Tạo danh sách `teamB`
-+ Chọn một cầu thủ ngẫu nhiên cho đội B (được gọi là `playerB`)
-+ `nối thêm` người chơi đã chọn vào danh sách `teamB` của bạn
-+ `xóa` người chơi đã chọn khỏi danh sách `người chơi của bạn`
++ Create a new `teamB` list
++ Choose a random player for team B (called `playerB`)
++ `append` the chosen player to your `teamB` list
++ `remove` the chosen player from your list of `players`
 
-Mã bạn cần cho `teamB` sẽ là **rất** giống với mã bạn đã viết cho `teamA`!
+The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
 
-\--- /thử thách \---
+\--- /challenge \---
