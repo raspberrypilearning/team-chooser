@@ -1,31 +1,31 @@
-## Вибір багатьох гравців
+## Choosing lots of players
 
-Далі вам потрібно буде переконатися, що кожен гравець вибраний для команди.
+Next you'll need to make sure that every player has been chosen for a team.
 
-+ Виділіть свій код для вибору гравців для команди A та команди B і натисніть клавішу tab, щоб відступити код.
++ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
     
-    ![скріншот](images/team-loop-tab.png)
+    ![screenshot](images/team-loop-tab.png)
 
-+ Додайте **, поки** цикл, щоб продовжувати вибирати гравців, доки тривалість `гравців` не буде 0.
++ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
     
-    ![скріншот](images/team-loop-while.png)
+    ![screenshot](images/team-loop-while.png)
 
-+ Запустіть код, щоб перевірити його. Ви повинні побачити гравців, вибраних для команди А та команди Б, поки не залишиться більше гравців.
++ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
     
-    ![скріншот](images/team-loop-test.png)
+    ![screenshot](images/team-loop-test.png)
 
-+ Додайте код, щоб надрукувати `teamA` список **після** вашої `, а` - цикл (переконайтеся, що він не відступується).
++ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
     
-    Це означає, що `teamA` буде надруковано лише один раз після вибору всіх гравців.
+    This means that `teamA` will only be printed once, after all the players have been chosen.
     
-    ![скріншот](images/team-teamA-paste.png)
+    ![screenshot](images/team-teamA-paste.png)
 
-+ Ви можете зробити те ж саме для `teamB`, і ви також можете видалити інші команди друку, оскільки вони були лише там, щоб перевірити ваш код.
++ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
     
-    Ось як виглядає ваш код:
+    Here's how your code should look:
     
-    ![скріншот](images/team-loop-finished.png)
+    ![screenshot](images/team-loop-finished.png)
 
-+ Перевірте свій код ще раз, і ви повинні просто побачити свій список гравців, а також ваших остаточних команд.
++ Test your code again and you should just see your list of players as well as your final teams.
     
-    ![скріншот](images/team-loop-finished-test.png)
+    ![screenshot](images/team-loop-finished-test.png)
