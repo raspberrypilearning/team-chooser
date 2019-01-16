@@ -1,35 +1,35 @@
-## Випадкові гравці
+## Random players
 
-Виберемо випадкових гравців!
+Let's choose random players!
 
-+ Щоб мати можливість отримати випадковий плеєр зі списку `гравців` , спершу вам потрібно буде імпортувати `вибраний` частину `випадкового модуля`.
++ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
     
-    ![скріншот](images/team-import-random.png)
+    ![screenshot](images/team-import-random.png)
 
-+ Щоб отримати випадковий плеєр, ви можете скористатися `вибором`. (Ви також можете видалити код для друку окремих гравців.)
++ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
     
-    ![скріншот](images/team-random-player.png)
+    ![screenshot](images/team-random-player.png)
 
-+ Перевірте свій `вибір` кілька разів, і ви повинні побачити іншого гравця, який буде вибирати щоразу.
++ Test your `choice` code a few times and you should see a different player being chosen each time.
 
-+ Ви також можете створити нову змінну `playerA`і використовувати її для збереження свого випадкового програвача.
++ You can also create a new variable called `playerA`, and use it to store your random player.
     
-    ![скріншот](images/team-random-playerA.png)
+    ![screenshot](images/team-random-playerA.png)
 
-+ Вам знадобиться новий список для зберігання всіх гравців команди А. Для початку цей список має бути порожнім.
++ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
     
-    ![скріншот](images/team-teamA.png)
+    ![screenshot](images/team-teamA.png)
 
-+ Тепер ви можете додавати свій випадково вибраний гравець до `teamA`. Для цього ви можете використовувати `teamA.append` (**додавати** означає додати до кінця).
++ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
     
-    ![скріншот](images/team-teamA-add.png)
+    ![screenshot](images/team-teamA-add.png)
 
-+ Тепер, коли вибрано ваш програвач, ви можете вилучити їх зі свого списку `гравців`.
++ Now that your player has been chosen, you can remove them from your list of `players`.
     
-    ![скріншот](images/team-players-remove.png)
+    ![screenshot](images/team-players-remove.png)
 
-+ Перевірте цей код, додавши `команду друку` , щоб показати `гравцям` залишити на вибір.
++ Test this code by adding a `print` command, to show the `players` left to choose from.
     
-    ![скріншот](images/team-players-remove-test.png)
+    ![screenshot](images/team-players-remove-test.png)
     
-    У наведеному вище прикладі Герміона була обрана для `teamA`, і тому була вилучена зі списку `гравців`.
+    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
