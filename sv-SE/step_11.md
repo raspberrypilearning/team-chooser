@@ -1,7 +1,7 @@
-\--- utmaning \---
+\--- challenge \---
 
-## Utmaning: Fler lag
+## Challenge: More teams
 
-Kan du förbättra ditt program för att dela spelare i 3 lag istället för 2?
+Can you improve your program to split players into 3 teams instead of 2?
 
-\--- /utmaning \---
+\--- /challenge \---
