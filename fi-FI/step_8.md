@@ -1,21 +1,21 @@
-## Odd-pelaajat
+## Odd players
 
-Parannetaan ohjelmaa parittomien pelaajien parissa.
+Let's improve your program to work with an odd number of players.
 
-+ Lisää toinen nimi `soittosi.txt` -luetteloon, jotta sinulla on pariton määrä pelaajia.
++ Add another name to your `players.txt` list, so that you have an odd number of players.
     
-    ![kuvakaappaus](images/team-luna.png)
+    ![screenshot](images/team-luna.png)
 
-+ Jos testaat koodisi, näet, että saat virheilmoituksen.
++ If you test your code, you'll see that you get an error message.
     
-    ![kuvakaappaus](images/team-error.png)
+    ![screenshot](images/team-error.png)
 
-+ Virhe on se, että ohjelmasi pitää valita satunnaiset pelaajat joukkueelle A ja sitten joukkue B. Jos kuitenkin on outoa joukko pelaajia, sen jälkeen, kun hän on valinnut pelaajan joukkueelle A, ei ole jäljellä pelaajia, jotka voisivat valita joukkuetta B.
++ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
     
-    Voit korjata tämän vian, voit kertoa ohjelmasi `rikkoa` ulos `ja` silmukka, jos `pelaajat` luettelo on tyhjä.
+    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
     
-    ![kuvakaappaus](images/team-fix.png)
+    ![screenshot](images/team-fix.png)
 
-+ Jos testat koodisi uudelleen, sinun on nähtävä, että se toimii parittomalla pelaajamäärällä.
++ If you test your code again, you should see that it now works with an odd number of players.
     
-    ![kuvakaappaus](images/team-fix-test.png)
+    ![screenshot](images/team-fix-test.png)
