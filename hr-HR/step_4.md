@@ -1,35 +1,35 @@
-## Nasumični igrači
+## Random players
 
-Odaberimo sada nasumično igrače timova!
+Let's choose random players!
 
-+ Kako bi nasumično odabrali igrača iz liste `igraci`, prvo je potrebno uvesti naredbu `choice` iz modula `random`.
++ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
     
     ![screenshot](images/team-import-random.png)
 
-+ Koristi `choice` da bi dobio nasumičnog igrača. (Možeš i obrisati kôd koji ispisuje pojedinačne igrače.)
++ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
     
     ![screenshot](images/team-random-player.png)
 
-+ Isprobaj svoj `choice` kôd nekoliko puta i vidjet ćeš da je svaki put odabran drugi igrač.
++ Test your `choice` code a few times and you should see a different player being chosen each time.
 
-+ Možeš kreirati novu varijablu imena `igracA` u koju ćeš spremiti nasumičnog igrača.
++ You can also create a new variable called `playerA`, and use it to store your random player.
     
     ![screenshot](images/team-random-playerA.png)
 
-+ Za spremanje svih igrača iz tima A, moraš napraviti novu listu. Za početak, ova lista mora biti prazna.
++ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
     
     ![screenshot](images/team-teamA.png)
 
-+ Sada možeš dodati nasumično odabranog igrača u `tim A`. To češ napraviti koristeći `timA.append`(**append** znači dodati na kraj).
++ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
     
     ![screenshot](images/team-teamA-add.png)
 
-+ Sada je igrač izabran i možeš ga maknuti sa liste `igraci`.
++ Now that your player has been chosen, you can remove them from your list of `players`.
     
     ![screenshot](images/team-players-remove.png)
 
-+ Testiraj kôd dodavanjem naredbe `print` i provjeri koji su ti `igraci` preostali.
++ Test this code by adding a `print` command, to show the `players` left to choose from.
     
     ![screenshot](images/team-players-remove-test.png)
     
-    U primjeru iznad, Ivana je odabrana za `timA` i zato je više nema na listi `igraci`.
+    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
