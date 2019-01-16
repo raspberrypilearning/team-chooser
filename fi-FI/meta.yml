@@ -1,0 +1,41 @@
+---
+hero_image: Kuvien / joukkue-chooser.png
+theme: violetti
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, ohjelmointi-1, phys-comp-0, valmistus-0, yhteisö-0
+title: Team Chooser
+description: Tee ohjelma jakaa pelaajat kahteen satunnaiseen joukkoon.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: pelit
+technologies: pytonkäärme
+site_areas: hankkeet
+hardware: ''
+software: pytonkäärme
+version: 3
+last_tested: 04.05.2018
+steps:
+  - 
+    title: 'Johdanto: '
+  - 
+    title: Pelaajat
+  - 
+    title: 'Haaste: lisää pelaajia'
+  - 
+    title: Satunnaiset pelaajat
+  - 
+    title: 'Haaste: Valitaan joukkueelle B'
+  - 
+    title: Valitaan paljon pelaajia
+  - 
+    title: Tiedostot
+  - 
+    title: Odd-pelaajat
+  - 
+    title: 'Haaste: satunnainen joukkuetunnus'
+  - 
+    title: 'Haaste: Tiimien nimien tallentaminen'
+  - 
+    title: 'Haaste: Lisää joukkueita'
