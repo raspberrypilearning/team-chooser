@@ -1,13 +1,13 @@
-\---挑戦\---
+\--- challenge \---
 
-## 課題：ランダムなチーム名
+## Challenge: Random team names
 
-両方のチームにランダムなチーム名を付けることはできますか？
+Can you give both of your teams a random team name?
 
-選択する名前を含む `teamNames` というリストを作成できます。
+You can create a list called `teamNames` containing the names to choose from.
 
-その後、各チームのランダムな名前を選択（および表示）できます。
+You can then choose (and display) a random name for each team.
 
-![スクリーンショット](images/team-finished.png)
+![screenshot](images/team-finished.png)
 
-\--- /チャレンジ\---
+\--- /challenge \---
