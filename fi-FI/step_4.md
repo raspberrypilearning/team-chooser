@@ -1,35 +1,35 @@
-## Satunnaiset pelaajat
+## Random players
 
-Let's valita satunnainen pelaajia!
+Let's choose random players!
 
-+ Jotta voit saada satunnaisen soittimen sinun `pelaajasi` luettelosta, sinun on ensin tuettava `valinnainen` osa `satunnaisesta` moduulista.
++ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
     
-    ![kuvakaappaus](images/team-import-random.png)
+    ![screenshot](images/team-import-random.png)
 
-+ Saadaksesi satunnaisen soittimen voit käyttää `valintaa`. (Voit myös poistaa koodin yksittäisten pelaajien tulostamiseksi.)
++ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
     
-    ![kuvakaappaus](images/team-random-player.png)
+    ![screenshot](images/team-random-player.png)
 
-+ Testaa `valintasi` koodia muutaman kerran ja sinun pitäisi nähdä eri pelaaja valittaessa joka kerta.
++ Test your `choice` code a few times and you should see a different player being chosen each time.
 
-+ Voit myös luoda uuden muuttujan nimeltään `playerA`, ja käyttää sitä tallentaa satunnaisia soittimen.
++ You can also create a new variable called `playerA`, and use it to store your random player.
     
-    ![kuvakaappaus](images/team-random-playerA.png)
+    ![screenshot](images/team-random-playerA.png)
 
-+ Tarvitset uuden luettelon kaikkien A-sarjan pelaajien tallentamiseksi. Aluksi tämä luettelo olisi tyhjä.
++ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
     
-    ![kuvakaappaus](images/team-teamA.png)
+    ![screenshot](images/team-teamA.png)
 
-+ Nyt voit lisätä satunnaisesti valitun pelaajan `teamA`. Voit tehdä tämän käyttämällä `teamA.append` (**liitä** tarkoittaa lisätä loppuun).
++ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
     
-    ![kuvakaappaus](images/team-teamA-add.png)
+    ![screenshot](images/team-teamA-add.png)
 
-+ Nyt kun soitin on valittu, voit poistaa ne listalta `pelaajaa`.
++ Now that your player has been chosen, you can remove them from your list of `players`.
     
-    ![kuvakaappaus](images/team-players-remove.png)
+    ![screenshot](images/team-players-remove.png)
 
-+ Testaa tämä koodi lisäämällä `print` komento, jotta näet, että `pelaajaa` jäljellä.
++ Test this code by adding a `print` command, to show the `players` left to choose from.
     
-    ![kuvakaappaus](images/team-players-remove-test.png)
+    ![screenshot](images/team-players-remove-test.png)
     
-    Yllä olevassa esimerkissä, Hermione on valittu `teamA`, ja niin on poistettu luettelosta `pelaajaa`.
+    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
