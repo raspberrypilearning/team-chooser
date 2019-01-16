@@ -1,21 +1,21 @@
-## Odd spelare
+## Odd players
 
-Låt oss förbättra ditt program för att arbeta med ett udda antal spelare.
+Let's improve your program to work with an odd number of players.
 
-+ Lägg till ett annat namn på din `players.txt` lista, så att du har ett udda antal spelare.
++ Add another name to your `players.txt` list, so that you have an odd number of players.
     
-    ![skärmdump](images/team-luna.png)
+    ![screenshot](images/team-luna.png)
 
-+ Om du testar din kod ser du att du får ett felmeddelande.
++ If you test your code, you'll see that you get an error message.
     
-    ![skärmdump](images/team-error.png)
+    ![screenshot](images/team-error.png)
 
-+ Felet beror på att ditt program fortsätter att välja slumpmässiga spelare för lag A och sedan lag B. Men om det finns ett udda antal spelare, då efter att ha valt en spelare för lag A finns det inga spelare kvar att välja mellan för lag B.
++ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
     
-    För att fixa den här felet kan du berätta för programmet att `bryta` av `medan` slinga om din `spelare` lista är tom.
+    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
     
-    ![skärmdump](images/team-fix.png)
+    ![screenshot](images/team-fix.png)
 
-+ Om du testar din kod igen bör du se att den nu fungerar med ett udda antal spelare.
++ If you test your code again, you should see that it now works with an odd number of players.
     
-    ![skärmdump](images/team-fix-test.png)
+    ![screenshot](images/team-fix-test.png)
