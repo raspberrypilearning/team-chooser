@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Team Chooser
-description: Crée un programme pour partager plusieurs joueurs aléatoirement en deux équipes.
+description: Make a program to split players into 2 random teams.
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
 interests: games
 technologies: python
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2018-04-05
 steps:
   - 
-    title: 'Introduction'
+    title: 'Introduction: '
   - 
-    title: Joueurs
+    title: Players
   - 
-    title: 'Défi: Ajoute plus de joueurs'
+    title: 'Challenge: Adding more players'
   - 
-    title: Joueurs aléatoires
+    title: Random players
   - 
-    title: 'Défi: Choisir pour l''équipe B'
+    title: 'Challenge: Choosing for team B'
   - 
-    title: Choisir plein de joueurs
+    title: Choosing lots of players
   - 
-    title: Fichiers
+    title: Files
   - 
-    title: Joueurs impair
+    title: Odd players
   - 
-    title: 'Défi: Nom d''équipe aléatoire'
+    title: 'Challenge: Random team names'
   - 
-    title: 'Défi: Stock les noms d''équipe'
+    title: 'Challenge: Storing team names'
   - 
-    title: 'Défi: Encore plus d''équipe'
+    title: 'Challenge: More teams'
