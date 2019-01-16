@@ -1,35 +1,35 @@
-## Người chơi ngẫu nhiên
+## Random players
 
-Hãy chọn người chơi ngẫu nhiên!
+Let's choose random players!
 
-+ Để có thể nhận được một trình phát ngẫu nhiên từ danh sách `người chơi của bạn` , đầu tiên bạn sẽ cần phải nhập `lựa chọn` phần của `mô-đun ngẫu nhiên`.
++ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
     
-    ![ảnh chụp màn hình](images/team-import-random.png)
+    ![screenshot](images/team-import-random.png)
 
-+ Để có trình phát ngẫu nhiên, bạn có thể sử dụng `lựa chọn`. (Bạn cũng có thể xóa mã để in các trình phát riêng lẻ.)
++ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
     
-    ![ảnh chụp màn hình](images/team-random-player.png)
+    ![screenshot](images/team-random-player.png)
 
-+ Kiểm tra mã `lựa chọn` của bạn một vài lần và bạn sẽ thấy một trình phát khác nhau được chọn mỗi lần.
++ Test your `choice` code a few times and you should see a different player being chosen each time.
 
-+ Bạn cũng có thể tạo biến mới có tên là `playerA`và sử dụng biến đó để lưu trữ trình phát ngẫu nhiên của bạn.
++ You can also create a new variable called `playerA`, and use it to store your random player.
     
-    ![ảnh chụp màn hình](images/team-random-playerA.png)
+    ![screenshot](images/team-random-playerA.png)
 
-+ Bạn sẽ cần danh sách mới để lưu trữ tất cả các cầu thủ trong đội A. Để bắt đầu, danh sách này phải trống.
++ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
     
-    ![ảnh chụp màn hình](images/team-teamA.png)
+    ![screenshot](images/team-teamA.png)
 
-+ Bây giờ bạn có thể thêm người chơi được chọn ngẫu nhiên của bạn vào `teamA`. Để làm điều này, bạn có thể sử dụng `teamA.append` (**phụ thêm** có nghĩa là thêm vào cuối).
++ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
     
-    ![ảnh chụp màn hình](images/team-teamA-add.png)
+    ![screenshot](images/team-teamA-add.png)
 
-+ Bây giờ người chơi của bạn đã được chọn, bạn có thể xóa chúng khỏi danh sách `người chơi`.
++ Now that your player has been chosen, you can remove them from your list of `players`.
     
-    ![ảnh chụp màn hình](images/team-players-remove.png)
+    ![screenshot](images/team-players-remove.png)
 
-+ Kiểm tra mã này bằng cách thêm lệnh `print` , để hiển thị `người chơi còn lại` để chọn.
++ Test this code by adding a `print` command, to show the `players` left to choose from.
     
-    ![ảnh chụp màn hình](images/team-players-remove-test.png)
+    ![screenshot](images/team-players-remove-test.png)
     
-    Trong ví dụ trên, Hermione đã được chọn cho `teamA`, và như vậy đã bị loại khỏi danh sách `người chơi`.
+    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
