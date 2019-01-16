@@ -1,25 +1,25 @@
-## Các tập tin
+## Files
 
-Bạn có thể sử dụng tệp để lưu trữ danh sách người chơi của mình.
+You can use a file to store your list of players.
 
-+ Nhấp vào biểu tượng + và tạo tệp mới có tên `players.txt`.
++ Click the + icon and create a new file called `players.txt`.
     
-    ![ảnh chụp màn hình](images/team-file-create.png)
+    ![screenshot](images/team-file-create.png)
 
-+ Thêm người chơi vào tệp mới của bạn. Đảm bảo rằng không có dòng trống sau trình phát cuối cùng của bạn.
++ Add your players to your new file. Make sure that there is no blank line after your last player.
     
-    ![ảnh chụp màn hình](images/team-file-add.png)
+    ![screenshot](images/team-file-add.png)
 
-+ Thay đổi của bạn `người chơi` danh sách để nó trống.
++ Change your `players` list so that it is empty.
     
-    ![ảnh chụp màn hình](images/team-players-empty.png)
+    ![screenshot](images/team-players-empty.png)
 
-+ Mở tệp `players.txt` của bạn ( `'r'` có nghĩa là chỉ đọc).
++ Open your `players.txt` file (the `'r'` means read-only).
     
-    ![ảnh chụp màn hình](images/team-file-open.png)
+    ![screenshot](images/team-file-open.png)
 
-+ Đọc danh sách từ tệp và thêm vào danh sách `người chơi của bạn`. ( `dòng splitline` có nghĩa là mọi dòng trong tập tin là một mục mới trong danh sách `người chơi`).
++ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
     
-    ![ảnh chụp màn hình](images/team-file-load.png)
+    ![screenshot](images/team-file-load.png)
 
-+ Nếu bạn kiểm tra mã của mình, mã sẽ hoạt động chính xác giống như trước đây. Tuy nhiên, bây giờ sẽ dễ dàng hơn khi thêm người chơi vào tệp `players.txt` của bạn.
++ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
