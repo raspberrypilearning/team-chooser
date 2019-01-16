@@ -1,21 +1,21 @@
-## Непарні гравці
+## Odd players
 
-Давайте покращимо вашу програму для роботи з непарною кількістю гравців.
+Let's improve your program to work with an odd number of players.
 
-+ Додайте інше ім'я до вашого списку `players.txt` , щоб у вас було непарне число гравців.
++ Add another name to your `players.txt` list, so that you have an odd number of players.
     
-    ![скріншот](images/team-luna.png)
+    ![screenshot](images/team-luna.png)
 
-+ Якщо ви перевірите свій код, ви побачите повідомлення про помилку.
++ If you test your code, you'll see that you get an error message.
     
-    ![скріншот](images/team-error.png)
+    ![screenshot](images/team-error.png)
 
-+ Помилка полягає в тому, що ваша програма продовжує вибір випадкових гравців для команди A, а потім команди B. Однак, якщо є непарне число гравців, то після вибору гравця для команди А не існує жодного гравця для команди Б.
++ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
     
-    Щоб виправити цю помилку, ви можете повідомити вашу програму `перервати` з вашої `, тоді як` цикл, якщо ваш список `гравців` порожній.
+    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
     
-    ![скріншот](images/team-fix.png)
+    ![screenshot](images/team-fix.png)
 
-+ Якщо ви знову перевірите свій код, ви повинні побачити, що він зараз працює з непарною кількістю гравців.
++ If you test your code again, you should see that it now works with an odd number of players.
     
-    ![скріншот](images/team-fix-test.png)
+    ![screenshot](images/team-fix-test.png)
