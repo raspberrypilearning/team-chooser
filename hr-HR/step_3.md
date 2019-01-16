@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Izazov: Dodaj još igrača
+## Challenge: Adding more players
 
-Možeš li dodati još igrača svojoj listi? Možeš dodati koliko god igrača želiš, ali pripazi da ih bude **paran** broj.
+Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
 
-Ako želiš, možeš promijeniti i imena prvih dvaju igrača.
+You can also change the names of the first 2 players if you prefer.
 
-Možeš li dodati kôd koji će ispisati **samo jednog** novog igrača?
+Can you add code to print **just one** of your new players?
 
 \--- /challenge \---
