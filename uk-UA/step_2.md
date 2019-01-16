@@ -1,21 +1,21 @@
-## Гравці
+## Players
 
-Почнемо з того, що створить список гравців на вибір.
+Let's start by creating a list of players to choose from.
 
-+ Відкрийте пустий шаблон Python Брелок: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Ви можете використовувати змінну для зберігання **списку** гравців. Список повинен бути у квадратних дужках `[]`, комою між кожним елементом у списку.
++ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
     
-    Почніть, додаючи список гравців у вашу програму.
+    Start by adding a list of players to your program.
     
-    ![скріншот](images/team-create-players.png)
+    ![screenshot](images/team-create-players.png)
 
-+ Додайте цей код, щоб надрукувати `гравця` змінну:
++ Add this code to print your `players` variable:
     
-    ![скріншот](images/team-print-players.png)
+    ![screenshot](images/team-print-players.png)
 
-+ Ви можете перейти до елемента списку, додавши його позицію у квадратні дужки після назви змінної.
++ You can get to an item in the list by adding its position in square brackets after the variable name.
     
-    Перший елемент у списку знаходиться на **позиції 0**. Це відрізняється від нуля, який починається з позиції 1.
+    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
     
-    ![скріншот](images/team-print-players-index.png)
+    ![screenshot](images/team-print-players-index.png)
