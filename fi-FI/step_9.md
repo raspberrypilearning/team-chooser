@@ -1,13 +1,13 @@
-\--- haaste \---
+\--- challenge \---
 
-## Haaste: satunnainen joukkuetunnus
+## Challenge: Random team names
 
-Voitteko antaa kummallekin joukkueelle satunnaisen ryhmän nimen?
+Can you give both of your teams a random team name?
 
-Voit luoda luettelon nimeltä `teamNames` jossa on nimiä.
+You can create a list called `teamNames` containing the names to choose from.
 
-Sen jälkeen voit valita (ja näyttää) satunnaisen nimen jokaiselle joukkueelle.
+You can then choose (and display) a random name for each team.
 
-![kuvakaappaus](images/team-finished.png)
+![screenshot](images/team-finished.png)
 
-\--- /haaste \---
+\--- /challenge \---
