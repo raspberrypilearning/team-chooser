@@ -1,7 +1,7 @@
-\--- завдання \---
+\--- challenge \---
 
-## Виклик: збереження імен команди
+## Challenge: Storing team names
 
-Чи можете ви зберігати список імен команд у файлі?
+Can you store your list of team names in a file?
 
-\--- / виклик \---
+\--- /challenge \---
