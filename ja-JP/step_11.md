@@ -1,7 +1,7 @@
-\---挑戦\---
+\--- challenge \---
 
-## 挑戦：より多くのチーム
+## Challenge: More teams
 
-プレーヤーを2つではなく3つのチームに分割するプログラムを改善できますか？
+Can you improve your program to split players into 3 teams instead of 2?
 
-\--- /チャレンジ\---
+\--- /challenge \---
