@@ -1,21 +1,21 @@
-## لاعبين فرديين
+## Odd players
 
-دعونا نحسن برنامجك للعمل مع عدد فردي من اللاعبين.
+Let's improve your program to work with an odd number of players.
 
-+ أضف اسمًا آخر إلى ** players.txt الخاص بك </code> قائمة ، بحيث يكون لديك عدد فردي من اللاعبين.</p> 
++ Add another name to your `players.txt` list, so that you have an odd number of players.
     
-    ![لقطة الشاشة](images/team-luna.png)</li> 
+    ![screenshot](images/team-luna.png)
+
++ If you test your code, you'll see that you get an error message.
     
-    + إذا اختبرت شفرتك ، فسترى أنك تتلقى رسالة خطأ.
-        
-        ![لقطة الشاشة](images/team-error.png)
+    ![screenshot](images/team-error.png)
+
++ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
     
-    + الخطأ هو أن برنامجك يواصل اختيار اللاعبين العشوائيين للفريق A ثم الفريق B. ومع ذلك ، إذا كان هناك عدد فردي من اللاعبين ، فبعد اختيار لاعب للفريق A لن يكون هناك لاعبون يتم اختيارهم للاختيار من بين الفريق B.
-        
-        لإصلاح هذا الخطأ ، يمكنك إخبار البرنامج بـ ` فاصل ` للخروج من ` بينما ` حلقة إذا كان لديك ` لاعبين ` القائمة فارغة.
-        
-        ![لقطة الشاشة](images/team-fix.png)
+    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
     
-    + إذا قمت باختبار التعليمات البرمجية مرة أخرى ، يجب أن تشاهد أنها تعمل الآن مع عدد فردي من اللاعبين.
-        
-        ![لقطة الشاشة](images/team-fix-test.png)</ul>
+    ![screenshot](images/team-fix.png)
+
++ If you test your code again, you should see that it now works with an odd number of players.
+    
+    ![screenshot](images/team-fix-test.png)
