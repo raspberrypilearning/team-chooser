@@ -1,35 +1,35 @@
-## Random players
+## 随机队员
 
-Let's choose random players!
+让我们随机选择一些队员！
 
-+ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
++ 为了能够从你的 `players` 列表中获得一个随机的队员，首先你需要导入`random`模块中的`choice` 函数。
     
-    ![screenshot](images/team-import-random.png)
+    ![截图](images/team-import-random.png)
 
-+ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
++ 要获得一个随机的队员, 你可以使用 `choice`。 （您也可以删除代码以显示单个队员。）
     
-    ![screenshot](images/team-random-player.png)
+    ![截图](images/team-random-player.png)
 
-+ Test your `choice` code a few times and you should see a different player being chosen each time.
++ 测试你的 `choice` 代码几次, 你应该看到每次都会有一个不同的队员被选中。
 
-+ You can also create a new variable called `playerA`, and use it to store your random player.
++ 您还可以创建一个名为 `playerA` 的新变量, 并使用它来保存随机选择的队员。
     
-    ![screenshot](images/team-random-playerA.png)
+    ![截图](images/team-random-playerA.png)
 
-+ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
++ 你还需要一个新的列表来保存Ａ队中的所有队员。在一开始，这个列表应该是空的。
     
-    ![screenshot](images/team-teamA.png)
+    ![截图](images/team-teamA.png)
 
-+ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
++ 现在你可以将随机选择的队员添加到`teamA`。 为此，你可以使用 `teamA.append` 方法（**append** 表示添加到末尾）。
     
-    ![screenshot](images/team-teamA-add.png)
+    ![截图](images/team-teamA-add.png)
 
-+ Now that your player has been chosen, you can remove them from your list of `players`.
++ 现在, 你的队员已被选中，你可以将其从 `players` 列表中删除。
     
-    ![screenshot](images/team-players-remove.png)
+    ![截图](images/team-players-remove.png)
 
-+ Test this code by adding a `print` command, to show the `players` left to choose from.
++ 通过添加 `print` 命令来测试此代码, 以显示 `players`列表中余下的可供选择的队员。
     
-    ![screenshot](images/team-players-remove-test.png)
+    ![截图](images/team-players-remove-test.png)
     
-    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
+    在上面的例子中，赫敏被选入 `teamA`，因此他被从 `players` 列表中删除。
