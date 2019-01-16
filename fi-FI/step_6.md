@@ -1,31 +1,31 @@
-## Valitaan paljon pelaajia
+## Choosing lots of players
 
-Seuraavaksi sinun on varmistettava, että jokainen pelaaja on valittu joukkueelle.
+Next you'll need to make sure that every player has been chosen for a team.
 
-+ Korosta koodisi pelaajien valitsemisesta joukkueelle A ja joukkueelle B ja paina välilehteä avaamalla koodi.
++ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
     
-    ![kuvakaappaus](images/team-loop-tab.png)
+    ![screenshot](images/team-loop-tab.png)
 
-+ Lisää **kun taas** silmukka pitää pelaajat valitsemalla kunnes `pelaajan` listan pituus on 0.
++ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
     
-    ![kuvakaappaus](images/team-loop-while.png)
+    ![screenshot](images/team-loop-while.png)
 
-+ Suorita koodisi testata sitä. Sinun pitäisi nähdä pelaajat valittaessa joukkueelle A ja joukkueeseen B, kunnes jäljellä ei ole enää pelaajia.
++ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
     
-    ![kuvakaappaus](images/team-loop-test.png)
+    ![screenshot](images/team-loop-test.png)
 
-+ Lisää koodi tulostaa `teamA` list **** jälkeen `ja` silmukka (varmista, että se ei ole sisennetty).
++ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
     
-    Tämä tarkoittaa, että `teamA` painetaan vain kerran, kun kaikki pelaajat on valittu.
+    This means that `teamA` will only be printed once, after all the players have been chosen.
     
-    ![kuvakaappaus](images/team-teamA-paste.png)
+    ![screenshot](images/team-teamA-paste.png)
 
-+ Voit tehdä saman myös `teamB`, ja voit myös poistaa muut tulostuskomennot, koska ne olivat vain siellä testata koodia.
++ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
     
-    Näin koodisi pitäisi näyttää:
+    Here's how your code should look:
     
-    ![kuvakaappaus](images/team-loop-finished.png)
+    ![screenshot](images/team-loop-finished.png)
 
-+ Testaa koodisi uudelleen ja sinun pitäisi nähdä vain pelaajien luettelo sekä viimeiset joukkueet.
++ Test your code again and you should just see your list of players as well as your final teams.
     
-    ![kuvakaappaus](images/team-loop-finished-test.png)
+    ![screenshot](images/team-loop-finished-test.png)
