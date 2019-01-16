@@ -1,13 +1,13 @@
-\--- utmaning \---
+\--- challenge \---
 
-## Utmaning: Slumpmässiga lagnamn
+## Challenge: Random team names
 
-Kan du ge båda dina lag ett slumpmässigt lagnamn?
+Can you give both of your teams a random team name?
 
-Du kan skapa en lista som heter `teamNames` innehåller namnen att välja mellan.
+You can create a list called `teamNames` containing the names to choose from.
 
-Du kan då välja (och visa) ett slumpmässigt namn för varje lag.
+You can then choose (and display) a random name for each team.
 
-![skärmdump](images/team-finished.png)
+![screenshot](images/team-finished.png)
 
-\--- /utmaning \---
+\--- /challenge \---
