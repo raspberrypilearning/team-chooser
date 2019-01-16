@@ -1,6 +1,6 @@
-## 前書き：
+## Introduction:
 
-このプロジェクトでは、選手のリストから2つのランダムなチームを作成する方法を学びます。
+In this project, you'll learn how to create 2 random teams from a list of players.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,73 +8,73 @@
   <img src="images/team-finished.png">
 </div>
 
-### クラブ指導者のための追加情報
+### Additional information for club leaders
 
-あなたはこのプロジェクトを印刷する必要がある場合は、使用してください [プリンターに優しいバージョン](https://projects.raspberrypi.org/en/projects/team-chooser/print)。
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print).
 
-## \---崩壊\---
+## \--- collapse \---
 
-## title：クラブリーダーノート
+## title: Club leader notes
 
-## 前書き：
+## Introduction:
 
-このプロジェクトでは、子供たちは選手のリストを2つのランダムなチームに分けるプログラムを作る方法を学びます。 このプロジェクトは、リストとファイルの使用方法を教えてくれます。
+In this project, children will learn how to make a program to split a list of players into 2 random teams. This project teaches lists and using files.
 
-## オンラインリソース
+## Online Resources
 
-**このプロジェクトではPython 3を使用しています** [装飾](https://trinket.io/) を使ってPythonをオンラインで書くことをお勧めします。 このプロジェクトには、次の装飾品が含まれています：
+**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
-* [新しい（ブランク）Python Trinket - jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [New (blank) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-完成したプロジェクトを含む小物もあります：
+There is also a trinket containing the completed project:
 
-* ['Team Chooser'が完了しました - trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* [‘Team Chooser’ Finished -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
-## オフラインリソース
+## Offline Resources
 
-このプロジェクトは、することができます [オフライン完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) 好まます。 このプロジェクトの[プロジェクトマテリアル]リンクをクリックすると、プロジェクトリソースにアクセスできます。 このリンクには、「プロジェクトリソース」セクションがあります。このセクションには、このプロジェクトをオフラインで完了するために必要なリソースが含まれています。 各子供がこれらのリソースのコピーにアクセスできることを確認してください。 このセクションには、次のファイルが含まれています。
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* チーム/チーム
+* team/team.py
 
-このプロジェクトの完成版は、以下を含む「ボランティアリソース」セクションでも見つけることができます。
+You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
 
-* team-finished / team.py
+* team-finished/team.py
 
-（上記のリソースはすべて、プロジェクトとしてダウンロード可能で、 `.zip` ファイルをボランティアします）。
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## 学習目標
+## Learning Objectives
 
-* リスト。
-* ファイルからリストデータを読み込む。
+* Lists;
+* Loading list data from a file.
 
-このプロジェクトでは、以下の要素を網羅しています [ラズベリーパイデジタルメイクカリキュラム](http://rpf.io/curriculum)：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [シンプルなプログラムを作成するには、基本的なプログラミング構造を使用します。](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## 課題
+## Challenges
 
-* "プレイヤーを追加する" - `人のプレイヤー` リストに要素を追加する。
-* "チームBを選ぶ" - ランダムな選手を追加する新しい `チームB` リストを作成する。
-* "ランダムなチーム名" - 新しい `チームを作成して使用する名前` リストを使用してチームにランダムな名前を割り当てます。
-* 「チーム名の保存」 -ファイルにチーム名を格納し、にそれらをロードする `teamNames` 変数。
-* 「より多くのチーム」 - プレイヤーを2つではなく3つのチームに分けます。
+* "Adding more players" - adding elements to a `players` list;
+* "Choosing for team B" - creating a new `teamB` list to add random players to;
+* "Random team names" - creating and using a new `teamNames` list to assign random names to teams;
+* "Storing team names" - storing team names in a file, and loading them into a `teamNames` variable;
+* "More teams" - splitting players into 3 teams instead of 2.
 
-\--- /崩壊\---
+\--- /collapse \---
 
-## \---崩壊\---
+## \--- collapse \---
 
-## title：プロジェクト資料
+## title: Project materials
 
-## プロジェクトリソース
+## Project resources
 
-* [すべてのプロジェクトリソースを含む.zipファイル](resources/team-chooser-project-resources.zip)
-* [オンラインブランクPython Trinket](http://jumpto.cc/python-new)
-* [オフライン空のPythonファイル](resources/new-new.py)
+* [.zip file containing all project resources](resources/team-chooser-project-resources.zip)
+* [Online blank Python Trinket](http://jumpto.cc/python-new)
+* [Offline blank Python file](resources/new-new.py)
 
-## クラブリーダーのリソース
+## Club leader resources
 
-* [完了したすべてのプロジェクトリソースを含む.zipファイル](resources/team-chooser-volunteer-resources.zip)
-* [オンラインで完成したTrinketプロジェクト](https://trinket.io/python/a699c44ce6)
-* [team-chooser-finished / team-chooser.py](resources/team-chooser-finished-team-chooser.py)
+* [.zip file containing all completed project resources](resources/team-chooser-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
+* [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
-\--- /崩壊\---
+\--- /collapse \---
