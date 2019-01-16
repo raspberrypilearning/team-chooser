@@ -1,7 +1,7 @@
-\--- завдання \---
+\--- challenge \---
 
-## Виклик: більше команд
+## Challenge: More teams
 
-Чи можете ви поліпшити свою програму, щоб розділити гравців на 3 команди, а не на 2?
+Can you improve your program to split players into 3 teams instead of 2?
 
-\--- / виклик \---
+\--- /challenge \---
