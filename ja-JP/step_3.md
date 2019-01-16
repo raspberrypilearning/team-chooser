@@ -1,11 +1,11 @@
-\---挑戦\---
+\--- challenge \---
 
-## 課題：より多くのプレーヤーを追加する
+## Challenge: Adding more players
 
-もっと多くの選手をあなたのリストに追加できますか？ あなたが好きなように多くの選手を追加しますが、そこにあることを確認することができます **でも** プレーヤーの数。
+Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
 
-必要に応じて、最初の2人のプレイヤーの名前を変更することもできます。
+You can also change the names of the first 2 players if you prefer.
 
-あなたの新しいプレイヤーの</strong> 人だけ **を印刷するコードを追加できますか？</p> 
+Can you add code to print **just one** of your new players?
 
-\--- /チャレンジ\---
+\--- /challenge \---
