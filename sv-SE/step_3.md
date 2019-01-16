@@ -1,11 +1,11 @@
-\--- utmaning \---
+\--- challenge \---
 
-## Utmaning: Att lägga till fler spelare
+## Challenge: Adding more players
 
-Kan du lägga till fler spelare till din lista? Du kan lägga till så många spelare som du vill, men se till att det finns en **även** antal spelare.
+Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
 
-Du kan också ändra namnen på de två första spelarna om du föredrar det.
+You can also change the names of the first 2 players if you prefer.
 
-Kan du lägga till kod för att skriva ut **bara en** av dina nya spelare?
+Can you add code to print **just one** of your new players?
 
-\--- /utmaning \---
+\--- /challenge \---
