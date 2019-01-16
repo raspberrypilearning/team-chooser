@@ -1,13 +1,13 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Tên nhóm ngẫu nhiên
+## Challenge: Random team names
 
-Bạn có thể cho cả hai đội của bạn một tên nhóm ngẫu nhiên?
+Can you give both of your teams a random team name?
 
-Bạn có thể tạo một danh sách gọi là `teamNames` chứa các tên để chọn.
+You can create a list called `teamNames` containing the names to choose from.
 
-Sau đó bạn có thể chọn (và hiển thị) một tên ngẫu nhiên cho mỗi đội.
+You can then choose (and display) a random name for each team.
 
-![ảnh chụp màn hình](images/team-finished.png)
+![screenshot](images/team-finished.png)
 
-\--- /thử thách \---
+\--- /challenge \---
