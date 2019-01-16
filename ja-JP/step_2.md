@@ -1,38 +1,21 @@
-## プレイヤー
+## Players
 
-まず選ぶプレイヤーのリストを作成しましょう。
+Let's start by creating a list of players to choose from.
 
-+ ブランクのPythonテンプレートを開き <a href="http://jumpto.cc/python-new" target="_blank">。Trinket： <a href="http://jumpto.cc/python-new" target="_blank"> jumpto.cc/python-new</a>。</p></li> 
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
+
++ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
     
-    <li>
-      <p>
-        変数を使用して、プレーヤーの <strong>リスト</strong> を格納することができます。 リストは角括弧 <code>[]</code>で、リスト内の各項目の間にコンマを入れてください。
-      </p>
-      <p>
-        あなたのプログラムに選手のリストを追加することから始めます。
-      </p>
-      <p>
-        <img src="images/team-create-players.png" alt="スクリーンショット" />
-      </p>
-    </li>
+    Start by adding a list of players to your program.
     
-    <li>
-      <p>
-        <code>人のプレーヤーを表示するにはこのコードを追加します</code> 変数：
-      </p>
-      <p>
-        <img src="images/team-print-players.png" alt="スクリーンショット" />
-      </p>
-    </li>
+    ![screenshot](images/team-create-players.png)
+
++ Add this code to print your `players` variable:
     
-    <li>
-      <p>
-        変数名の後に角カッコで囲んだ位置を追加して、リスト内の項目に移動することができます。
-      </p>
-      <p>
-        リストの最初の項目は <strong>位置0</strong>ます。 これは位置1から始まるScratchとは異なります。
-      </p>
-      <p>
-        <img src="images/team-print-players-index.png" alt="スクリーンショット" />
-      </p>
-    </li></ul>
+    ![screenshot](images/team-print-players.png)
+
++ You can get to an item in the list by adding its position in square brackets after the variable name.
+    
+    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
+    
+    ![screenshot](images/team-print-players-index.png)
