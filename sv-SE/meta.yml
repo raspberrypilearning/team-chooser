@@ -1,41 +1,41 @@
 ---
-hero_image: images / team chooser.png
-theme: violett
+hero_image: images/team-chooser.png
+theme: violet
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programmering-1, phys-comp-0, tillverkning-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Team Chooser
-description: Gör ett program för att dela spelare i 2 slumpartade lag.
+description: Make a program to split players into 2 random teams.
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
-interests: spel
-technologies: pytonorm
-site_areas: projekt
+interests: games
+technologies: python
+site_areas: projects
 hardware: ''
-software: pytonorm
+software: python
 version: 3
-last_tested: 2018/04/05
+last_tested: 2018-04-05
 steps:
   - 
-    title: 'Introduktion: '
+    title: 'Introduction: '
   - 
-    title: spelare
+    title: Players
   - 
-    title: 'Utmaning: Att lägga till fler spelare'
+    title: 'Challenge: Adding more players'
   - 
-    title: Slumpmässiga spelare
+    title: Random players
   - 
-    title: 'Utmaning: Välja för lag B'
+    title: 'Challenge: Choosing for team B'
   - 
-    title: Välja massor av spelare
+    title: Choosing lots of players
   - 
-    title: filer
+    title: Files
   - 
-    title: Odd spelare
+    title: Odd players
   - 
-    title: 'Utmaning: Slumpmässiga lagnamn'
+    title: 'Challenge: Random team names'
   - 
-    title: 'Utmaning: Lagring av lagnamn'
+    title: 'Challenge: Storing team names'
   - 
-    title: 'Utmaning: Fler lag'
+    title: 'Challenge: More teams'
