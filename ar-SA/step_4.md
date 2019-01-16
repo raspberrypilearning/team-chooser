@@ -1,35 +1,35 @@
-## لاعبين عشوائيين
+## Random players
 
-دعونا نختار لاعبين عشوائيين!
+Let's choose random players!
 
-+ لتكون قادرًا على الحصول على لاعب عشوائي من لاعبي `` أولاً ، ستحتاج إلى استيراد الخيار `` جزء من ` عشوائي ` وحدة.
++ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
     
-    ![لقطة الشاشة](images/team-import-random.png)
+    ![screenshot](images/team-import-random.png)
 
-+ للحصول على لاعب عشوائي, يمكنك استخدام `خيار`. (يمكنك أيضا حذف التعليمات البرمجية لطباعة اللاعبين الفردية)
++ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
     
-    ![لقطة الشاشة](images/team-random-player.png)
+    ![screenshot](images/team-random-player.png)
 
-+ اختبار التعليمات البرمجية الخاصة بك `اختيار` بضع مرات، ويجب أن نرى لاعب مختلفة يتم اختيارها في كل مرة.
++ Test your `choice` code a few times and you should see a different player being chosen each time.
 
-+ يمكنك أيضًا إنشاء متغير جديد يسمى ` playerA ` ، واستخدامها لتخزين لاعب عشوائي.
++ You can also create a new variable called `playerA`, and use it to store your random player.
     
-    ![لقطة الشاشة](images/team-random-playerA.png)
+    ![screenshot](images/team-random-playerA.png)
 
-+ ستحتاج إلى قائمة جديدة لتخزين جميع اللاعبين في الفريق A. للبدء ، يجب أن تكون هذه القائمة فارغة.
++ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
     
-    ![لقطة الشاشة](images/team-teamA.png)
+    ![screenshot](images/team-teamA.png)
 
-+ يمكنك الآن إضافة الاعب المختار عشوائياً إلى ` teamA `. للقيام بذلك ، يمكنك استخدام ` teamA.append ` (** إلحاقي ** يعني إضافة إلى النهاية).
++ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
     
-    ![لقطة الشاشة](images/team-teamA-add.png)
+    ![screenshot](images/team-teamA-add.png)
 
-+ الآن بعد أن تم اختيار اللاعب الخاص بك ، يمكنك إزالته من قائمة اللاعبين ` الخاصة بك `.
++ Now that your player has been chosen, you can remove them from your list of `players`.
     
-    ![لقطة الشاشة](images/team-players-remove.png)
+    ![screenshot](images/team-players-remove.png)
 
-+ اختبر هذا الرمز عن طريق إضافة ` طباعة ` الأمر ، لإظهار اللاعبين `` اليسار للاختيار من بينها.
++ Test this code by adding a `print` command, to show the `players` left to choose from.
     
-    ![لقطة الشاشة](images/team-players-remove-test.png)
+    ![screenshot](images/team-players-remove-test.png)
     
-    في المثال أعلاه ، تم اختيار Hermione لـ ` teamA ` ، وهكذا تمت إزالته من قائمة اللاعبين ``.
+    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
