@@ -1,14 +1,14 @@
-\---挑戦\---
+\--- challenge \---
 
-## 課題：チームBの選択
+## Challenge: Choosing for team B
 
-チームBのためにランダムに選手を選ぶためのコードを追加できますか？ あなたは以下を行う必要があります：
+Can you add code to choose a player at random for team B? You'll need to:
 
-+ 新しい `チームB` リストを作成する
-+ チームBのランダムプレイヤーを選ぶ（ `playerB`と呼ばれる）
-+ `あなたの <code>チームに選んだプレイヤーを` 追加する</code> リスト
-+ `削除` のリストから選ばれたプレイヤー `プレイヤー`
++ Create a new `teamB` list
++ Choose a random player for team B (called `playerB`)
++ `append` the chosen player to your `teamB` list
++ `remove` the chosen player from your list of `players`
 
-`teamB` 必要なコードは、 `teamA`についてすでに書いたコードに似た **** になります！
+The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
 
-\--- /チャレンジ\---
+\--- /challenge \---
