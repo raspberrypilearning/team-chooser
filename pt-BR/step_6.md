@@ -1,31 +1,31 @@
-## Escolhendo muitos jogadores
+## Choosing lots of players
 
-Em seguida, você precisará ter certeza de que todos os jogadores foram escolhidos para um time.
+Next you'll need to make sure that every player has been chosen for a team.
 
-+ Realce seu código para escolher jogadores para a equipe A e B e pressione a tecla tab para indentar o código.
++ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
     
-    ![captura de tela](images/team-loop-tab.png)
+    ![screenshot](images/team-loop-tab.png)
 
-+ Adicione um **enquanto** loop para continuar escolhendo os jogadores até o comprimento da lista `jogadores` é 0.
++ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
     
-    ![captura de tela](images/team-loop-while.png)
+    ![screenshot](images/team-loop-while.png)
 
-+ Execute seu código para testá-lo. Você deve ver os jogadores sendo escolhidos para o time A e o time B até que não haja mais jogadores restantes.
++ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
     
-    ![captura de tela](images/team-loop-test.png)
+    ![screenshot](images/team-loop-test.png)
 
-+ Adicione código para imprimir sua `teamA` lista **após** seu `enquanto` loop (certificando-se de que não é recuado).
++ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
     
-    Isso significa que `teamA` será impresso apenas uma vez, após todos os jogadores terem sido escolhidos.
+    This means that `teamA` will only be printed once, after all the players have been chosen.
     
-    ![captura de tela](images/team-teamA-paste.png)
+    ![screenshot](images/team-teamA-paste.png)
 
-+ Você pode fazer o mesmo para `teamB`, e você também pode excluir os outros comandos de impressão, pois eles estavam lá apenas para testar seu código.
++ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
     
-    Veja como seu código deve ficar:
+    Here's how your code should look:
     
-    ![captura de tela](images/team-loop-finished.png)
+    ![screenshot](images/team-loop-finished.png)
 
-+ Teste seu código novamente e você deve apenas ver sua lista de jogadores, assim como suas equipes finais.
++ Test your code again and you should just see your list of players as well as your final teams.
     
-    ![captura de tela](images/team-loop-finished-test.png)
+    ![screenshot](images/team-loop-finished-test.png)
