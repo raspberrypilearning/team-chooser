@@ -1,7 +1,7 @@
-\--- utmaning \---
+\--- challenge \---
 
-## Utmaning: Lagring av lagnamn
+## Challenge: Storing team names
 
-Kan du lagra din lista med lagnamn i en fil?
+Can you store your list of team names in a file?
 
-\--- /utmaning \---
+\--- /challenge \---
