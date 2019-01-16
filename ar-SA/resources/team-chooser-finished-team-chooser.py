@@ -1,49 +1,49 @@
 #!/bin/python3
 
-من اختيار الاستيراد العشوائي
+from random import choice
 
-# إنشاء قائمة لاعبين من ملف
-لاعبين = []
-ملف = فتح('players.txt', 'r')
-لاعبين =file.read().splitlines()
-print ('اللاعبين:' ، اللاعبين)
+#create a list of players from a file
+players = []
+file = open('players.txt', 'r')
+players = file.read().splitlines()
+print('Players:', players)
 
-# إنشاء قائمة لاعبين من ملف
-أسماء المجموعه = []
-file = open ('teamNames.txt'، 'r')
+#create a list of team names from a file
+teamNames = []
+file = open('teamNames.txt', 'r')
 teamNames = file.read().splitlines()
-print('أسماء الفريق:', teamNames)
+print('Team names:', teamNames)
 
-# إنشاء قوائم فريق فارغة
+#create empty team lists
 teamA = []
 teamB = []
 
-#loop حتى لا يتم ترك أي لاعبين
-بينما len (اللاعبين)> 0:
+#loop until there are no players left
+while len(players) > 0:
   
-  #لختار لاعب عشوائي للفريق A
-  playerA = الاختيار (اللاعبين)
-  teamA.append (playerA)
-  # إزالة اللاعب من قائمة اللاعبين
-  players.remove (playerA)
+  #choose a random player for team A
+  playerA = choice(players)
+  teamA.append(playerA)
+  #remove the player from the players list
+  players.remove(playerA)
   
-  # الخروج من حلقة إذا لم يكن هناك لاعبين اليسار
-  إذا كان اللاعبون == []: 
-    استراحة
+  #break out of the loop if there are no players left
+  if players == []: 
+    break
   
-  #اختار لاعب عشوائي للفريق B
-  playerB = الاختيار (اللاعبين)
-  teamB.append (playerB)
-  # إزالة اللاعب من قائمة اللاعبين
-  players.remove (playerB)
+  #choose a random player for team B
+  playerB = choice(players)
+  teamB.append(playerB)
+  #remove the player from the players list
+  players.remove(playerB)
 
-#اختر أسماء الفرق بعشوائية للفريقين
-teamNameA = choice (teamNames)
-teamNames.remove (teamNameA)
+#choose random team names for the 2 teams
+teamNameA = choice(teamNames)
+teamNames.remove(teamNameA)
 teamNameB = choice(teamNames)
 teamNames.remove(teamNameB)
 
-# اطبع الفرق
-print('\nهنا الفرق الخاصه بك:\n')
-طباعة (teamNameA ، teamA)
-طباعة (teamNameB ، teamB)
+#print the teams
+print('\nHere are your teams:\n')
+print(teamNameA, teamA)
+print(teamNameB, teamB)
