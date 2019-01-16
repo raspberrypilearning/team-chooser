@@ -1,35 +1,35 @@
-## Slumpmässiga spelare
+## Random players
 
-Låt oss välja slumpmässiga spelare!
+Let's choose random players!
 
-+ För att kunna få en slumpmässig spelare från dina `spelare` lista måste du först importera `val` del av `slumpmässiga` modulen.
++ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
     
-    ![skärmdump](images/team-import-random.png)
+    ![screenshot](images/team-import-random.png)
 
-+ För att få en slumpmässig spelare kan du använda `val`. (Du kan också ta bort koden för att skriva ut enskilda spelare.)
++ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
     
-    ![skärmdump](images/team-random-player.png)
+    ![screenshot](images/team-random-player.png)
 
-+ Testa ditt `val` kod ett par gånger och du bör se en annan spelare som valts varje gång.
++ Test your `choice` code a few times and you should see a different player being chosen each time.
 
-+ Du kan också skapa en ny variabel som heter `playerA`, och använder den för att lagra din slumpmässiga spelare.
++ You can also create a new variable called `playerA`, and use it to store your random player.
     
-    ![skärmdump](images/team-random-playerA.png)
+    ![screenshot](images/team-random-playerA.png)
 
-+ Du behöver en ny lista för att lagra alla spelare i lag A. Till att börja med ska listan vara tom.
++ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
     
-    ![skärmdump](images/team-teamA.png)
+    ![screenshot](images/team-teamA.png)
 
-+ Du kan nu lägga till din slumpmässigt utvalda spelare till `teamA`. För att göra detta kan du använda `teamA.append` (**lägg till** betyder tillägg till slutet).
++ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
     
-    ![skärmdump](images/team-teamA-add.png)
+    ![screenshot](images/team-teamA-add.png)
 
-+ Nu när din spelare har valts kan du ta bort dem från din lista med `spelare`.
++ Now that your player has been chosen, you can remove them from your list of `players`.
     
-    ![skärmdump](images/team-players-remove.png)
+    ![screenshot](images/team-players-remove.png)
 
-+ Testa den här koden genom att lägga till ett `skriv` kommando, för att visa de `spelare` kvar att välja mellan.
++ Test this code by adding a `print` command, to show the `players` left to choose from.
     
-    ![skärmdump](images/team-players-remove-test.png)
+    ![screenshot](images/team-players-remove-test.png)
     
-    I exemplet ovan har Hermione valts för `lagA`, och så har den tagits bort från listan med `spelare`.
+    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
