@@ -1,31 +1,31 @@
-## Odabir više igrača
+## Choosing lots of players
 
-Sada se moraš pobrinuti da je svaki igrač u nekom od timova.
+Next you'll need to make sure that every player has been chosen for a team.
 
-+ Označi dio kôda kojim se odabiru igrači za tim A i tim B i pritisni tipku tabulatora kako bi uvukao taj dio kôda.
++ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
     
     ![screenshot](images/team-loop-tab.png)
 
-+ Dodaj **while** petlju kako bi program birao igrače sve dok duljina liste `igraci` ne bude jednaka 0.
++ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
     
     ![screenshot](images/team-loop-while.png)
 
-+ Pokreni i testiraj projekt. Igrači bi se trebali dodavati timu A i timu B sve dok više ne ostane nijedan igrač.
++ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
     
     ![screenshot](images/team-loop-test.png)
 
-+ Dodaj kôd koji će ispisivati listu `tima A` **nakon** `while` petlje (pazi da ne bude uvučen).
++ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
     
-    Tako će se `timA` ispisati samo jednom, nakon što svi igrači tima budu odabrani.
+    This means that `teamA` will only be printed once, after all the players have been chosen.
     
     ![screenshot](images/team-teamA-paste.png)
 
-+ Na isti način možeš formirati i `tim B`. Također, možeš obrisati ostale naredbe za ispis jer su ti one samo služile da testiraš kôd.
++ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
     
-    Ovako bi tvoj kôd trebao izgledati:
+    Here's how your code should look:
     
     ![screenshot](images/team-loop-finished.png)
 
-+ Još jednom testiraj kôd i vidjet ćeš listu igrača i finalnu postavu svakog tima.
++ Test your code again and you should just see your list of players as well as your final teams.
     
     ![screenshot](images/team-loop-finished-test.png)
