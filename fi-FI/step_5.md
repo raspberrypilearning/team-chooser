@@ -1,14 +1,14 @@
-\--- haaste \---
+\--- challenge \---
 
-## Haaste: Valitaan joukkueelle B
+## Challenge: Choosing for team B
 
-Voitteko lisätä koodia valita pelaaja satunnaisesti joukkueelle B? Sinun täytyy:
+Can you add code to choose a player at random for team B? You'll need to:
 
-+ Luo uusi `teamB` -luettelo
-+ Valitse satunnainen pelaaja joukkueelle B (nimeltään `playerB`)
-+ `liittää` valitun soittimen `teamB` lista
-+ `poista` valittu pelaaja listalta `pelaajaa`
++ Create a new `teamB` list
++ Choose a random player for team B (called `playerB`)
++ `append` the chosen player to your `teamB` list
++ `remove` the chosen player from your list of `players`
 
-Koodi, jota tarvitset `teamB` , on **hyvin** samanlainen kuin koodi, jonka olet jo kirjoittanut `teamA`!
+The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
 
-\--- /haaste \---
+\--- /challenge \---
