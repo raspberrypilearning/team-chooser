@@ -1,35 +1,35 @@
-## Jogadores aleatórios
+## Random players
 
-Vamos escolher jogadores aleatórios!
+Let's choose random players!
 
 + To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
     
-    ![captura de tela](images/team-import-random.png)
+    ![screenshot](images/team-import-random.png)
 
-+ Para obter um player aleatório, você pode usar a `escolha`. (Você também pode excluir o código para imprimir jogadores individuais.)
++ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
     
-    ![captura de tela](images/team-random-player.png)
+    ![screenshot](images/team-random-player.png)
 
-+ Teste seu código `escolha` algumas vezes e você verá um jogador diferente sendo escolhido a cada vez.
++ Test your `choice` code a few times and you should see a different player being chosen each time.
 
-+ Você também pode criar uma nova variável chamada `playerA`e usá-la para armazenar seu player aleatório.
++ You can also create a new variable called `playerA`, and use it to store your random player.
     
-    ![captura de tela](images/team-random-playerA.png)
+    ![screenshot](images/team-random-playerA.png)
 
-+ Você precisará de uma nova lista para armazenar todos os jogadores da equipe A. Para começar, essa lista deve estar vazia.
++ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
     
-    ![captura de tela](images/team-teamA.png)
+    ![screenshot](images/team-teamA.png)
 
-+ Agora você pode adicionar seu player escolhido aleatoriamente ao `teamA`. Para fazer isso, você pode usar `teamA.append` (**acrescentar** significa adicionar ao final).
++ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
     
-    ![captura de tela](images/team-teamA-add.png)
+    ![screenshot](images/team-teamA-add.png)
 
-+ Agora que seu jogador foi escolhido, você pode removê-lo de sua lista de `jogadores`.
++ Now that your player has been chosen, you can remove them from your list of `players`.
     
-    ![captura de tela](images/team-players-remove.png)
+    ![screenshot](images/team-players-remove.png)
 
-+ Teste este código adicionando um `print` comando, para mostrar os `jogadores` restantes para escolher.
++ Test this code by adding a `print` command, to show the `players` left to choose from.
     
-    ![captura de tela](images/team-players-remove-test.png)
+    ![screenshot](images/team-players-remove-test.png)
     
-    No exemplo acima, Hermione foi escolhida para `teamA`e, portanto, foi removida da lista de `jogadores`.
+    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
