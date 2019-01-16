@@ -1,21 +1,21 @@
-## Người chơi
+## Players
 
-Hãy bắt đầu bằng cách tạo danh sách người chơi để chọn.
+Let's start by creating a list of players to choose from.
 
-+ Mở mẫu Python Trinket trống: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Bạn có thể sử dụng một biến để lưu trữ một danh sách **** người chơi. Danh sách phải nằm trong dấu ngoặc vuông `[]`, có dấu phẩy giữa mỗi mục trong danh sách.
++ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
     
-    Bắt đầu bằng cách thêm danh sách người chơi vào chương trình của bạn.
+    Start by adding a list of players to your program.
     
-    ![ảnh chụp màn hình](images/team-create-players.png)
+    ![screenshot](images/team-create-players.png)
 
-+ Thêm mã này để in `người chơi của bạn` biến:
++ Add this code to print your `players` variable:
     
-    ![ảnh chụp màn hình](images/team-print-players.png)
+    ![screenshot](images/team-print-players.png)
 
-+ Bạn có thể truy cập một mục trong danh sách bằng cách thêm vị trí của nó trong dấu ngoặc vuông sau tên biến.
++ You can get to an item in the list by adding its position in square brackets after the variable name.
     
-    Mục đầu tiên trong danh sách là **vị trí 0**. Điều này khác với Scratch, bắt đầu ở vị trí 1.
+    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
     
-    ![ảnh chụp màn hình](images/team-print-players-index.png)
+    ![screenshot](images/team-print-players-index.png)
