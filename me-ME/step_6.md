@@ -1,31 +1,31 @@
-## Biranje više igrača
+## Choosing lots of players
 
-Sada treba da se pobrineš da je svaki igrač odabran za neki od timova.
+Next you'll need to make sure that every player has been chosen for a team.
 
-+ Označi svoj kôd za biranje igrača za tim A i tim B i pritisni taster tabulatora da uvučeš kôd.
++ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
     
     ![screenshot](images/team-loop-tab.png)
 
-+ Dodaj petlju **while** kako bi igrači bili birani sve dok dužina liste `igrači` ne bude jednaka 0.
++ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
     
     ![screenshot](images/team-loop-while.png)
 
-+ Pokreni svoj kôd da ga isprobaš. Trebalo bi da vidiš kako se igrači dodaju timu A ili timu B sve dok više ne bude nijednog igrača.
++ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
     
     ![screenshot](images/team-loop-test.png)
 
-+ Dodaj kôd koji će ispisivati tvoju listu `timA` **poslije ** petlje `while` (pazi da ne bude uvučen).
++ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
     
-    To znači da će `timA` biti ispisan samo jednom, nakon što svi igrači budu odabrani.
+    This means that `teamA` will only be printed once, after all the players have been chosen.
     
     ![screenshot](images/team-teamA-paste.png)
 
-+ Možeš da uradiš isto za `timB`, a možeš i da izbrišeš ostale 'print' naredbe, pošto su one služile samo za isprobavanje tvog kôda.
++ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
     
-    Ovako bi trebalo da izgleda tvoj kôd:
+    Here's how your code should look:
     
     ![screenshot](images/team-loop-finished.png)
 
-+ Još jednom isprobaj svoj kôd i vidjećeš svoju listu igrača, kao i konačne sastave timova.
++ Test your code again and you should just see your list of players as well as your final teams.
     
     ![screenshot](images/team-loop-finished-test.png)
