@@ -1,21 +1,21 @@
-## Neparan broj igrača
+## Odd players
 
-Poboljšajmo program tako da može raditi i s neparnim brojem igrača.
+Let's improve your program to work with an odd number of players.
 
-+ Dodaj još jedno ime u svoju datoteku `igraci.txt` kako bi lista imala neparan broj igrača.
++ Add another name to your `players.txt` list, so that you have an odd number of players.
     
     ![screenshot](images/team-luna.png)
 
-+ Ako testiraš kôd, dobit ćeš poruku o grešci.
++ If you test your code, you'll see that you get an error message.
     
     ![screenshot](images/team-error.png)
 
-+ Greška se javlja jer tvoj program prvo nasumično bira po jednog igrača za tim A, a zatim za tim B. S obzirom da je broj igrača sada neparan, kada se odabere igrač za tim A nema više igrača koje bi se moglo birati za tim B.
++ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
     
-    Ovu grešku možeš popraviti ako kažeš programu da naredbom `break` izađe iz `while` petlje kada je lista `igraci` prazna.
+    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
     
     ![screenshot](images/team-fix.png)
 
-+ Testiraj kôd opet i vidjet ćeš da program sada radi s neparnim brojem igrača.
++ If you test your code again, you should see that it now works with an odd number of players.
     
     ![screenshot](images/team-fix-test.png)
