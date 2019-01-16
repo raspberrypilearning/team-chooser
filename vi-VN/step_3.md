@@ -1,11 +1,11 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Thêm nhiều người chơi hơn
+## Challenge: Adding more players
 
-Bạn có thể thêm nhiều người chơi hơn vào danh sách của mình không? Bạn có thể thêm bao nhiêu người chơi tùy thích, nhưng đảm bảo rằng có **thậm chí** số người chơi.
+Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
 
-Bạn cũng có thể thay đổi tên của 2 người chơi đầu tiên nếu muốn.
+You can also change the names of the first 2 players if you prefer.
 
-Bạn có thể thêm mã để in **chỉ một trong** người chơi mới của bạn không?
+Can you add code to print **just one** of your new players?
 
-\--- /thử thách \---
+\--- /challenge \---
