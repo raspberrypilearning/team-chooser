@@ -1,7 +1,7 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Nhiều đội hơn
+## Challenge: More teams
 
-Bạn có thể cải thiện chương trình của mình để chia người chơi thành 3 đội thay vì 2 không?
+Can you improve your program to split players into 3 teams instead of 2?
 
-\--- /thử thách \---
+\--- /challenge \---
