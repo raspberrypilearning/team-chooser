@@ -1,6 +1,6 @@
-## 介绍：
+## Introduction:
 
-在这个项目中，您将学习如何从一个队员列表中随机地选择队员来创建2个团队。
+In this project, you'll learn how to create 2 random teams from a list of players.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,73 +8,73 @@
   <img src="images/team-finished.png">
 </div>
 
-### 俱乐部导师的附加信息
+### Additional information for club leaders
 
-如果您需要打印此项目，请使用[适合打印版本](https://projects.raspberrypi.org/en/projects/team-chooser/print) 。
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print).
 
 ## \--- collapse \---
 
-## title: 俱乐部导师说明
+## title: Club leader notes
 
-## 介绍：
+## Introduction:
 
-在这个项目中，孩子们将学习如何制作一个程序，将一组队员随机分成2个团队。 这个项目教授列表和使用文件。
+In this project, children will learn how to make a program to split a list of players into 2 random teams. This project teaches lists and using files.
 
-## 在线资源
+## Online Resources
 
-**本项目使用Python 3。**我们建议使用[ trinket](https://trinket.io/)在线编写Python代码。 这个项目包含如下Trinket代码:
+**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
-* [新建（空白）Python Trinket - jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [New (blank) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-还有一个已完成的Trinket：
+There is also a trinket containing the completed project:
 
-* [完成的”组队器“ - trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* [‘Team Chooser’ Finished -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
-## 离线资源
+## Offline Resources
 
-如果你愿意，本项目可以[离线完成](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)。 你可以点击本项目的'项目资料'链接访问项目资源。 这个链接包含一个 “项目资源” 部分，里面有孩子们完成该项目所需的离线资源。 请确保每个孩子都可以访问这些资源。 这部分包含如下文件：
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * team/team.py
 
-你也可以在 “志愿者资源'”部分找到该项目的完成版本，里面包含：
+You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
 
 * team-finished/team.py
 
-(上述所有资源都可以以`.zip`压缩包的形式下载。)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## 学习目标
+## Learning Objectives
 
-* 列表；
-* 从文件中加载列表数据。
+* Lists;
+* Loading list data from a file.
 
-本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [利用基本编程结构创建简单程序。](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## 挑战
+## Challenges
 
-* “添加更多队员” - 向`players`列表添加更多成员。
-* “为Ｂ队选择队员” - 创建一个新的`teamB`列表，并向其添加随机队员；
-* “随机团队名称” - 创建和使用新的`teamNames`列表为团队分配随机名称;
-* “保存团队名称” - 将团队名称保存在文件中，并将其加载到`teamNames`变量中；
-* “更多团队” - 将队员分成3队而不是2队。
+* "Adding more players" - adding elements to a `players` list;
+* "Choosing for team B" - creating a new `teamB` list to add random players to;
+* "Random team names" - creating and using a new `teamNames` list to assign random names to teams;
+* "Storing team names" - storing team names in a file, and loading them into a `teamNames` variable;
+* "More teams" - splitting players into 3 teams instead of 2.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: 项目资源
+## title: Project materials
 
-## 项目资源
+## Project resources
 
-* [包含所有项目资源的.zip文件](resources/team-chooser-project-resources.zip)
-* [在线空白Python Trinket项目](http://jumpto.cc/python-new)
-* [离线空白Python文件](resources/new-new.py)
+* [.zip file containing all project resources](resources/team-chooser-project-resources.zip)
+* [Online blank Python Trinket](http://jumpto.cc/python-new)
+* [Offline blank Python file](resources/new-new.py)
 
-## 俱乐部导师资源
+## Club leader resources
 
-* [包含所有完成项目资源的.zip文件](resources/team-chooser-volunteer-resources.zip)
-* [在线已完成的Trinket项目](https://trinket.io/python/a699c44ce6)
+* [.zip file containing all completed project resources](resources/team-chooser-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 \--- /collapse \---
