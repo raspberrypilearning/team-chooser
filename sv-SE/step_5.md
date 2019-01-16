@@ -1,14 +1,14 @@
-\--- utmaning \---
+\--- challenge \---
 
-## Utmaning: Välja för lag B
+## Challenge: Choosing for team B
 
-Kan du lägga till kod för att välja en spelare slumpmässigt för lag B? Du måste:
+Can you add code to choose a player at random for team B? You'll need to:
 
-+ Skapa en ny `teamB` lista
-+ Välj en slumpmässig spelare för lag B (kallad `spelareB`)
-+ `lägg till` den valda spelaren till din `teamB` lista
-+ `Ta bort` den valda spelaren från din lista med `spelare`
++ Create a new `teamB` list
++ Choose a random player for team B (called `playerB`)
++ `append` the chosen player to your `teamB` list
++ `remove` the chosen player from your list of `players`
 
-Koden du behöver för `lagB` kommer att vara **mycket** lik den kod du redan har skrivit för `teamA`!
+The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
 
-\--- /utmaning \---
+\--- /challenge \---
