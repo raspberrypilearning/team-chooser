@@ -1,6 +1,6 @@
-## Random players
+## Zufällig ausgesuchte Mitspieler
 
-Let's choose random players!
+Lass uns Spieler zufällig auswählen!
 
 + To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
     
