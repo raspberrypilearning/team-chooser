@@ -1,8 +1,8 @@
-## Viele Mitspieler wählen
+## Choosing lots of players
 
-Als Nächstes musst du sicherstellen, dass jeder Spieler für eines der Teams ausgewählt wurde.
+Next you'll need to make sure that every player has been chosen for a team.
 
-+ Markiere deinen Code für die Auswahl der Spieler für Team A und Team B und drücke die Tabulatortaste, um den Code einzurücken.
++ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
     
     ![screenshot](images/team-loop-tab.png)
 
