@@ -1,0 +1,30 @@
+---
+hero_image: images/team-chooser.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Επιλογή Ομάδας
+description: Κάνε ένα πρόγραμμα που να χωρίζει παίκτες σε 2 τυχαίες ομάδες.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2018-04-05
+steps:
+  - title: 'Εισαγωγή'
+  - title: Παίκτες
+  - title: 'Πρόκληση: Προσθήκη περισσότερων παικτών'
+  - title: Τυχαίοι παίκτες
+  - title: 'Πρόκληση: Επιλογή για την ομάδα Β'
+  - title: Επιλογή πολλών παικτών
+  - title: Αρχεία
+  - title: Περιττός αριθμός παικτών
+  - title: 'Πρόκληση: Τυχαία ονόματα ομάδων'
+  - title: 'Πρόκληση: Αποθήκευση ονομάτων ομάδων'
+  - title: 'Πρόκληση: Περισσότερες ομάδες'
