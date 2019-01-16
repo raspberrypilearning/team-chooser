@@ -1,7 +1,7 @@
-\--- haaste \---
+\--- challenge \---
 
-## Haaste: Tiimien nimien tallentaminen
+## Challenge: Storing team names
 
-Voitko tallentaa tiimiesi nimiluettelon tiedostossa?
+Can you store your list of team names in a file?
 
-\--- /haaste \---
+\--- /challenge \---
