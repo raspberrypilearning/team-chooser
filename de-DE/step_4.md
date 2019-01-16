@@ -32,4 +32,4 @@ Lass uns Spieler zufällig auswählen!
     
     ![screenshot](images/team-players-remove-test.png)
     
-    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
+    Bei einem Test des obigen Beispiels wurde Hermine für `teamA` ausgewählt und wurde daher aus der Liste `spieler` entfernt.
