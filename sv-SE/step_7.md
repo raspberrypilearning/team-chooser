@@ -1,25 +1,25 @@
-## filer
+## Files
 
-Du kan använda en fil för att lagra din lista över spelare.
+You can use a file to store your list of players.
 
-+ Klicka på + -ikonen och skapa en ny fil som heter `players.txt`.
++ Click the + icon and create a new file called `players.txt`.
     
-    ![skärmdump](images/team-file-create.png)
+    ![screenshot](images/team-file-create.png)
 
-+ Lägg till dina spelare i din nya fil. Se till att det inte finns någon blank linje efter din sista spelare.
++ Add your players to your new file. Make sure that there is no blank line after your last player.
     
-    ![skärmdump](images/team-file-add.png)
+    ![screenshot](images/team-file-add.png)
 
-+ Ändra dina `spelare` lista så att den är tom.
++ Change your `players` list so that it is empty.
     
-    ![skärmdump](images/team-players-empty.png)
+    ![screenshot](images/team-players-empty.png)
 
-+ Öppna `players.txt` fil (den `'r'` sätt skrivskyddad).
++ Open your `players.txt` file (the `'r'` means read-only).
     
-    ![skärmdump](images/team-file-open.png)
+    ![screenshot](images/team-file-open.png)
 
-+ Läs listan från filen och lägg till din `spelare` lista. ( `Splitlines` koden betyder att varje rad i filen är ett nytt objekt i listan `spelare`).
++ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
     
-    ![skärmdump](images/team-file-load.png)
+    ![screenshot](images/team-file-load.png)
 
-+ Om du testa din kod ska den fungera exakt samma som tidigare. Men nu är det mycket lättare att lägga till spelare i din `players.txt` fil.
++ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
