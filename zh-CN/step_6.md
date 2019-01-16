@@ -1,31 +1,31 @@
-## Choosing lots of players
+## 选择很多队员
 
-Next you'll need to make sure that every player has been chosen for a team.
+接下来，你要确保每一个队员都被选入某个队中。
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ 高亮选择为A队和B队选择队员的代码，然后按tab键将这些代码缩进。
     
-    ![screenshot](images/team-loop-tab.png)
+    ![截图](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ 添加一个**while**循环来继续选择队员直到`players`列表的长度为0。
     
-    ![screenshot](images/team-loop-while.png)
+    ![截图](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ 运行你的代码进行测试。 你应该看到队员们被选入A队或B队，直到没有余下队员为止。
     
-    ![screenshot](images/team-loop-test.png)
+    ![截图](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ 在你的`while`循环**后面**添加代码以显示`teamA`列表（确保它没有缩进）。
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    这意味着只有在所有的队员都被选择了之后，`teamA`才被输出一次。
     
-    ![screenshot](images/team-teamA-paste.png)
+    ![截图](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ 您可以对 `teamB` 执行相同的操作，也可以删除其他输出命令，因为它们仅用于测试你的代码。
     
-    Here's how your code should look:
+    现在你的代码看看上去应该和这个差不多：
     
-    ![screenshot](images/team-loop-finished.png)
+    ![截图](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ 再次测试你的代码，你应该只看到你的队员名单以及最终团队的名单。
     
-    ![screenshot](images/team-loop-finished-test.png)
+    ![截图](images/team-loop-finished-test.png)
