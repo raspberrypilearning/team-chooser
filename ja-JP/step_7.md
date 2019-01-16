@@ -1,25 +1,25 @@
-## ファイル
+## Files
 
-ファイルを使用して、選手のリストを保存することができます。
+You can use a file to store your list of players.
 
-+ +アイコンをクリックしてと呼ばれる新しいファイルを作成します `players.txt`。
++ Click the + icon and create a new file called `players.txt`.
     
-    ![スクリーンショット](images/team-file-create.png)
+    ![screenshot](images/team-file-create.png)
 
-+ 新しいファイルにプレーヤーを追加します。 最後のプレーヤーの後に空白行がないことを確認してください。
++ Add your players to your new file. Make sure that there is no blank line after your last player.
     
-    ![スクリーンショット](images/team-file-add.png)
+    ![screenshot](images/team-file-add.png)
 
-+ `人のプレイヤー` リストを空になるように変更します。
++ Change your `players` list so that it is empty.
     
-    ![スクリーンショット](images/team-players-empty.png)
+    ![screenshot](images/team-players-empty.png)
 
-+ `players.txt` ファイルを開きます（ `'r'` は読み取り専用です）。
++ Open your `players.txt` file (the `'r'` means read-only).
     
-    ![スクリーンショット](images/team-file-open.png)
+    ![screenshot](images/team-file-open.png)
 
-+ ファイルからリストを読み、 `人のプレイヤーに` リストを追加します。 （ `スプリットライン` コードは、ファイル内のすべての行が `人のプレイヤー` リストの新しいアイテムであることを意味します）。
++ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
     
-    ![スクリーンショット](images/team-file-load.png)
+    ![screenshot](images/team-file-load.png)
 
-+ あなたのコードをテストするならば、前とまったく同じように動作するはずです。 ただし、 `players.txt` ファイルにプレーヤーを追加する方がはるかに簡単です。
++ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
