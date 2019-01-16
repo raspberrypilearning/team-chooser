@@ -1,7 +1,7 @@
-\---挑戦\---
+\--- challenge \---
 
-## 課題：チーム名の保存
+## Challenge: Storing team names
 
-チーム名のリストをファイルに保存できますか？
+Can you store your list of team names in a file?
 
-\--- /チャレンジ\---
+\--- /challenge \---
