@@ -1,25 +1,25 @@
-## Datoteke
+## Files
 
-Svoju listu igrača možeš spremiti u datoteku.
+You can use a file to store your list of players.
 
-+ Klikni na znak + i kreiraj novu datoteku koju ćeš nazvati `igraci.txt`.
++ Click the + icon and create a new file called `players.txt`.
     
     ![screenshot](images/team-file-create.png)
 
-+ Dodaj svoje igrače u novu datoteku. Nemoj ostaviti praznu liniju nakon posljednjeg igrača.
++ Add your players to your new file. Make sure that there is no blank line after your last player.
     
     ![screenshot](images/team-file-add.png)
 
-+ Izmijeni listu `igraci` tako da bude prazna.
++ Change your `players` list so that it is empty.
     
     ![screenshot](images/team-players-empty.png)
 
-+ Otvori datoteku `igraci.txt` (slovo `'r'` označava da je datoteku moguće samo čitati).
++ Open your `players.txt` file (the `'r'` means read-only).
     
     ![screenshot](images/team-file-open.png)
 
-+ Učitaj igrače iz datoteke i dodaj ih svojoj listi `igraci`. (Naredba `splitlines` u kôdu označava da je svaka linija u datoteci novi podatak u listi `igraci`).
++ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
     
     ![screenshot](images/team-file-load.png)
 
-+ Pokušaj testirati kôd - trebao bi raditi kao i prije. Ipak, sada je puno lakše dodati igrače u datoteku `igraci.txt`.
++ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
