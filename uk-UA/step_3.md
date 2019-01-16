@@ -1,11 +1,11 @@
-\--- завдання \---
+\--- challenge \---
 
-## Виклик: додати більше гравців
+## Challenge: Adding more players
 
-Чи можете ви додати більше гравців до вашого списку? Ви можете додати стільки гравців, скільки хочете, але переконайтеся, що у вас є **, навіть** кількість гравців.
+Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
 
-Ви також можете змінити імена перших 2 гравців, якщо хочете.
+You can also change the names of the first 2 players if you prefer.
 
-Чи можете ви додати код для друку **лише одного** ваших нових гравців?
+Can you add code to print **just one** of your new players?
 
-\--- / виклик \---
+\--- /challenge \---
