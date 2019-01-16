@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## التحدي: اختيار الفريق B
+## Challenge: Choosing for team B
 
-هل يمكنك إضافة كود لاختيار لاعب بشكل عشوائي للفريق B؟ ستحتاج إلى:
+Can you add code to choose a player at random for team B? You'll need to:
 
-+ إنشاء جديد ` teamB ` قائمة
-+ اختر لاعبًا عشوائيًا للفريق B (يسمى ` playerB `)
-+ ` إلحاقي ` اللاعب المختار إلى ` teamB الخاص بك ` قائمة
-+ ` إزالة ` اللاعب المختار من قائمتك من اللاعبين ``
++ Create a new `teamB` list
++ Choose a random player for team B (called `playerB`)
++ `append` the chosen player to your `teamB` list
++ `remove` the chosen player from your list of `players`
 
-الرمز الذي ستحتاجه لـ ` teamB ` سوف يكون ** جدا ** تشبه الشفرة التي كتبتها بالفعل لـ ` teamA `!
+The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
 
 \--- /challenge \---
