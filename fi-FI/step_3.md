@@ -1,11 +1,11 @@
-\--- haaste \---
+\--- challenge \---
 
-## Haaste: lisää pelaajia
+## Challenge: Adding more players
 
-Voitteko lisätä lisää pelaajia luetteloosi? Voit lisätä niin monta pelaajaa kuin haluat, mutta varmista, että on olemassa **tasainen** määrä pelaajia.
+Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
 
-Voit myös vaihtaa kahden ensimmäisen pelaajan nimet, jos haluat.
+You can also change the names of the first 2 players if you prefer.
 
-Voitteko lisätä koodin tulostaa **vain yksi** teidän uusia pelaajia?
+Can you add code to print **just one** of your new players?
 
-\--- /haaste \---
+\--- /challenge \---
