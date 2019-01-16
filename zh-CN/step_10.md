@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## 挑战：保存团队名称
+## Challenge: Storing team names
 
-您可以将您的团队名称列表保存在一个文件中吗？
+Can you store your list of team names in a file?
 
 \--- /challenge \---
