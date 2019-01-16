@@ -1,41 +1,41 @@
 ---
-hero_image: images / team-chooser.png
-theme: màu tím
+hero_image: images/team-chooser.png
+theme: violet
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, thiết kế-0, lập trình-1, phys-comp-0, sản xuất-0, cộng đồng-0
-title: Đội Chooser
-description: Tạo một chương trình để chia người chơi thành 2 đội ngẫu nhiên.
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Team Chooser
+description: Make a program to split players into 2 random teams.
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
-interests: Trò chơi
-technologies: con trăn
-site_areas: dự án
+interests: games
+technologies: python
+site_areas: projects
 hardware: ''
-software: con trăn
+software: python
 version: 3
 last_tested: 2018-04-05
 steps:
   - 
-    title: 'Giới thiệu: '
+    title: 'Introduction: '
   - 
-    title: Người chơi
+    title: Players
   - 
-    title: 'Thách thức: Thêm nhiều người chơi hơn'
+    title: 'Challenge: Adding more players'
   - 
-    title: Người chơi ngẫu nhiên
+    title: Random players
   - 
-    title: 'Thách thức: Lựa chọn đội B'
+    title: 'Challenge: Choosing for team B'
   - 
-    title: Chọn rất nhiều người chơi
+    title: Choosing lots of players
   - 
-    title: Các tập tin
+    title: Files
   - 
-    title: Người chơi lẻ
+    title: Odd players
   - 
-    title: 'Thách thức: Tên nhóm ngẫu nhiên'
+    title: 'Challenge: Random team names'
   - 
-    title: 'Thách thức: Lưu trữ tên nhóm'
+    title: 'Challenge: Storing team names'
   - 
-    title: 'Thách thức: Nhiều đội hơn'
+    title: 'Challenge: More teams'
