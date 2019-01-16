@@ -1,25 +1,25 @@
-## arquivos
+## Files
 
-Você pode usar um arquivo para armazenar sua lista de jogadores.
+You can use a file to store your list of players.
 
-+ Clique no ícone + e crie um novo arquivo chamado `players.txt`.
++ Click the + icon and create a new file called `players.txt`.
     
-    ![captura de tela](images/team-file-create.png)
+    ![screenshot](images/team-file-create.png)
 
-+ Adicione seus jogadores ao seu novo arquivo. Certifique-se de que não há linha em branco depois do seu último jogador.
++ Add your players to your new file. Make sure that there is no blank line after your last player.
     
-    ![captura de tela](images/team-file-add.png)
+    ![screenshot](images/team-file-add.png)
 
-+ Altere sua lista `jogadores` para que ela fique vazia.
++ Change your `players` list so that it is empty.
     
-    ![captura de tela](images/team-players-empty.png)
+    ![screenshot](images/team-players-empty.png)
 
-+ Abra o seu arquivo `players.txt` (o `'r'` significa somente leitura).
++ Open your `players.txt` file (the `'r'` means read-only).
     
-    ![captura de tela](images/team-file-open.png)
+    ![screenshot](images/team-file-open.png)
 
-+ Leia a lista do arquivo e adicione à sua lista de `jogadores`. (O `splitlines` code significa que cada linha no arquivo é um novo item na lista `jogadores`).
++ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
     
-    ![captura de tela](images/team-file-load.png)
+    ![screenshot](images/team-file-load.png)
 
-+ Se você testar seu código, ele deve funcionar exatamente como antes. No entanto, agora é muito mais fácil adicionar jogadores ao seu arquivo `players.txt`.
++ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
