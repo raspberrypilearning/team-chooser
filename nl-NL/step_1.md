@@ -1,4 +1,4 @@
-## Inleiding:
+## Inleiding
 
 In dit project leer je hoe je 2 willekeurige teams uit een spelerslijst kunt maken.
 
