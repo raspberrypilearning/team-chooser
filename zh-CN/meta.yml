@@ -17,7 +17,7 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: '介绍： '
+  - title: '介绍'
   - title: 队员
   - title: '挑战：添加更多队员'
   - title: 随机队员
