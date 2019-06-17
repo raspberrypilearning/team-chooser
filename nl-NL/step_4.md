@@ -32,4 +32,4 @@ We gaan spelers willekeurig kiezen
     
     ![screenshot](images/team-players-remove-test.png)
     
-    In het bovenstaande voorbeeld is Hermelien gekozen voor `teamA`en dus verwijderd uit de lijst met `spelers`.
+    In het bovenstaande voorbeeld is Hermelien gekozen voor `teamA` en dus verwijderd uit de lijst met `spelers`.

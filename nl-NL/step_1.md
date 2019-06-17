@@ -10,15 +10,16 @@ In dit project leer je hoe je 2 willekeurige teams uit een spelerslijst kunt mak
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/team-chooser/print).
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/team-chooser/print).
 
 --- collapse ---
 ---
 title: Clubleider notities
 ---
+
 ## Inleiding:
 
-In dit project leren kinderen om een programma te maken dat een lijst met spelers opsplitst in 2 willekeurige teams. In dit project wordt het gebruik van lijsten (lists) en het werken met bestanden geleerd.
+In dit project leren kinderen om een programma te maken dat een ​​lijst met spelers opsplitst in 2 willekeurige teams. In dit project wordt het gebruik van lijsten (lists) en het werken met bestanden geleerd.
 
 ## Online bronnen
 
@@ -28,7 +29,7 @@ In dit project leren kinderen om een programma te maken dat een lijst met speler
 
 Er is ook een trinket met het voltooide project:
 
-* ['Teamkiezer' voltooid - trinket.io/python/87461863f9](https://trinket.io/python/87461863f9)
+* ['Teamkiezer' voltooid - trinket.io/python/a699c44ce6](https://trinket.io/python/87461863f9)
 
 ## Offline bronnen
 
@@ -65,6 +66,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 ---
 title: Projectmaterialen
 ---
+
 ## Projectbronnen
 
 * [.zip-bestand met alle projectbronnen](resources/team-chooser-project-resources.zip)
@@ -74,7 +76,7 @@ title: Projectmaterialen
 ## Clubleider bronnen
 
 * [.zip-bestand met alle voltooide projectresources](resources/team-chooser-volunteer-resources.zip)
-* [Online voltooid Trinket-project](https://trinket.io/python/87461863f9)
+* [Online voltooid Trinket-project](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 --- /collapse ---

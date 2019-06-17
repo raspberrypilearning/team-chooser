@@ -4,7 +4,7 @@ We beginnen met het maken van een lijst met spelers om uit te kiezen.
 
 + Open de lege Python-sjabloon Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Je kunt een variabele gebruiken om een ​​ **lijst** van spelers in op te slaan. De lijst moet tussen vierkante haakjes `[ ]` staan, met een komma tussen elk item in de lijst.
++ Je kunt een variabele gebruiken om een ​​ **lijst** van spelers in op te slaan. De lijst moet tussen vierkante haakjes `[ ]`staan, met een komma tussen elk item in de lijst.
     
     Begin met het toevoegen van een lijst met spelers aan het programma.
     
