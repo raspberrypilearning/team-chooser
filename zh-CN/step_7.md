@@ -1,30 +1,25 @@
 ## 文件
 
-你可以使用一个文件来储存你的玩家列表。
+您可以使用文件来保存你的队员名单。
 
++ 单击 + 图标并新建一个名为 `players.txt` 的新文件。
+    
+    ![截图](images/team-file-create.png)
 
++ 将你的队员名单加入到新文件中。 确保在最后一名队员之后没有空行。
+    
+    ![截图](images/team-file-add.png)
 
-+ 点击 + 图标并创建一个名为 `players.txt` 的新文件。
++ 修改你的 `players` 列表, 清空。
+    
+    ![截图](images/team-players-empty.png)
 
-	![screenshot](images/team-file-create.png)
++ 打开你的 `players.txt` 文件（`‘r‘` 表示只读打开）。
+    
+    ![截图](images/team-file-open.png)
 
-+ 向你的新文件添加玩家。请确保你的最后一名玩家后面没有空行。
++ 从文件中读取列表并添加到`players`列表。 (`splitlines` 代码表示文件中的每一行都是 `players` 列表中的一个新成员)。
+    
+    ![截图](images/team-file-load.png)
 
-	![screenshot](images/team-file-add.png)
-
-+ 更改你的 `players`（玩家）列表使其不含任何内容。
-
-	![screenshot](images/team-players-empty.png)
-
-+ 打开你的 `players.txt` 文件（“r”意为只读）。
-
-	![screenshot](images/team-file-open.png)
-
-+ 从该文件读取列表并添加到你的 `players`（玩家）列表。（`splitlines`（分行式）代码指文件中的每行都代表 `players`（玩家）列表中的一个新项目）。
-
-	![screenshot](images/team-file-load.png)
-
-+ 如果你测试你的代码，它会与之前的运行方式完全相同。然而，现在向 `players.txt` 文件添加玩家要容易得多。
-
-
-
++ 如果进行测试，您的代码将与此前的运行一致。 然而，现在将队员添加到 `players.txt` 文件的做法要容易得多。
