@@ -10,7 +10,7 @@ In dit project leer je hoe je 2 willekeurige teams uit een spelerslijst kunt mak
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/team-chooser/print).
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/team-chooser/print).
 
 ## \--- collapse \---
 
