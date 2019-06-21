@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Team Chooser
-description: Make a program to split players into 2 random teams.
+title: 임의의 팀 배정 프로그램
+description: 플레이어를 2 개의 임의의 팀으로 나누는 프로그램을 만듭니다.
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
 interests: games
 technologies: python
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2018-04-05
 steps:
   - 
-    title: 'Introduction: '
+    title: '들어가며: '
   - 
-    title: Players
+    title: 플레이어
   - 
-    title: 'Challenge: Adding more players'
+    title: '과제: 더 많은 플레이어 추가'
   - 
-    title: Random players
+    title: 임의의 플레이어
   - 
-    title: 'Challenge: Choosing for team B'
+    title: '과제: 팀 B에 대한 Code 제작'
   - 
-    title: Choosing lots of players
+    title: 많은 플레이어 선택
   - 
-    title: Files
+    title: 파일들
   - 
-    title: Odd players
+    title: 홀수 플레이어 취급하기
   - 
-    title: 'Challenge: Random team names'
+    title: '과제: 임의의 팀 이름'
   - 
-    title: 'Challenge: Storing team names'
+    title: '과제: 팀 이름 저장'
   - 
-    title: 'Challenge: More teams'
+    title: '과제: 더 많은 팀'
