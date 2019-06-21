@@ -1,21 +1,21 @@
-## Odd players
+## 홀수 플레이어 취급하기
 
-Let's improve your program to work with an odd number of players.
+플레이어의 수가 홀수인 경우에도 처리할 수 있도록 프로그램을 개발해 봅시다.
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ `players.txt` 목록에 기영이를 추가하면 플레이어 수가 5명으로 홀수가 됩니다.
     
-    ![screenshot](images/team-luna.png)
+    ![스크린샷](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ 코드를 테스트하면 아래와 같이 오류 메시지가 표시됩니다.
     
-    ![screenshot](images/team-error.png)
+    ![스크린샷](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ 팀 A와 팀 B에 대한 임의의 플레이어를 계속 배정하기 때문에 오류가 발생합니다. 코드의 흐름 상 플레이어의 명수가 홀수인 경우 팀 A의 플레이어를 선택한 후, 팀 B에 대해 선택할 수 있는 플레이어가 없기 때문에 에러가 발생하는 것입니다.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    이 버그를 해결하려면, `players` 리스트가 빈 경우, `break` 문으로 `while`문을 빠져나가도록 코드를 설계하면 됩니다.
     
-    ![screenshot](images/team-fix.png)
+    ![스크린샷](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ 코드를 다시 테스트 해 보면, 홀수명의 플레이어에서 정상 작동하는 것을 볼 수 있습니다.
     
-    ![screenshot](images/team-fix-test.png)
+    ![스크린샷](images/team-fix-test.png)
