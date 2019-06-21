@@ -1,35 +1,35 @@
-## Random players
+## 임의의 플레이어
 
-Let's choose random players!
+플레이어를 임의로 선택해 봅시다.
 
-+ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
++ `플레이어` 리스트에서 임의의 플레이어를 불러오기 위해서는, 먼저 `임의의` 모듈 중 `선택` 부분을 불러와야 합니다.
     
-    ![screenshot](images/team-import-random.png)
+    ![스크린샷](images/team-import-random.png)
 
-+ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
++ 임의의 플레이어를 고르려면 `선택`를 사용할 수 있습니다. (코드를 삭제하여 개별 플레이어를 인쇄 할 수도 있습니다.)
     
-    ![screenshot](images/team-random-player.png)
+    ![스크린샷](images/team-random-player.png)
 
-+ Test your `choice` code a few times and you should see a different player being chosen each time.
++ `선택` 코드를 몇 번 테스트하여 매번 다른 플레이어가 선택되는지 확인해 보세요.
 
-+ You can also create a new variable called `playerA`, and use it to store your random player.
++ `플레이어A`라는 새 변수를 만들어 임의의 플레이어를 저장하는 데 사용할 수도 있습니다.
     
-    ![screenshot](images/team-random-playerA.png)
+    ![스크린샷](images/team-random-playerA.png)
 
-+ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
++ 팀 A의 모든 플레이어를 저장하려면 새 리스트가 필요합니다. 시작하려면 이 리스트가 빈 상태여야 합니다.
     
-    ![screenshot](images/team-teamA.png)
+    ![스크린샷](images/team-teamA.png)
 
-+ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
++ 이제 임의로 선택한 플레이어를 `팀 A`에 추가 할 수 있습니다. 이렇게 하기 위해서는 `teamA.append` (**append** 는 리스트 끝에 항목을 추가한다는 것을 의미함)함수를 사용할 수 있습니다.
     
-    ![screenshot](images/team-teamA-add.png)
+    ![스크린샷](images/team-teamA-add.png)
 
-+ Now that your player has been chosen, you can remove them from your list of `players`.
++ 플레이어가 선택되었다면, `플레이어` 리스트에서 해당 플레이어를 제거할 수 있습니다.
     
-    ![screenshot](images/team-players-remove.png)
+    ![스크린샷](images/team-players-remove.png)
 
-+ Test this code by adding a `print` command, to show the `players` left to choose from.
++ `print` 명령어를 `players`가 출력되도록 작성하여 여러분의 코드를 테스트해 보세요.
     
-    ![screenshot](images/team-players-remove-test.png)
+    ![스크린샷](images/team-players-remove-test.png)
     
-    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
+    위의 예시 그림에서 철수는 `팀A` 에 배정되어 `플레이어` 목록에서 제거되었음을 확인할 수 있습니다.
