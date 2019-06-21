@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Adding more players
+## 과제: 더 많은 플레이어 추가
 
-Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
+더 많은 플레이어를 목록에 추가 할 수 있습니까? 원하는 만큼 플레이어를 추가 할 수 있지만 총 플레이어 수가 **짝수**인지 확인하십시오.
 
-You can also change the names of the first 2 players if you prefer.
+원하는 경우 처음 2 명의 플레이어 이름을 변경할 수도 있습니다.
 
-Can you add code to print **just one** of your new players?
+플레이어가 팀에 배정될 때, 배정된 플레이어 **한명 한명의 이름을** 출력할 수 있나요?
 
 \--- /challenge \---
