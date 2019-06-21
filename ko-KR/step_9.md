@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Random team names
+## 과제 : 무작위 팀 이름
 
-Can you give both of your teams a random team name?
+두 팀 모두 무작위로 팀 이름을 부여 할 수 있습니까?
 
-You can create a list called `teamNames` containing the names to choose from.
+선택할 수 있는 팀 이름이 포함 된 `teamNames` 이라는 리스트를 새로 만들 수 있습니다.
 
-You can then choose (and display) a random name for each team.
+그런 다음 각 팀의 랜덤한 이름을 선택(표시) 할 수 있습니다.
 
-![screenshot](images/team-finished.png)
+![스크린샷](images/team-finished.png)
 
 \--- /challenge \---
