@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Storing team names
+## 과제: 팀 이름 저장
 
-Can you store your list of team names in a file?
+팀 이름 리스트를 파일에 저장할 수 있습니까?
 
 \--- /challenge \---
