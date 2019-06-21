@@ -1,31 +1,31 @@
-## Choosing lots of players
+## 많은 플레이어 선택
 
-Next you'll need to make sure that every player has been chosen for a team.
+다음으로 모든 플레이어가 각 팀에 배정되었는지 확인해야 합니다.
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ 팀 A와 팀 B의 플레이어를 고르는 코드를 선택하고 Tab 키를 눌러 코드를 들여 씁니다.
     
-    ![screenshot](images/team-loop-tab.png)
+    ![스크린샷](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ **while** 루프를 추가하여 `players` 리스트의 길이가 0이 될 때까지 플레이어를 계속 선택하도록 합니다.
     
-    ![screenshot](images/team-loop-while.png)
+    ![스크린샷](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ 코드를 실행하여 테스트하십시오. 더 이상 플레이어가 남아 있지 않을 때까지 A 팀과 B 팀의 플레이어를 배정해야 합니다.
     
-    ![screenshot](images/team-loop-test.png)
+    ![스크린샷](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ `while`문 **이후** `teamA` 리스트를 출력하는 코드를 추가합니다 (들여 쓰지 않았는지 확인하세요).
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    즉, `teamA` 리스트는 모든 플레이어의 팀을 배정한 후 한번만 출력됩니다.
     
-    ![screenshot](images/team-teamA-paste.png)
+    ![스크린샷](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ `teamB`에 대해서도 동일한 작업을 수행 할 수 있습니다. 그리고 코드에 들어 있었던 다른 print문은 테스트 용도이니 삭제하셔도 됩니다.
     
-    Here's how your code should look:
+    코드는 다음과 같이 설계되어야 합니다:
     
-    ![screenshot](images/team-loop-finished.png)
+    ![스크린샷](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ 코드를 다시 테스트하여 최종 팀 뿐만이 아니라 플레이어 목록도 볼 수 있습니다.
     
-    ![screenshot](images/team-loop-finished-test.png)
+    ![스크린샷](images/team-loop-finished-test.png)
