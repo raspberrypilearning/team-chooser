@@ -65,14 +65,13 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 title: Project materials
 ---
 ## Project resources
-* 
-You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Online blank Python Trinket](http://jumpto.cc/python-new)
 * [Offline blank Python file](resources/new-new.py)
 
 ## Club leader resources
 
-You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
