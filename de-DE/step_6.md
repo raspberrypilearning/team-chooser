@@ -1,31 +1,31 @@
-## Choosing lots of players
+## Viele Mitspieler wählen
 
-Next you'll need to make sure that every player has been chosen for a team.
+Als Nächstes musst du sicherstellen, dass jeder Spieler für eines der Teams ausgewählt wurde.
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ Markiere deinen Code für die Auswahl der Spieler für Team A und Team B und drücke die Tabulatortaste, um den Code einzurücken.
     
-    ![screenshot](images/team-loop-tab.png)
+    ![Screenshot](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ Füge eine **while** Schleife hinzu, um solange Spieler auszuwählen, bis die Länge der Liste `spieler` 0 ist.
     
-    ![screenshot](images/team-loop-while.png)
+    ![Screenshot](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ Führe deinen Code aus, um ihn zu testen. Du solltest sehen, dass ein Spieler nach dem anderen für Team A und Team B ausgewählt werden, bis keine Spieler mehr übrig sind.
     
-    ![screenshot](images/team-loop-test.png)
+    ![Screenshot](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ Füge Code hinzu, um die Liste deines `teamA` nach der **while** Schleife auszugeben (stelle sicher, dass es nicht eingerückt ist).
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    Dies bedeutet, dass `teamA` nur einmal gedruckt wird, nachdem alle Spieler ausgewählt wurden.
     
-    ![screenshot](images/team-teamA-paste.png)
+    ![Screenshot](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ Du kannst dasselbe für `teamB` tun und du kannst auch die anderen Druckbefehle löschen, da sie nur zum Testen des Codes vorhanden waren.
     
-    Here's how your code should look:
+    So sollte dein Code aussehen:
     
-    ![screenshot](images/team-loop-finished.png)
+    ![Screenshot](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ Teste deinen Code erneut und du solltest nur die Liste der Spieler sowie die Listen der beiden Teams sehen.
     
-    ![screenshot](images/team-loop-finished-test.png)
+    ![Screenshot](images/team-loop-finished-test.png)
