@@ -1,21 +1,21 @@
-## Odd players
+## Ungerade Anzahl an Mitspielern
 
-Let's improve your program to work with an odd number of players.
+Lass uns dein Programm verbessern, um mit einer ungeraden Anzahl von Spielern arbeiten zu können.
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ Füge einen anderen Namen zu deiner Liste in `spieler.txt`, so dass eine ungerade Anzahl von Spielern hast.
     
-    ![screenshot](images/team-luna.png)
+    ![Screenshot](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ Wenn du deinen Code testest, wird eine Fehlermeldung angezeigt.
     
-    ![screenshot](images/team-error.png)
+    ![Screenshot](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ Der Fehler liegt darin, dass dein Programm abwechselnd zufällige Spieler für Team A und dann Team B auswählt. Wenn jedoch eine ungerade Anzahl von Spielern vorhanden ist, kannst du nach Auswahl des letzten Spielers für Team A keinen Spieler mehr für Team B auswählen.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    Um diesen Fehler zu beheben, kannst du dein Programm anweisen mittels `break` die `while` Schleife zu verlassen, wenn die Liste deiner `Spieler` leer ist.
     
-    ![screenshot](images/team-fix.png)
+    ![Screenshot](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ Wenn du deinen Code erneut testest, solltest du feststellen, dass er jetzt auch mit einer ungeraden Anzahl von Spielern funktioniert.
     
-    ![screenshot](images/team-fix-test.png)
+    ![Screenshot](images/team-fix-test.png)
