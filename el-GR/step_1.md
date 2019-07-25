@@ -67,13 +67,13 @@
 
 ## Πόροι έργου
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/team-chooser-project-resources.zip)
+* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Online κενό Python Trinket](http://jumpto.cc/python-new)
 * [Offline κενό αρχείο Python](resources/new-new.py)
 
 ## Πόροι συντονιστή ομάδας
 
-* [Αρχείο .zip που περιέχει όλους τους ολοκληρωμένους πόρους του έργου](resources/team-chooser-volunteer-resources.zip)
+* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
