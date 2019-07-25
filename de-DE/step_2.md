@@ -1,21 +1,21 @@
-## Players
+## Mitspieler
 
-Let's start by creating a list of players to choose from.
+Beginnen wir mit dem Erstellen einer Liste von Spielern, aus denen du wählen kannst.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Öffne das leere Python-Vorlage-Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
++ Du kannst eine Variable verwenden, um eine **Liste** von Spielern zu speichern. Die Liste sollte in eckigen Klammern stehen. `[]` , mit einem Komma zwischen den Elementen in der Liste.
     
-    Start by adding a list of players to your program.
+    Beginne, indem du deinem Programm eine Liste von Spielern hinzufügst.
     
-    ![screenshot](images/team-create-players.png)
+    ![Screenshot](images/team-create-players.png)
 
-+ Add this code to print your `players` variable:
++ Füge diesen Code hinzu, um deine Variable `spieler` auszugeben:
     
-    ![screenshot](images/team-print-players.png)
+    ![Screenshot](images/team-print-players.png)
 
-+ You can get to an item in the list by adding its position in square brackets after the variable name.
++ Du kannst zu einem Element in der Liste gelangen, indem du seine Position in eckigen Klammern nach dem Variablennamen hinzufügst.
     
-    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
+    Der erste Eintrag in der Liste befindet sich an **Position 0**. Dies unterscheidet sich von Scratch, das mit Position 1 beginnt.
     
-    ![screenshot](images/team-print-players-index.png)
+    ![Screenshot](images/team-print-players-index.png)
