@@ -67,13 +67,13 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry
 
 ## Risorse del progetto
 
-* [File .zip con tutte le risorse del progetto](resources/team-chooser-project-resources.zip)
+* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Trinket online vuoto per Python](http://jumpto.cc/python-new)
 * [Trinket offline vuoto per Python](resources/new-new.py)
 
 ## Risorse per gli organizzatori del club
 
-* [File .zip con tutte le risorse del progetto completate](resources/team-chooser-volunteer-resources.zip)
+* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Trinket online completo](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
