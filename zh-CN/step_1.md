@@ -67,13 +67,13 @@
 
 ## 项目资源
 
-* [包含所有项目资源的.zip文件](resources/team-chooser-project-resources.zip)
+* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [在线空白Python Trinket项目](http://jumpto.cc/python-new)
 * [离线空白Python文件](resources/new-new.py)
 
 ## 俱乐部导师资源
 
-* [包含所有完成项目资源的.zip文件](resources/team-chooser-volunteer-resources.zip)
+* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [在线已完成的Trinket项目](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
