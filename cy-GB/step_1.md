@@ -67,13 +67,13 @@ Mae’r prosiect hwn yn cwmpasu elfennau o’r ffrydiau canlynol o [Gwricwlwm Cr
 
 ## Adnoddau'r prosiect
 
-* [.zip ffeil sy'n cynnwys holl adnoddau'r prosiect](resources/team-chooser-project-resources.zip)
+* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Trinket Python gwag ar-lein](http://jumpto.cc/python-new)
 * [Ffurflen wag Python all-lein](resources/new-new.py)
 
 ## Adnoddau arweinwyr clwb
 
-* [.zip sy'n cynnwys yr holl adnoddau prosiect cyflawn](resources/team-chooser-volunteer-resources.zip)
+* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Prosiect Trinket wedi'i gwblhau ar-lein](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
