@@ -1,4 +1,4 @@
-## Inleiding:
+## Inleiding
 
 In dit project leer je hoe je 2 willekeurige teams uit een spelerslijst kunt maken.
 
@@ -44,8 +44,8 @@ Je kunt ook een voltooide versie van dit project vinden in de sectie 'Vrijwillig
 
 ## Leerdoelen
 
-* lijsten (Engels: lists);
-* Laadt lijstdata uit een bestand.
+* Lijsten (Engels: lists);
+* Laad lijstdata uit een bestand.
 
 Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
@@ -67,13 +67,13 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Projectbronnen
 
-* [.zip-bestand met alle projectbronnen](resources/team-chooser-project-resources.zip)
+* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Online lege Python Trinket](http://jumpto.cc/python-new)
 * [Offline leeg Python-bestand](resources/new-new.py)
 
-## Clubleider bronnen
+## Clubleiderbronnen
 
-* [.zip-bestand met alle voltooide projectresources](resources/team-chooser-volunteer-resources.zip)
+* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Online voltooid Trinket-project](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
