@@ -1,3 +1,4 @@
+---
 hero_image: images/team-chooser.png
 theme: violet
 duration: 2
@@ -9,21 +10,21 @@ title: Team Wähler
 description: Erstelle ein Programm, um die Mitspieler in 2 beliebige Teams aufzuteilen.
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
 interests: games
-technologies: python
+technologies: Python
 site_areas: projects
 hardware: ''
 software: python
 version: 3
 last_tested: 2018-04-05
-steps: 
-- title: 'Einführung'
-- title: Mitspieler
-- title: 'Aufgabe: Weitere Mitspieler hinzufügen'
-- title: Beliebige Mitspieler
-- title: 'Aufgabe:  Für Team B wählen'
-- title: Viele Mitspieler wählen
-- title: Dateien
-- title: Ungleiche Anzahl an Mitspielern
-- title: 'Aufgabe: Beliebige Team-Namen'
-- title: 'Aufgabe: Team Namen speichern'
-- title: 'Aufgabe: Weitere Teams'
+steps:
+  - title: 'Einleitung: '
+  - title: Mitspieler
+  - title: 'Aufgabe: Weitere Mitspieler hinzufügen'
+  - title: Zufällig ausgesuchte Mitspieler
+  - title: 'Aufgabe: Für Team B wählen'
+  - title: Viele Mitspieler wählen
+  - title: Dateien
+  - title: Ungerade Anzahl an Mitspielern
+  - title: 'Aufgabe: Zufällige Teamnamen'
+  - title: 'Aufgabe: Teamnamen speichern'
+  - title: 'Aufgabe: Weitere Teams'

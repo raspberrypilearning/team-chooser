@@ -1,12 +1,11 @@
 --- challenge ---
-## Aufgabe: Weitere Mitspieler hinzufügen 
-Kannst du noch weitere Mitspieler zu deiner Liste hinzufügen? Du kannst so viele Mitpieler hinzufügen, wie du möchtest. Achte aber darauf, dass es eine __gleichmäßige__ Anzahl von Mitspielern ist.
 
-Du kannst auch die Namen der ersten 2 Mitspieler ändern, wenn du möchtest.
+## Aufgabe: Weitere Mitspieler hinzufügen
 
-Kannst du den Code hinzufügen, um __nur einen__ deiner neuen Mitspieler auszudrucken?
+Kannst du mehr Spieler zu deinem Spiel hinzufügen? Du kannst so viele Spieler hinzufügen, wie du möchtest, aber stelle sicher, dass es eine **gerade** Anzahl von Spielern gibt.
 
+Du kannst auch die Namen der ersten beiden Spieler ändern, wenn du möchtest.
 
-
+Kannst du Code hinzufügen, um **nur einen** deiner neuen Spieler zu drucken?
 
 --- /challenge ---

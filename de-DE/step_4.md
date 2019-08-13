@@ -1,35 +1,35 @@
-## Beliebige Mitspieler
+## Zufällig ausgesuchte Mitspieler
 
-Lass uns beliebige Mitspieler wählen!
+Lass uns Spieler zufällig auswählen!
 
-+ Um in der Lage zu sein, einen beliebigen Mitspieler von deiner `players` Liste (Mitspielerliste) aufzurufen, musst du zuerst den `choice` (Wahl) Teil des `random` (beliebig) Moduls importieren.
++ Um einen zufälligen Spieler von deiner Liste `spieler` zu bekommen, musst du zuerst den Teil `choice` des Moduls `random` importieren.
+    
+    ![Screenshot](images/team-import-random.png)
 
-	![screenshot](images/team-import-random.png)
++ Um einen zufälligen Spieler zu erhalten, kannst du die Option `choice` verwenden. (Du kannst den Code zum Ausgeben für aller Spieler auch löschen, um einzelne Spieler auszugeben.)
+    
+    ![Screenshot](images/team-random-player.png)
 
-+ Um einen beliebigen Mitspieler aufzurufen, kannst du `choice` (Wahl) benutzen. (Du kannst den Code auch löschen, um einzelne Mitspieler auszudrucken.)
++ Teste deinen `choice` Code ein paar Mal und es sollte jedes Mal eine anderer Spieler ausgewählt werden.
 
-	![screenshot](images/team-random-player.png)
++ Du kannst auch eine neue Variable mit dem Namen `spielerA` erstellen und sie dann zum Speichern deines zufälligen Spielers zu verwenden.
+    
+    ![Screenshot](images/team-random-playerA.png)
 
-+ Teste deinen `choice` (Wahl) Code ein paar Mal und du kannst dann sehen, wie jedes Mal ein anderer Mitspieler ausgewählt wird.
++ Du benötigst eine neue Liste, um alle Spieler in Team A zu speichern. Zunächst sollte diese Liste leer sein.
+    
+    ![Screenshot](images/team-teamA.png)
 
-+ Du kannst auch eine neue Variable namens `playerA` (Spieler A) erstellen und diese dazu benutzen, deinen beliebigen Spieler zu speichern.
++ Du kannst jetzt deinen zufällig ausgewählten Spieler zu `teamA` hinzufügen. Dazu kannst du `teamA.append` (**append** bedeutet am Ende hinzufügen).
+    
+    ![Screenshot](images/team-teamA-add.png)
 
-	![screenshot](images/team-random-playerA.png)
++ Nachdem ein Spieler ausgewählt wurde, kannst du ihn aus der Liste `spieler` entfernen.
+    
+    ![Screenshot](images/team-players-remove.png)
 
-+ Du brauchst eine neue Liste, um alle Mitspieler in Team A zu speichern. Zu Beginn sollte diese Liste jedoch leer sein.
-
-	![screenshot](images/team-teamA.png)
-
-+ Du kannst jetzt deinen beliebig ausgewählten Mitspieler dem `teamA` hinzufügen. Um dies zu tun, kannst du `teamA.append` benutzen (__append __ heißt wörtlich: „anfügen“ und bedeutet, etwas dem Ende hinzufügen).
-
-	![screenshot](images/team-teamA-add.png)
-
-+ Jetzt, wo du deinen Mitspieler ausgewählt hast, kannst du ihn von der Liste an `players` (Mitspielern) entfernen.
-
-	![screenshot](images/team-players-remove.png)
-
-+ Teste diesen Code, indem du einen `print` (drucken) Befehl hinzufügst, um die verbleibenden `players` (Mitspieler) anzuzeigen, unter denen du noch auswählen kannst.
-
-	![screenshot](images/team-players-remove-test.png)
-
-	In dem o.g. Beispiel wurde Hermione für `teamA` ausgewählt und wurde daher von der Liste der `players` (Mitspieler) entfernt.
++ Teste diesen Code, indem du eine Ausgabe mit `print` hinzufügst, um die noch auswählbaren Elemente der Liste `spieler` anzuzeigen.
+    
+    ![Screenshot](images/team-players-remove-test.png)
+    
+    Bei einem Test des obigen Beispiels wurde Hermine für `teamA` ausgewählt und wurde daher aus der Liste `spieler` entfernt.

@@ -1,31 +1,31 @@
 ## Viele Mitspieler wählen
 
-Als nächstes musst du darauf achten, dass jeder Mitspieler für ein Team ausgewählt wurde.
+Als Nächstes musst du sicherstellen, dass jeder Spieler für eines der Teams ausgewählt wurde.
 
-+ Hebe deinen Code für die Wahl der Spieler für Team A und Team B hervor und drücke auf die Tabulatortaste, um den Code einzurücken.
++ Markiere deinen Code für die Auswahl der Spieler für Team A und Team B und drücke die Tabulatortaste, um den Code einzurücken.
+    
+    ![Screenshot](images/team-loop-tab.png)
 
-	![screenshot](images/team-loop-tab.png)
++ Füge eine **while** Schleife hinzu, um solange Spieler auszuwählen, bis die Länge der Liste `spieler` 0 ist.
+    
+    ![Screenshot](images/team-loop-while.png)
 
-+ Füge eine __Weile__Schleife hinzu, um die Mitspieler auszuwählen bis die Länge der `players` Liste (Mitspielerliste) bei 0 steht.
++ Führe deinen Code aus, um ihn zu testen. Du solltest sehen, dass ein Spieler nach dem anderen für Team A und Team B ausgewählt werden, bis keine Spieler mehr übrig sind.
+    
+    ![Screenshot](images/team-loop-test.png)
 
-	![screenshot](images/team-loop-while.png)
++ Füge Code hinzu, um die Liste deines `teamA` nach der **while** Schleife auszugeben (stelle sicher, dass es nicht eingerückt ist).
+    
+    Dies bedeutet, dass `teamA` nur einmal gedruckt wird, nachdem alle Spieler ausgewählt wurden.
+    
+    ![Screenshot](images/team-teamA-paste.png)
 
-+ Lasse deinen Code laufen, um ihn zu testen. Du solltest die Mitspieler sehen können, die für Team A und Team B gewählt werden, bis keine Spieler mehr übrig sind.
++ Du kannst dasselbe für `teamB` tun und du kannst auch die anderen Druckbefehle löschen, da sie nur zum Testen des Codes vorhanden waren.
+    
+    So sollte dein Code aussehen:
+    
+    ![Screenshot](images/team-loop-finished.png)
 
-	![screenshot](images/team-loop-test.png)
-
-+ Füge den Code hinzu, um deine `teamA` Liste __nach__ deiner `while` (Weileschleife) zu drucken (achte darauf, dass sie nicht eingerückt ist).
-
-	Das bedeutet, dass `teamA` nur einmal gedruckt wird, nachdem alle Spieler gewählt worden sind.
-
-	![screenshot](images/team-teamA-paste.png)
-
-+ Du kannst das Gleiche für `teamB` machen und du kannst auch die anderen Druck-Befehle löschen, weil diese nur dazu dienten, um deinen Code zu testen.
-
-	Hier ist, wie dein Code aussehen sollte:
-
-	![screenshot](images/team-loop-finished.png)
-
-+ Teste erneut deinen Code und du solltest deine Liste der Mitspieler sowie die endgültigen Teams sehen können.
-
-	![screenshot](images/team-loop-finished-test.png)
++ Teste deinen Code erneut und du solltest nur die Liste der Spieler sowie die Listen der beiden Teams sehen.
+    
+    ![Screenshot](images/team-loop-finished-test.png)

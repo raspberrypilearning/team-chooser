@@ -1,13 +1,13 @@
 --- challenge ---
-## Aufgabe: Beliebige Team-Namen
-Kannst du beiden deiner Teams einen beliebigen Team-Namen geben?
 
-Du kannst eine Liste namens `teamNames` (Team-Namen) erstellen, welche die Namen enthält unter denen du auswählen kannst.
+## Aufgabe: Zufällige Teamnamen
 
-Du kannst dann einen beliebigen Namen für jedes Team auswählen (und anzeigen).
+Kannst du deinen beiden Teams zufällige Namen geben?
 
-![screenshot](images/team-finished.png)
+Du kannst eine Liste mit dem Namen `teamNamen` erstellen, die Namen zur Auswahl enthält.
 
+Du kannst dann für jedes Team einen zufälligen Namen auswählen (und anzeigen).
 
+![Screenshot](images/team-finished.png)
 
 --- /challenge ---
