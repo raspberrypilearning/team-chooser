@@ -1,23 +1,21 @@
 ## Mitspieler
 
-Lass uns beginnen, indem wir eine Liste von Mitspielern erstellen unter denen wir auswählen können.
+Beginnen wir mit dem Erstellen einer Liste von Spielern, aus denen du wählen kannst.
 
-+ Das leere Python Vorlage- Trinket öffnen: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>. 
++ Öffne das leere Python-Vorlage-Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Du kannst eine Variable benutzen, um __eine Liste__ von Mitspielern zu speichern. Die Liste sollte in eckigen Klammern `[ ]` stehen mit einem Komma zwischen jedem Element in der Liste. 
++ Du kannst eine Variable verwenden, um eine **Liste** von Spielern zu speichern. Die Liste sollte in eckigen Klammern stehen. `[]` , mit einem Komma zwischen den Elementen in der Liste.
+    
+    Beginne, indem du deinem Programm eine Liste von Spielern hinzufügst.
+    
+    ![Screenshot](images/team-create-players.png)
 
-	Beginne damit, eine Liste von Mitspielern deinem Programm hinzuzufügen.
++ Füge diesen Code hinzu, um deine Variable `spieler` auszugeben:
+    
+    ![Screenshot](images/team-print-players.png)
 
-	![screenshot](images/team-create-players.png)
-
-+ Füge diesen Code hinzu, um deine `players` (Mitspieler) Variable auszudrucken:
-
-	![screenshot](images/team-print-players.png)
-
-+ Du kannst zu einem Element in der Liste gelangen, indem du dessen Position in eckigen Klammern nach dem Variablenamen hinzufügst.
-
-	Das erste Element in der Liste ist in __Position 0__. Dies ist anders im Vergleich zu Scratch, wo man bei Position 1 beginnt.
-
-	![screenshot](images/team-print-players-index.png)
-
-
++ Du kannst zu einem Element in der Liste gelangen, indem du seine Position in eckigen Klammern nach dem Variablennamen hinzufügst.
+    
+    Der erste Eintrag in der Liste befindet sich an **Position 0**. Dies unterscheidet sich von Scratch, das mit Position 1 beginnt.
+    
+    ![Screenshot](images/team-print-players-index.png)

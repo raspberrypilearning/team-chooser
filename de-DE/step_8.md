@@ -1,24 +1,21 @@
-## Ungleiche Anzahl an Mitspielern
+## Ungerade Anzahl an Mitspielern
 
-Lass uns dein Programm verbessern, um mit einer ungleichen Anzahl von Mitspielern zu arbeiten.
+Lass uns dein Programm verbessern, um mit einer ungeraden Anzahl von Spielern arbeiten zu können.
 
- + Füge einen weiteren Namen zu deiner `players.txt` Liste (Mitspielerliste) hinzu, sodass du eine ungleiche Anzahl an Mitspielern hast.
++ Füge einen anderen Namen zu deiner Liste in `spieler.txt`, so dass eine ungerade Anzahl von Spielern hast.
+    
+    ![Screenshot](images/team-luna.png)
 
-	![screenshot](images/team-luna.png)
++ Wenn du deinen Code testest, wird eine Fehlermeldung angezeigt.
+    
+    ![Screenshot](images/team-error.png)
 
-+ Wenn du deinen Code testest, wirst du sehen, dass du eine Fehlermeldung erhältst.
++ Der Fehler liegt darin, dass dein Programm abwechselnd zufällige Spieler für Team A und dann Team B auswählt. Wenn jedoch eine ungerade Anzahl von Spielern vorhanden ist, kannst du nach Auswahl des letzten Spielers für Team A keinen Spieler mehr für Team B auswählen.
+    
+    Um diesen Fehler zu beheben, kannst du dein Programm anweisen mittels `break` die `while` Schleife zu verlassen, wenn die Liste deiner `Spieler` leer ist.
+    
+    ![Screenshot](images/team-fix.png)
 
-	![screenshot](images/team-error.png)
-
-+ Dieser Fehler liegt daran, dass dein Programm weiterhin beliebige Mitspieler für Team A und dann Team B auswählt. Wenn es jedoch eine ungleiche Anzahl an Mitspielern geben sollte, dann wird es nach der Wahl eines Mitspielers für Team A keine weiteren Mitspieler für Team B geben, die gewählt werden können.
-
-	Um diesen Fehler zu beheben , kannst du deinem Programm mitteilen, dass es aus deiner `while` (Weileschleife) `break` (ausbrechen) soll, wenn deine `players` Liste (Mitspielerliste) leer ist. 
-
-	![screenshot](images/team-fix.png)
-
-+ Wenn du dann wieder deinen Code testest, solltest du jetzt sehen können, dass er mit einer ungeraden Zahl an Mitspielern funktioniert.
-
-	![screenshot](images/team-fix-test.png)
-
-
-
++ Wenn du deinen Code erneut testest, solltest du feststellen, dass er jetzt auch mit einer ungeraden Anzahl von Spielern funktioniert.
+    
+    ![Screenshot](images/team-fix-test.png)

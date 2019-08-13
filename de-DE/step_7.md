@@ -1,28 +1,25 @@
 ## Dateien
 
-Du kannst eine Datei benutzen, um deine Liste der Mitspieler dort abzuspeichern.
+Du kannst eine Datei verwenden, um deine Spielerliste zu speichern.
 
-+ Klicke auf das + Icon und erstelle eine neue Datei namens `players.txt` (Mitspieler).
++ Klicke auf das + -Symbol und erstelle eine neue Datei mit dem Namen `spieler.txt`.
+    
+    ![Screenshot](images/team-file-create.png)
 
-	![screenshot](images/team-file-create.png)
++ Füge deine Spieler deiner neuen Datei hinzu. Stelle sicher, dass sich nach deinem letzten Spieler keine Leerzeile befindet.
+    
+    ![Screenshot](images/team-file-add.png)
 
-+ Füge die Mitspieler deiner neuen Datei hinzu. Achte darauf, dass du nach dem letzten Mitspieler keine Leerzeile freilässt.
++ Ändere deine Liste `spieler`, so dass sie leer ist.
+    
+    ![Screenshot](images/team-players-empty.png)
 
-	![screenshot](images/team-file-add.png)
++ Öffne deine Datei `spieler.txt` (das `'r'` bedeutet schreibgeschützt).
+    
+    ![Screenshot](images/team-file-open.png)
 
-+ Ändere deine `players` Liste (Mitspielerliste), damit sie leer ist.
++ Lese die Liste aus der Datei und fügen Sie sie der Liste `spieler` hinzu. (Der Code `splitlines` bedeutet, dass jede Zeile in der Datei ein neues Element in der Liste `spieler` ist).
+    
+    ![Screenshot](images/team-file-load.png)
 
-	![screenshot](images/team-players-empty.png)
-
-+ Öffne deine `players.txt` (Mitspieler) Datei (das `'r'` bedeutet „read-only“ (wörtlich: „nur lesen“, also schreibgeschützt).
-
-	![screenshot](images/team-file-open.png)
-
-+ Lies die Liste von der Datei und füge sie zu deiner `players` Liste (Mitspielerliste) hinzu. (Der `splitlines` (Teilungslinie) Code bedeutet, dass jede Zeile in der Datei ein neues Element in der `players` Liste (Mitspielerliste) ist).
-
-	![screenshot](images/team-file-load.png)
-
-+ Wenn du deinen Code testest, sollte er exakt gleich wie zuvor funktionieren. Es ist jetzt jedoch wesentlich leichter, etwaige Mitspieler deiner `players.txt` (Mitspieler) Datei hinzuzufügen.
-
-
-
++ Wenn du deinen Code testest, sollte er genauso funktionieren wie zuvor. Es ist nun jedoch viel einfacher, Spieler zu der Datei `spieler.txt` hinzuzufügen.
