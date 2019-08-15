@@ -1,21 +1,21 @@
-## Players
+## Jucători
 
-Let's start by creating a list of players to choose from.
+Să începem prin crearea unei liste de jucători din care se va alege.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Deschide un șablon Trinket nou pentru Python: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
++ Poți folosi o variabilă pentru a reține o **listă** de jucători. Lista trebuie să fie între paranteze drepte `[ ]`, cu o virgulă între fiecare element din listă.
     
-    Start by adding a list of players to your program.
+    Începe prin a adăuga o listă de jucători la programul tău.
     
-    ![screenshot](images/team-create-players.png)
+    ![captură de ecran](images/team-create-players.png)
 
-+ Add this code to print your `players` variable:
++ Adaugă acest cod pentru a afișa variabila ta `jucatori`:
     
-    ![screenshot](images/team-print-players.png)
+    ![captură de ecran](images/team-print-players.png)
 
-+ You can get to an item in the list by adding its position in square brackets after the variable name.
++ Poți ajunge la un element din listă prin adăugarea poziției acestuia între paranteze drepte după numele variabilei.
     
-    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
+    Primul element din listă se află la **poziția 0**. Acest lucru este diferit de Scratch, unde listele încep de la poziția 1.
     
-    ![screenshot](images/team-print-players-index.png)
+    ![captură de ecran](images/team-print-players-index.png)
