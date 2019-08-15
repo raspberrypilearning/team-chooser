@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More teams
+## Provocare: Mai multe echipe
 
-Can you improve your program to split players into 3 teams instead of 2?
+Poți îmbunătăți programul tău pentru a împărți jucătorii în 3 echipe în loc de două?
 
 \--- /challenge \---
