@@ -1,6 +1,6 @@
-## Introduction:
+## Introducere:
 
-In this project, you'll learn how to create 2 random teams from a list of players.
+În acest proiect, vei învăța cum să creezi 2 echipe aleatorii dintr-o listă de jucători.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
