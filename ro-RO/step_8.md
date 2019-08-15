@@ -1,21 +1,21 @@
-## Odd players
+## Jucători impari
 
-Let's improve your program to work with an odd number of players.
+Să îmbunătățim programul pentru a funcționa cu un număr impar de jucători.
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ Adaugă un alt nume listei tale `jucatori.txt`, pentru a avea un număr impar de jucători.
     
-    ![screenshot](images/team-luna.png)
+    ![captură de ecran](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ Dacă testezi codul, vei vedea că primești un mesaj de eroare.
     
-    ![screenshot](images/team-error.png)
+    ![captură de ecran](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ Această eroare se datorează faptului că programul tău alege jucători la întamplare pentru echipele A și B. Cu toate acestea, dacă numărul de jucători este impar, atunci după ce se alege un jucător pentru echipa A, nu mai rămâne niciun jucător de ales pentru echipa B.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    Pentru a rezolva această problemă, îi poți spune programului tău să iasă din din structura ta `while` dacă lista ta de `jucatori` este goală cu ajutorul lui `break`.
     
-    ![screenshot](images/team-fix.png)
+    ![captură de ecran](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ Dacă testezi codul din nou, ar trebui să vezi că acum funcționează cu un număr impar de jucători.
     
-    ![screenshot](images/team-fix-test.png)
+    ![captură de ecran](images/team-fix-test.png)
