@@ -2,48 +2,48 @@
 
 from random import choice
 
-#create a list of players from a file
-players = []
-file = open('players.txt', 'r')
-players = file.read().splitlines()
-print('Players:', players)
+#creeaza o lista de jucatori dintr-un fisier
+jucatori = []
+fisier = open('jucatori.txt', 'r')
+jucatori = fisier.read().splitlines()
+print('Jucatori:', jucatori)
 
-#create a list of team names from a file
-teamNames = []
-file = open('teamNames.txt', 'r')
-teamNames = file.read().splitlines()
-print('Team names:', teamNames)
+#creeaza o lista de nume pentru echipe dintr-un fisier
+numeEchipe = []
+fisier = open('numeEchipe.txt', 'r')
+numeEchipe = fisier.read().splitlines()
+print('Nume pentru echipe:', numeEchipe)
 
-#create empty team lists
-teamA = []
-teamB = []
+#creeaza liste goale pentru echipe
+echipaA = []
+echipaB = []
 
-#loop until there are no players left
-while len(players) > 0:
+#repeta pana cand nu mai ramane niciun jucator
+while len(jucatori) > 0:
   
-  #choose a random player for team A
-  playerA = choice(players)
-  teamA.append(playerA)
-  #remove the player from the players list
-  players.remove(playerA)
+  #alege un jucator aleatoriu pentru echipa A
+  jucatorA = choice(jucatori)
+  echipaA.append(jucatorA)
+  #scoate jucatorul din lista jucatori
+  jucatori.remove(jucatorA)
   
-  #break out of the loop if there are no players left
-  if players == []: 
+  #iesi din bucla daca nu mai este niciun jucator
+  if jucatori == []: 
     break
   
-  #choose a random player for team B
-  playerB = choice(players)
-  teamB.append(playerB)
-  #remove the player from the players list
-  players.remove(playerB)
+  #alege un jucator aleatoriu pentru echipa B
+  jucatorB = choice(jucatori)
+  echipaB.append(jucatorB)
+  #scoate jucatorul din lista jucatori
+  jucatori.remove(jucatorB)
 
-#choose random team names for the 2 teams
-teamNameA = choice(teamNames)
-teamNames.remove(teamNameA)
-teamNameB = choice(teamNames)
-teamNames.remove(teamNameB)
+#alege nume de echipe la intamplare pentru cele doua echipe
+numeEchipaA = choice(numeEchipe)
+numeEchipe.remove(numeEchipaA)
+numeEchipaB = choice(numeEchipe)
+numeEchipe.remove(numeEchipaB)
 
-#print the teams
-print('\nHere are your teams:\n')
-print(teamNameA, teamA)
-print(teamNameB, teamB)
+#afiseaza echipele
+print('\nAcestea sunt echipele tale:\n')
+print(numeEchipaA, echipaA)
+print(numeEchipaB, echipaB)
