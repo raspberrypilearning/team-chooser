@@ -1,31 +1,31 @@
-## Choosing lots of players
+## Alegerea mai multor jucători
 
-Next you'll need to make sure that every player has been chosen for a team.
+Mai departe va trebui să te asiguri că fiecare jucător a fost ales pentru o echipă.
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ Selectează codul pentru alegerea jucătorilor pentru echipa A si echipa B și apasă tasta tab pentru a indenta codul.
     
-    ![screenshot](images/team-loop-tab.png)
+    ![captură de ecran](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ Adaugă o structură **while** pentru a alege jucători până când numărul elementelor din lista `jucatori` este 0.
     
-    ![screenshot](images/team-loop-while.png)
+    ![captură de ecran](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ Rulează codul pentru a îl testa. Ar trebui să vezi cum jucătorii sunt aleși pentru echipele A și B până când nu mai rămâne niciunul.
     
-    ![screenshot](images/team-loop-test.png)
+    ![captură de ecran](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ Adaugă cod pentru a afișa lista ta `echipaA` **după** structura ta `while` (asigurându-te că nu este indentată).
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    Acest lucru înseamnă că `echipaA` va fi afișată o singură dată, după ce toți jucătorii vor fi aleși.
     
-    ![screenshot](images/team-teamA-paste.png)
+    ![captură de ecran](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ Poți face la fel pentru `echipaB` și poți, de asemenea, să ștergi celelalte comenzi print, care au fost acolo doar pentru a îți testa codul.
     
-    Here's how your code should look:
+    Așa ar trebui să arate codul tău:
     
-    ![screenshot](images/team-loop-finished.png)
+    ![captură de ecran](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ Testează-ți codul din nou și ar trebui să vezi doar lista ta de jucători, precum și echipele tale finale.
     
-    ![screenshot](images/team-loop-finished-test.png)
+    ![captură de ecran](images/team-loop-finished-test.png)
