@@ -1,25 +1,25 @@
-## Files
+## Fișiere
 
-You can use a file to store your list of players.
+Poți folosi un fișier pentru a salva lista ta de jucători.
 
-+ Click the + icon and create a new file called `players.txt`.
++ Apasă pe pictograma + și crează un fișier nou numit `jucatori.txt`.
     
-    ![screenshot](images/team-file-create.png)
+    ![captură de ecran](images/team-file-create.png)
 
-+ Add your players to your new file. Make sure that there is no blank line after your last player.
++ Adaugă jucătorii tăi la noul tău fișier. Asigură-te că nu există nicio linie goală după ultimul tău jucător.
     
-    ![screenshot](images/team-file-add.png)
+    ![captură de ecran](images/team-file-add.png)
 
-+ Change your `players` list so that it is empty.
++ Golește lista ta de `jucatori`.
     
-    ![screenshot](images/team-players-empty.png)
+    ![captură de ecran](images/team-players-empty.png)
 
-+ Open your `players.txt` file (the `'r'` means read-only).
++ Deschide fișierul tău `jucatori.txt` (`„r”` înseamnă read-only, adică numai citirile sunt permise).
     
-    ![screenshot](images/team-file-open.png)
+    ![captură de ecran](images/team-file-open.png)
 
-+ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
++ Citește lista din fișier și adaug-o la lista ta de `jucatori`. (Codul `splitlines` înseamnă că fiecare linie din fișier reprezintă un element nou în lista `jucatori`).
     
-    ![screenshot](images/team-file-load.png)
+    ![captură de ecran](images/team-file-load.png)
 
-+ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
++ Dacă testezi codul, ar trebui să funcționeze la fel ca înainte. Cu toate acestea, acum este mult mai ușor să adaugi jucători la fișierul tău `jucatori.txt`.
