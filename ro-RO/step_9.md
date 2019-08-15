@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Random team names
+## Provocare: Nume de echipe la întâmplare
 
-Can you give both of your teams a random team name?
+Poți da ambelor tale echipe un nume aleatoriu?
 
-You can create a list called `teamNames` containing the names to choose from.
+Poți crea o listă numită `numeEchipe` ce conține numele din care se va alege.
 
-You can then choose (and display) a random name for each team.
+Poți, apoi, să alegi (și să afișezi) un nume aleatoriu pentru fiecare echipă.
 
-![screenshot](images/team-finished.png)
+![captură de ecran](images/team-finished.png)
 
 \--- /challenge \---
