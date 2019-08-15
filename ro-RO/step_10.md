@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Storing team names
+## Provocare: Salvarea numelor echipelor
 
-Can you store your list of team names in a file?
+Poți salva lista ta de nume pentru echipe într-un fișier?
 
 \--- /challenge \---
