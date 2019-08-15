@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Adding more players
+## Provocare: Adăugarea mai multor jucători
 
-Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
+Poți adăuga mai mulți jucători listei tale? Poți adăuga câți jucători dorești, dar asigură-te că numărul de jucători este **par**.
 
-You can also change the names of the first 2 players if you prefer.
+Poți, de asemenea, să schimbi numele primilor 2 jucători dacă dorești.
 
-Can you add code to print **just one** of your new players?
+Poți adăuga cod pentru a afișa **doar unul** dintre jucătorii tăi noi?
 
 \--- /challenge \---
