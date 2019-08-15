@@ -8,73 +8,73 @@
   <img src="images/team-finished.png">
 </div>
 
-### Additional information for club leaders
+### Informații suplimentare pentru conducătorii de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print).
+Dacă vrei să printezi acest proiect, folosește [Versiunea printabilă](https://projects.raspberrypi.org/en/projects/team-chooser/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note pentru conducătorul clubului
 
-## Introduction:
+## Introducere:
 
-In this project, children will learn how to make a program to split a list of players into 2 random teams. This project teaches lists and using files.
+În acest proiect, copiii vor învăța cum să facă un program care împarte o listă de jucători în două echipe aleatorii. Acest proiect predă listele și utilizarea fișierelor.
 
-## Online Resources
+## Resurse online
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**Acest proiect utilizează Python 3.** Îți recomandăm să utilizezi [trinket](https://trinket.io/) pentru a scrie cod în Python online. Acest proiect conține următoarele Trinket-uri:
 
-* [New (blank) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [Trinket Python nou (necompletat) -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing the completed project:
+Există, de asemenea, un trinket care conține proiectul final:
 
-* [‘Team Chooser’ Finished -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* [„Creator de echipe” completat -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
-## Offline Resources
+## Resurse offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Acest proiect poate fi [completat offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) dacă dorești. Poți accesa resursele proiectului dând click pe link-ul „Materialele proiectului” pentru acest proiect. Acest link conține o secțiune „Resursele proiectului” care include resurse de care copiii vor avea nevoie pentru a completa acest proiect offline. Asigură-te că fiecare copil are acces la o copie a acestor resurse. Această secțiune include următoarele fișiere:
 
 * team/team.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+De asemenea, poți găsi proiectul finalizat în secțiunea „Resurse pentru voluntari”, care conține:
 
 * team-finished/team.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Toate resursele de mai sus pot fi descărcate și ca fișiere `.zip`.)
 
-## Learning Objectives
+## Obiective de învățare
 
-* Lists;
-* Loading list data from a file.
+* Liste;
+* Încărcarea datelor pentru o listă dintr-un fișier.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Folosirea unor structuri de bază în programare pentru a crea programe simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Provocări
 
-* "Adding more players" - adding elements to a `players` list;
-* "Choosing for team B" - creating a new `teamB` list to add random players to;
-* "Random team names" - creating and using a new `teamNames` list to assign random names to teams;
-* "Storing team names" - storing team names in a file, and loading them into a `teamNames` variable;
-* "More teams" - splitting players into 3 teams instead of 2.
+* „Adăugarea mai multor jucători” - adăugarea elementelor la o listă `jucatori`;
+* „Alegerea jucătorilor pentru echipa B” - crearea unei noi liste `echipaB` la care să se adauge jucători la întâmplare;
+* „Nume de echipe la întâmplare” - crearea și utilizarea unei noi liste `numeEchipe` pentru a atribui nume aleatorii echipelor;
+* „Salvarea numelor echipelor” - salvarea numelor echipelor într-un fișier și încărcarea lor într-o variabilă `numeEchipe`;
+* „Mai multe echipe” - împărțirea jucătorilor în 3 echipe în loc de două.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materialele proiectului
 
-## Project resources
+## Resursele proiectului
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* Poți [găsi resursele proiectului aici](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* [Trinket Python online gol](http://jumpto.cc/python-new)
+* [Fișier Python offline gol](resources/new-new.py)
 
-## Club leader resources
+## Resurse pentru conducătorul clubului
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
-* [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
+* Poți [găsi soluțiile proiectului aici](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* [Proiect Trinket online, completat](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 \--- /collapse \---
