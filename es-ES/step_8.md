@@ -10,12 +10,12 @@ Mejoremos tu programa para que pueda trabajar con un número impar de jugadores.
     
     ![captura de pantalla](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ El error se debe a que tu programa sigue eligiendo jugadores al azar para el equipo A y luego para el equipo B. Sin embargo, si hay un número impar de jugadores, después de elegir un jugador para el equipo A, no quedan jugadores para elegir para el equipo B.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    Para corregir este error, puedes decirle a tu programa que termine (`break`) tu bucle `while` si tu lista `jugadores` esta vacía.
     
-    ![screenshot](images/team-fix.png)
+    ![captura de pantalla](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ Si vuelves a probar tu código, deberías ver que ahora funciona con un número impar de jugadores.
     
-    ![screenshot](images/team-fix-test.png)
+    ![captura de pantalla](images/team-fix-test.png)
