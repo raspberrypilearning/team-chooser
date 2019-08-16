@@ -1,6 +1,6 @@
-## Players
+## Jugadores
 
-Let's start by creating a list of players to choose from.
+Vamos a empezar por crear una lista de jugadores para elegir.
 
 + Abre la plantilla Python en blanco en Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
