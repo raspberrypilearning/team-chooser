@@ -2,48 +2,48 @@
 
 from random import choice
 
-#create a list of players from a file
-players = []
-file = open('players.txt', 'r')
-players = file.read().splitlines()
-print('Players:', players)
+#crea una lista de jugadores desde un archivo
+jugadores = []
+file = open('jugadores.txt', 'r')
+jugadores = file.read().splitlines()
+print('Jugadores:', jugadores)
 
-#create a list of team names from a file
-teamNames = []
-file = open('teamNames.txt', 'r')
-teamNames = file.read().splitlines()
-print('Team names:', teamNames)
+#crea una lista de nombres de equipo desde un archivo
+nombresEquipos = []
+file = open('nombresEquipos.txt', 'r')
+nombresEquipos = file.read().splitlines()
+print('Nombres equipos:', nombresEquipos)
 
-#create empty team lists
-teamA = []
-teamB = []
+#crea listas de equipos vacías
+equipoA = []
+equipoB = []
 
-#loop until there are no players left
-while len(players) > 0:
+#el bucle se ejecuta hasta que no queden jugadores
+while len(jugadores) > 0:
   
-  #choose a random player for team A
-  playerA = choice(players)
-  teamA.append(playerA)
-  #remove the player from the players list
-  players.remove(playerA)
+  #elige un jugador aleatorio para el equipo A
+  jugadorA = choice(jugadores)
+  equipoA.append(jugadorA)
+  #elimina el jugador de la lista de jugadores
+  jugadores.remove(jugadorA)
   
-  #break out of the loop if there are no players left
-  if players == []: 
+  #sal del bucle si no quedan jugadores
+  if jugadores == []: 
     break
   
-  #choose a random player for team B
-  playerB = choice(players)
-  teamB.append(playerB)
-  #remove the player from the players list
-  players.remove(playerB)
+  #elige un jugador aleatorio para el equipo B
+  jugadorB = choice(jugadores)
+  equipoB.append(jugadorB)
+  #elimina el jugador de la lista de jugadores
+  jugadores.remove(jugadorB)
 
-#choose random team names for the 2 teams
-teamNameA = choice(teamNames)
-teamNames.remove(teamNameA)
-teamNameB = choice(teamNames)
-teamNames.remove(teamNameB)
+#elige al azar los nombres para los 2 equipos
+nombreEquipoA = choice(nombresEquipos)
+nombresEquipos.remove(nombreEquipoA)
+nombreEquipoB = choice(nombresEquipos)
+nombresEquipos.remove(nombreEquipoB)
 
-#print the teams
-print('\nHere are your teams:\n')
-print(teamNameA, teamA)
-print(teamNameB, teamB)
+#imprime los equipos
+print('\nAqui tienes tus equipos:\n')
+print(nombreEquipoA, equipoA)
+print(nombreEquipoB, equipoB)
