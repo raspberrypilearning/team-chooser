@@ -67,13 +67,13 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 
 ## Recursos del proyecto
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* Puedes [encontrar los recursos para este proyecto aquí](http://rpf.io/p/en/team-chooser-go){: target="_blank"}.
 * [Trinket Python en blanco en línea](http://jumpto.cc/python-new)
 * [Trinket Python en blanco sin conexión](resources/new-new.py)
 
 ## Recursos para los líderes de clubes
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* Puedes [encontrar la solución para este proyecto aquí](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Proyecto Trinket terminado en línea](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
