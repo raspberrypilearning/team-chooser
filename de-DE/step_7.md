@@ -18,7 +18,7 @@ Du kannst eine Datei verwenden, um deine Spielerliste zu speichern.
     
     ![Screenshot](images/team-file-open.png)
 
-+ Lese die Liste aus der Datei und fügen Sie sie der Liste `spieler` hinzu. (Der Code `splitlines` bedeutet, dass jede Zeile in der Datei ein neues Element in der Liste `spieler` ist).
++ Lese die Liste aus der Datei und füge sie der Liste `spieler` hinzu. (Der Code `splitlines` bedeutet, dass jede Zeile in der Datei ein neues Element in der Liste `spieler` ist).
     
     ![Screenshot](images/team-file-load.png)
 
