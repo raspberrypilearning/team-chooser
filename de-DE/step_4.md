@@ -20,7 +20,7 @@ Lass uns Spieler zufällig auswählen!
     
     ![Screenshot](images/team-teamA.png)
 
-+ Du kannst jetzt deinen zufällig ausgewählten Spieler zu `teamA` hinzufügen. Dazu kannst du `teamA.append` (**append** bedeutet am Ende hinzufügen).
++ Du kannst jetzt deinen zufällig ausgewählten Spieler zu `teamA` hinzufügen. Dazu kannst du `teamA.append` verwenden (**append** bedeutet am Ende hinzufügen).
     
     ![Screenshot](images/team-teamA-add.png)
 
