@@ -1,25 +1,25 @@
-## Files
+## الملفات
 
-You can use a file to store your list of players.
+يمكنك استخدام ملف لتخزين قائمة من اللاعبين.
 
-+ Click the + icon and create a new file called `players.txt`.
++ انقر فوق الرمز + وإنشاء ملف جديد سمه ` players.txt `.
     
-    ![screenshot](images/team-file-create.png)
+    ![لقطة الشاشة](images/team-file-create.png)
 
-+ Add your players to your new file. Make sure that there is no blank line after your last player.
++ أضف لاعبيك إلى ملفك الجديد. تأكد من عدم وجود سطر فارغ بعد آخر لاعب.
     
-    ![screenshot](images/team-file-add.png)
+    ![لقطة الشاشة](images/team-file-add.png)
 
-+ Change your `players` list so that it is empty.
++ غير قائمة `اللاعبين` الخاصة بك بحيث تكون فارغة.
     
-    ![screenshot](images/team-players-empty.png)
+    ![لقطة الشاشة](images/team-players-empty.png)
 
-+ Open your `players.txt` file (the `'r'` means read-only).
++ افتح ملف ` players.txt الخاص بك `(` "R" ` يعني للقراءة فقط).
     
-    ![screenshot](images/team-file-open.png)
+    ![لقطة الشاشة](images/team-file-open.png)
 
-+ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
++ اقرأ القائمة من الملف وأضفها إلى قائمة `اللاعبين` الخاصة بك. (كود ال`splitlines` يعني ان كل سطر في الملف هو عنصر جديد في قائمة `اللاعبين`).
     
-    ![screenshot](images/team-file-load.png)
+    ![لقطة الشاشة](images/team-file-load.png)
 
-+ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
++ إذا قمت باختبار التعليمات البرمجية الخاصة بك، فإنها تنبغي أن تعمل بالضبط كما عملت قبل. ومع ذلك، الآن أسهل بكثير إضافة لاعبين إلى ملف `players.txt`.
