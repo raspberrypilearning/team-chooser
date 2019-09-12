@@ -1,3 +1,4 @@
+---
 hero_image: images/team-chooser.png
 theme: violet
 duration: 2
@@ -5,7 +6,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Creador de equipos
+title: Seleccionador de equipos
 description: Crea un programa que divida a los jugadores en 2 equipos aleatorios.
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
 interests: games
@@ -15,15 +16,15 @@ hardware: ''
 software: python
 version: 3
 last_tested: 2018-04-05
-steps: 
-- title: 'Introducción'
-- title: Jugadores
-- title: 'Reto: Añadir más jugadores'
-- title: Jugadores aleatorios
-- title: 'Reto: Elegir para el equipo B'
-- title: Selección de muchos jugadores
-- title: Archivos
-- title: Jugadores impares
-- title: 'Reto: Nombres de equipo aleatorios'
-- title: 'Reto: Almacenamiento de los nombres de los equipos'
-- title: 'Reto: Más equipos'
+steps:
+  - title: 'Introducción:'
+  - title: Jugadores
+  - title: 'Reto: Añadir más jugadores'
+  - title: Jugadores aleatorios
+  - title: 'Reto: Elegir para el equipo B'
+  - title: Selección de muchos jugadores
+  - title: Archivos
+  - title: Jugadores impares
+  - title: 'Reto: Nombres de equipo aleatorios'
+  - title: 'Reto: Almacenamiento de los nombres de los equipos'
+  - title: 'Reto: Más equipos'

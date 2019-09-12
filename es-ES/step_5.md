@@ -1,13 +1,14 @@
 --- challenge ---
+
 ## Reto: Elegir para el equipo B
-¿Puedes añadir un código para seleccionar de forma aleatoria un jugador para el equipo B? Necesitarás:
 
-+ Crear una nueva lista `teamB` 
-+ Crear un jugador aleatorio para el equipo B (denominado `playerB`)
-+ `append` el jugador seleccionado a tu lista `teamB`
-+ `remove` el jugador seleccionado de tu lista `players`
+¿Puedes añadir el código para elegir un jugador al azar para el equipo B? Tendrás que:
 
-¡El código que necesitas para `teamB` será __muy__ similar al código que ya has escrito para `teamA`! 
++ Crear una nueva lista `equipoB`
++ Elige un jugador aleatorio para el equipo B (llamado `jugadorB`)
++ `append` el jugador elegido para tu lista `equipoB`
++ `remove` el jugador elegido de tu lista de `jugadores`
 
+¡El código que necesitarás para el `equipoB` será **muy** similar al código que ya has escrito para el `equipoA`!
 
 --- /challenge ---

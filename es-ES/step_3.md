@@ -1,11 +1,11 @@
 --- challenge ---
+
 ## Reto: Añadir más jugadores
-¿Eres capaz de añadir más jugadores a la lista? Puede añadir tantos jugadores como desees, sin embargo, asegúrate de que el número de jugadores sea __par__. 
 
-Si lo deseas, además puedes cambiar los nombres de los 2 primeros jugadores.
+¿Puedes añadir más jugadores a tu lista? Puedes agregar tantos jugadores como quieras, pero asegúrate de que haya un número **par** de jugadores.
 
-¿Puedes añadir un código para imprimir __solamente uno__ de tus nuevos jugadores?
+También puedes cambiar los nombres de los 2 primeros jugadores si lo prefieres.
 
-
+¿Puedes agregar código para imprimir **solo uno** de tus nuevos jugadores?
 
 --- /challenge ---

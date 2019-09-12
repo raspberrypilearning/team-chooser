@@ -1,13 +1,13 @@
 --- challenge ---
+
 ## Reto: Nombres de equipo aleatorios
-¿Puedes proporcionar a tus dos equipos un nombre aleatorio?
 
-Puedes crear una lista denominada `teamNames` que contenga nombres.
+¿Puedes darle a ambos equipos un nombre al azar?
 
-A continuación podrás seleccionar (y visualizar) un nombre aleatorio para cada equipo.
+Puedes crear una lista llamada `nombresEquipos` que contenga los nombres para elegir.
 
-![screenshot](images/team-finished.png)
+A continuación, puedes elegir (y mostrar) un nombre aleatorio para cada equipo.
 
-
+![captura de pantalla](images/team-finished.png)
 
 --- /challenge ---

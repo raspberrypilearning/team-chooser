@@ -1,34 +1,31 @@
 ## Selección de muchos jugadores
 
-A continuación, debes asegurarte de que cada uno de los jugadores se encuentra seleccionado para uno de los equipos.
+A continuación, deberás asegurarte de que cada jugador ha sido elegido para un equipo.
 
-+ Marca el código para seleccionar jugadores para el equipo A y el equipo B y pulsa la tecla de tabulación para sangrar el código.
++ Selecciona tu código para elegir jugadores para el equipo A y el equipo B y presiona la tecla de tabulación para añadir sangría al código.
+    
+    ![captura de pantalla](images/team-loop-tab.png)
 
-	![screenshot](images/team-loop-tab.png)
++ Añade un bucle **while** para seguir eligiendo jugadores hasta la longitud de la lista `jugadores` sea 0.
+    
+    ![captura de pantalla](images/team-loop-while.png)
 
-+ Añade un bucle __while__ para continuar seleccionando jugadores hasta que no queden jugadores en la lista. 
++ Ejecuta tu código para probarlo. Deberías ver a los jugadores ser elegidos para el equipo A y el equipo B hasta que no queden más jugadores.
+    
+    ![captura de pantalla](images/team-loop-test.png)
 
-	![screenshot](images/team-loop-while.png)
++ Añade el código para imprimir tu lista `equipoA` **después de** tu bucle `while` (asegurándote de que no tenga sangría).
+    
+    Esto significa que `equipoA` solo se mostrará una vez, después de que todos los jugadores hayan sido elegidos.
+    
+    ![captura de pantalla](images/team-teamA-paste.png)
 
-+ Ejecuta el código para probarlo. Debes ser capaz de ver cómo los jugadores son seleccionados para el equipo A y el equipo B hasta que no quede ninguno.
++ Puedes hacer lo mismo para el `equipoB`, y también puedes eliminar los otros comandos de impresión, ya que solo estaban ahí para probar tu código.
+    
+    Así es como debería verse tu código:
+    
+    ![captura de pantalla](images/team-loop-finished.png)
 
-	![screenshot](images/team-loop-test.png)
-
-+ Añade el código para imprimir tu lista `teamA`__después__ de tu bucle`while` (asegurándote de que no haya sangrado).
-
-	Esto quiere decir que `teamA` solamente se imprimirá una vez después de que se hayan seleccionado todos los jugadores.
-
-	![screenshot](images/team-teamA-paste.png)
-
-+ Puedes hacer lo mismo para `teamB` y puedes borrar los otros comandos de impresión, puesto que solamente los teníamos para probar el código.
-
-	A continuación tienes un ejemplo del aspecto que debería tener tu código:
-
-	![screenshot](images/team-loop-finished.png)
-
-+ Vuelve a probar tu código y verás tu lista de jugadores además de la lista con los equipos finales.
-
-	![screenshot](images/team-loop-finished-test.png)
-
-
-
++ Vuelve a probar tu código y deberías ver tu lista de jugadores, así como tus equipos finales.
+    
+    ![captura de pantalla](images/team-loop-finished-test.png)
