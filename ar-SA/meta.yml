@@ -1,41 +1,41 @@
 ---
 hero_image: images/team-chooser.png
-theme: violet
+theme: بنفسجي
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Team Chooser
-description: Make a program to split players into 2 random teams.
+title: برنامج اختيار الفِرق
+description: أنشئ برنامجًا لتقسيم اللاعبِين إلى فريقَين عشوائيين.
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
-interests: games
+interests: ألعاب
 technologies: python
-site_areas: projects
+site_areas: مشاريع
 hardware: ''
 software: python
 version: 3
 last_tested: 2018-04-05
 steps:
   - 
-    title: 'Introduction: '
+    title: 'مقدمة: '
   - 
-    title: Players
+    title: لاعبين
   - 
-    title: 'Challenge: Adding more players'
+    title: 'التحدي: إضافة المزيد من اللاعبين'
   - 
-    title: Random players
+    title: لاعبين عشوائيين
   - 
-    title: 'Challenge: Choosing for team B'
+    title: 'التحدي: الاختيار للفريق B'
   - 
-    title: Choosing lots of players
+    title: اختيار الكثير من اللاعبين
   - 
-    title: Files
+    title: ملفات
   - 
-    title: Odd players
+    title: لاعبين فرديين
   - 
-    title: 'Challenge: Random team names'
+    title: 'التحدي: أسماء فرق عشوائية'
   - 
-    title: 'Challenge: Storing team names'
+    title: 'التحدي: خزِّن أسماء الفِرق'
   - 
-    title: 'Challenge: More teams'
+    title: 'تحدي: مزيد من الفرق'
