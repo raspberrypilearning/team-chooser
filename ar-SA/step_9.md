@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Random team names
+## التحدي: أسماء فرق عشوائية
 
-Can you give both of your teams a random team name?
+هل يمكنك منح كل من الفريقين اسمًا عشوائيًا؟
 
-You can create a list called `teamNames` containing the names to choose from.
+يمكنك إنشاء قائمة باسم ` teamNames ` تحتوي على أسماء للاختيار من بينها.
 
-You can then choose (and display) a random name for each team.
+يمكنك بعد ذلك اختيار (وعرض) اسمًا عشوائيًا لكل فريق.
 
-![screenshot](images/team-finished.png)
+![لقطة الشاشة](images/team-finished.png)
 
 \--- /challenge \---
