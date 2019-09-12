@@ -1,31 +1,31 @@
-## Choosing lots of players
+## اختيار الكثير من اللاعبين
 
-Next you'll need to make sure that every player has been chosen for a team.
+بعد ذلك ستحتاج إلى التأكد ان كل لاعب تم اختياره لفريق.
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ حدد تعليماتك البرمحية المخصصة لاختيار اللاعبين للفريق A والفريق B واضغط على مفتاح tab لإضافة مسافة بادئة للتعليمات.
     
-    ![screenshot](images/team-loop-tab.png)
+    ![لقطة الشاشة](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ اضف حلقة **while** لتكرار اختيار `اللاعبين` حتى يصبح طول القائمة 0.
     
-    ![screenshot](images/team-loop-while.png)
+    ![لقطة الشاشة](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ شغِّل تعليماتك البرمجية لاختبارها. يجب أن تشاهد لاعبين يتم اختيارهم للفريق A والفريق B حتى لا يتبقى المزيد من اللاعبين.
     
-    ![screenshot](images/team-loop-test.png)
+    ![لقطة الشاشة](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ اضف تعليمات برمجية لطباعة قائمة `teamA` **بعد** حلقة `while` الخاصة بك (مع التاكد من عدم وجود مسافات بادئة قبلها).
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    هذا يعني أن ` teamA ` سيتم طباعتها مرة واحدة فقط ، بعد ان تم اختيار جميع اللاعبين.
     
-    ![screenshot](images/team-teamA-paste.png)
+    ![لقطة الشاشة](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ يمكنك القيام بنفس الشيء لـ ` teamB ` ويمكنك أيضًا حذف أوامر الطباعة الأخرى ، لأنها كانت موجودة فقط لاختبار تعليماتك البرمجية.
     
-    Here's how your code should look:
+    إليك كيف ينبغي على تعليماتك البرمجية ان تيدو:
     
-    ![screenshot](images/team-loop-finished.png)
+    ![لقطة الشاشة](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ اختبر تعليماتك البرمجية مرة أخرى وينبغي أن ترى قائمة اللاعبين بالإضافة إلى فرقك النهائية.
     
-    ![screenshot](images/team-loop-finished-test.png)
+    ![لقطة الشاشة](images/team-loop-finished-test.png)
