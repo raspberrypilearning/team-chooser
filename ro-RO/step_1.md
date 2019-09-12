@@ -1,4 +1,4 @@
-## Introducere:
+## Introducere
 
 În acest proiect, vei învăța cum să creezi 2 echipe aleatorii dintr-o listă de jucători.
 
