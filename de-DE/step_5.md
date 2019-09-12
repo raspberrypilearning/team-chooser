@@ -9,6 +9,6 @@ Kannst du Code hinzufügen, um einen Spieler für Team B zufällig auszuwählen?
 + Füge den gewählten Spieler mit `append` an das Ende der Liste `teamB`
 + Entferne den ausgewählte Spieler mit `remove` aus deiner Liste `spieler`
 
-Der Code, den du für `teamB` benötigst wird **sehr** ahnlich sein wie der Code, den du bereits für `teamA` geschrieben hast!
+Der Code, den du für `teamB` benötigst wird **sehr** ähnlich sein wie der Code, den du bereits für `teamA` geschrieben hast!
 
 \--- /challenge \---
