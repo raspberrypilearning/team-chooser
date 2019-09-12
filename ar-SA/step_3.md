@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Adding more players
+## التحدي: إضافة المزيد من اللاعبين
 
-Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
+هل يمكنك إضافة المزيد من اللاعبين إلى قائمتك؟ يمكنك إضافة العديد من اللاعبين كما تشاء ، ولكن تأكد من وجود **عددد زوجي** عدد اللاعبين.
 
-You can also change the names of the first 2 players if you prefer.
+يمكنك أيضا تغيير أسماء اول لاعبين إذا كنت تفضل ذلك.
 
-Can you add code to print **just one** of your new players?
+هل يمكنك إضافة كود لطباعة **واحد فقط** من لاعبيك الجدد؟
 
-\--- /challenge \---
+\--- challenge/ \---
