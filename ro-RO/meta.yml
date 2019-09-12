@@ -1,0 +1,30 @@
+---
+hero_image: images/team-chooser.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Creator de echipe
+description: Realizează un program care împarte jucătorii în două echipe aleatorii.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2018-04-05
+steps:
+  - title: 'Introducere: '
+  - title: Jucători
+  - title: 'Provocare: Adăugarea mai multor jucători'
+  - title: Jucători la întâmplare
+  - title: 'Provocare: Alegerea jucătorilor pentru echipa B'
+  - title: Alegerea mai multor jucători
+  - title: Fișiere
+  - title: Jucători impari
+  - title: 'Provocare: Nume de echipe la întâmplare'
+  - title: 'Provocare: Salvarea numelor echipelor'
+  - title: 'Provocare: Mai multe echipe'
