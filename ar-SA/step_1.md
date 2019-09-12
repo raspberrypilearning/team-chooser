@@ -1,6 +1,6 @@
-## Introduction:
+## مقدمة:
 
-In this project, you'll learn how to create 2 random teams from a list of players.
+في هذا المشروع ، ستتعلم كيفية إنشاء فريقين عشوائيين من قائمة لاعبين.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,73 +8,73 @@ In this project, you'll learn how to create 2 random teams from a list of player
   <img src="images/team-finished.png">
 </div>
 
-### Additional information for club leaders
+### معلومات إضافية لقادة النادي
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/team-chooser/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## ملاحظات لقادة النادي
 
-## Introduction:
+## مقدمة:
 
-In this project, children will learn how to make a program to split a list of players into 2 random teams. This project teaches lists and using files.
+في هذا المشروع، سيتعلم الأطفال كيف ينشئون برنامجًا لتقسيم قائمة من اللاعبِين إلى فريقَين عشوائيين. هذا المشروع يعلم القوائم واستخدام الملفات.
 
-## Online Resources
+## الموارد المتوفرة على الإنترنت
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+** يستخدم هذا المشروع Python 3. ** نوصي باستخدام [trinket](https://trinket.io/) لكتابة Python على الانترنت. يحتوي هذا المشروع على Trinkets التالية:
 
-* [New (blank) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [جديد (فارغ) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing the completed project:
+وهناك أيضًا trinket تحتوي على المشروع المكتمل:
 
-* [‘Team Chooser’ Finished -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* [مشروع 'برنامج اختيار الفِرق' مُكتمل -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
-## Offline Resources
+## الموارد المتوفرة دون اتصال بالإنترنت
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+يمكن إكمال هذا المشروع [ دون اتصال بالإنترنت](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) إذا كنت تفضل ذلك. يمكنك الوصول إلى موارد المشروع من خلال النقر فوق رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "موارد المشروع"، الذي يتضمن الموارد التي يحتاج إليها الأطفال لإكمال هذا المشروع من دون اتصال بالإنترنت. تأكد من أن كل طفل لديه إمكانية الوصول إلى نسخة من هذه الموارد. يتضمن هذا القسم الملفات التالية:
 
 * team/team.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+يمكنك أيضًا العثور على نسخة مكتملة من هذا المشروع في قسم "موارد المتطوعين" ، والذي يحتوي على:
 
 * team-finished/team.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(جميع الموارد المذكورة أعلاه قابلة للتنزيل أيضًا كملفات `.zip` للمشاريع والمتطوعين)
 
-## Learning Objectives
+## أهداف التعلم
 
-* Lists;
-* Loading list data from a file.
+* القوائم;
+* تحميل بيانات قائمة من ملف.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## تحديات
 
-* "Adding more players" - adding elements to a `players` list;
-* "Choosing for team B" - creating a new `teamB` list to add random players to;
-* "Random team names" - creating and using a new `teamNames` list to assign random names to teams;
-* "Storing team names" - storing team names in a file, and loading them into a `teamNames` variable;
-* "More teams" - splitting players into 3 teams instead of 2.
+* "أضف لاعبِين آخرين" - إضافة عناصر إلى قائمة `players`؛
+* "اختر لاعبِين للفريق B" - إنشاء قائمة `teamB` جديدة لإضافة لاعبِين عشوائيين إليها؛
+* "أسماء عشوائية للفِرق" - إنشاء قائمة `teamNames` جديدة واستخدامها لتعيين أسماء عشوائية إلى الفِرق؛
+* "خزِّن أسماء الفِرق " - تخزين أسماء الفِرق في ملف وتحميلها إلى متغير `teamNames`؛
+* "المزيد من الفرق" - تقسيم اللاعبين إلى 3 فرق بدلاً من فريقين.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## مواد المشروع
 
-## Project resources
+## موارد المشروع
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* يمكنك [الحصول على الموارد لهذا المشروع هنا](http://rpf.io/p/en/team-chooser-go).
+* [Python Trinket فارغة على الانترنت](http://jumpto.cc/python-new)
+* [ملف Python فارغ بدون الاتصال بالانترنت](resources/new-new.py)
 
-## Club leader resources
+## موارد قادة النادي
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
-* [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
+* يمكنك [ العثور على الحلول لهذا المشروع هنا ](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* [مشروع Trinket مكتمل على الإنترنت](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 \--- /collapse \---
