@@ -1,24 +1,21 @@
 ## Jugadores impares
 
-Mejoremos el programa para que sea capaz de trabajar con un número impar de jugadores.
+Mejoremos tu programa para que pueda trabajar con un número impar de jugadores.
 
-+ Añade otro nombre a tu lista `players.txt` de modo que tengas un número de jugadores impar.
++ Añade otro nombre a tu lista `jugadores.txt`, para que tengas un número impar de jugadores.
+    
+    ![captura de pantalla](images/team-luna.png)
 
-	![screenshot](images/team-luna.png)
++ Si pruebas tu código, verás que aparece un mensaje de error.
+    
+    ![captura de pantalla](images/team-error.png)
 
-+ Cuando pruebes tu código recibirás un mensaje de error.
++ El error se debe a que tu programa sigue eligiendo jugadores al azar para el equipo A y luego para el equipo B. Sin embargo, si hay un número impar de jugadores, después de elegir un jugador para el equipo A, no quedan jugadores para elegir para el equipo B.
+    
+    Para corregir este error, puedes decirle a tu programa que termine (`break`) tu bucle `while` si tu lista `jugadores` esta vacía.
+    
+    ![captura de pantalla](images/team-fix.png)
 
-	![screenshot](images/team-error.png)
-
-+ El error se debe a que el programa continúa seleccionando jugadores de forma aleatoria para el equipo A y el equipo B. Sin embargo, si existe un número impar de jugadores, después de seleccionar un jugador para el equipo A no existirán jugadores restantes para el equipo B.
-
-	Para solucionarlo, podrás solicitarle al programa que rompa `break` el bucle `while` si la lista `players` está vacía.
-
-	![screenshot](images/team-fix.png)
-
-+ Si vuelves a probar tu código, comprobarás que ahora funciona con un número de jugadores impar.
-
-	![screenshot](images/team-fix-test.png)
-
-
-
++ Si vuelves a probar tu código, deberías ver que ahora funciona con un número impar de jugadores.
+    
+    ![captura de pantalla](images/team-fix-test.png)

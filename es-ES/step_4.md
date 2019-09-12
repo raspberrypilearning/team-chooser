@@ -1,38 +1,35 @@
 ## Jugadores aleatorios
 
-¡Seleccionemos jugadores de forma aleatoria!
+¡Vamos a elegir jugadores al azar!
 
-+ Para ser capaz de obtener un jugador aleatorio de tu lista `players`, primero necesitarás importar la parte `choice` del módulo `random`.
++ Para poder obtener un jugador aleatorio de tu lista `jugadores`, primero tienes que importar `choice` que es parte del módulo `random`.
+    
+    ![captura de pantalla](images/team-import-random.png)
 
-	![screenshot](images/team-import-random.png)
++ Para obtener un jugador aleatorio, puedes utilizar `choice`. (También puedes eliminar el código para imprimir jugadores individuales.)
+    
+    ![captura de pantalla](images/team-random-player.png)
 
-+ Para obtener un jugador aleatorio, puedes usar `choice`. (También puedes borrar el código para imprimir jugadores individuales).
++ Prueba tu código `choice` varias veces y deberías ver a un jugador diferente cada vez.
 
-	![screenshot](images/team-random-player.png)
++ También puedes crear una nueva variable llamada `jugadorA`, y usarla para guardar tu jugador aleatorio.
+    
+    ![captura de pantalla](images/team-random-playerA.png)
 
-+ Prueba tu código `choice` unas cuantas veces y comprobarás que cada vez se selecciona un jugador distinto.
++ Necesitarás una nueva lista para almacenar a todos los jugadores en el equipo A. Para empezar, esta lista debe estar vacía.
+    
+    ![captura de pantalla](images/team-teamA.png)
 
-+ También podrás crear una nueva variable denominada `playerA`, y usarla para almacenar tu jugador aleatorio.
++ Ahora puedes añadir tu jugador elegido al azar a `equipoA`. Para hacer esto, puedes usar `equipoA.append` (**append** significa añadir al final).
+    
+    ![captura de pantalla](images/team-teamA-add.png)
 
-	![screenshot](images/team-random-playerA.png)
++ Ahora que su jugador ha sido elegido, puede eliminarlo de su lista de `jugadores`.
+    
+    ![captura de pantalla](images/team-players-remove.png)
 
-+ Necesitarás una nueva lista para almacenar todos los jugadores del equipo A. Al principio, dicha lista debe estar vacía.
-
-	![screenshot](images/team-teamA.png)
-
-+ Ahora puedes añadir tu jugador seleccionado de forma aleatoria a `teamA`. Para ello, podrás usar `teamA.append` (__append (adjuntar)__ significa añadir al final).
-
-	![screenshot](images/team-teamA-add.png)
-
-+ Ahora que tu jugador ha sido seleccionado, podrás retirarlo de la lista de `players`.
-
-	![screenshot](images/team-players-remove.png)
-
-+ Prueba este código añadiendo el comando `print` para visualizar los `players` disponibles.
-
-	![screenshot](images/team-players-remove-test.png)
-
-	En el ejemplo anterior, Hermione ha sido seleccionada para `teamA`, por lo tanto, ha sido eliminada de la lista `players`.
-
-
-
++ Prueba este código añadiendo un comando `print`, para mostrar los `jugadores` que quedan por elegir.
+    
+    ![captura de pantalla](images/team-players-remove-test.png)
+    
+    En el ejemplo anterior, Hermione ha sido elegida para el `equipoA`, y ha sido eliminada de la lista de `jugadores`.
