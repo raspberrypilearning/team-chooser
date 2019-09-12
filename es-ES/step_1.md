@@ -1,4 +1,4 @@
-## Introducción:
+## Introducción
 
 En este proyecto, aprenderás cómo crear 2 equipos al azar a partir de una lista de jugadores.
 
