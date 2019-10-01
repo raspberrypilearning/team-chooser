@@ -23,7 +23,7 @@ title: ملاحظات قادة النادي
 
 ## الموارد المتوفرة على الإنترنت
 
-__يستخدم هذا المشروع Python 3.__ نوصي باستخدام [trinket](https://trinket.io/) لكتابة Python على الإنترنت. يحتوي هذا المشروع على Trinket التالية:
+يستخدم هذا المشروع Python 3. نوصي باستخدام [trinket](https://trinket.io/) لكتابة Python على الإنترنت. يحتوي هذا المشروع على Trinket التالية:
 
 + [New (blank) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
