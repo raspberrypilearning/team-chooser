@@ -2,48 +2,48 @@
 
 from random import choice
 
-#create a list of players from a file
+#إنشاء قائمة لاعبين من ملف
 players = []
 file = open('players.txt', 'r')
 players = file.read().splitlines()
-print('Players:', players)
+print('اللاعبين:', players)
 
-#create a list of team names from a file
+#إنشاء قائمة باسماء الفرق من ملف
 teamNames = []
-file = open('teamNames.txt', 'r')
+file = open ('teamNames.txt'، 'r')
 teamNames = file.read().splitlines()
-print('Team names:', teamNames)
+print('أسماء الفريق:', teamNames)
 
-#create empty team lists
+# إنشاء قوائم فريق فارغة
 teamA = []
 teamB = []
 
-#loop until there are no players left
+#كرر حتى لايتبقى لاعبين
 while len(players) > 0:
   
-  #choose a random player for team A
+  #اختر لاعب عشوائي للفريق A
   playerA = choice(players)
   teamA.append(playerA)
-  #remove the player from the players list
+  #إزالة اللاعب من قائمة اللاعبين
   players.remove(playerA)
   
-  #break out of the loop if there are no players left
+  #الخروج من الحلقة إذا لم يتبقى لاعبين
   if players == []: 
     break
   
-  #choose a random player for team B
+  #اختار لاعب عشوائي للفريق B
   playerB = choice(players)
   teamB.append(playerB)
-  #remove the player from the players list
+  #إزالة اللاعب من قائمة اللاعبين
   players.remove(playerB)
 
-#choose random team names for the 2 teams
+#اختر أسماء فرق عشوائية للفريقين
 teamNameA = choice(teamNames)
 teamNames.remove(teamNameA)
 teamNameB = choice(teamNames)
 teamNames.remove(teamNameB)
 
-#print the teams
-print('\nHere are your teams:\n')
+# اطبع الفرق
+print('\nهذه الفرق الخاصه بك:\n')
 print(teamNameA, teamA)
 print(teamNameB, teamB)
