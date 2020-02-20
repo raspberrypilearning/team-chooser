@@ -1,28 +1,25 @@
 ## Fichiers
 
-Tu peux utiliser un fichier pour enregistrer ta liste de joueurs
+Tu peux utiliser une variable pour stocker une liste de joueurs.
 
-+ Clique sur l'icone + et crée un nouveau fichier que tu appelleras `players.txt`.
++ Clique sur l'icône + et crée un nouveau fichier nommé `joueurs.txt.` .
+    
+    ![capture d'écran](images/team-file-create.png)
 
-	![screenshot](images/team-file-create.png)
++ Ajoute tes joueurs à ton nouveau fichier. Assure-toi qu'il n'y a pas de ligne blanche après ton dernier joueur.
+    
+    ![capture d'écran](images/team-file-add.png)
 
-+ Ajoute des joueurs a ton nouveua fichier. Vérifie qu'il n'y ai pas d'espace après ton dernier joueur.
++ Change ta liste `joueurs` afin qu'elle soit vide.
+    
+    ![capture d'écran](images/team-players-empty.png)
 
-	![screenshot](images/team-file-add.png)
++ Ouvre ton ficher `joueur.txt` (le `'r'` signifie en lecture seule).
+    
+    ![capture d'écran](images/team-file-open.png)
 
-+ Change ta liste `players` pour qu'elle soit vide.
++ Lire la liste à partir du fichier et ajouter à ta liste `joueurs`. (Le code `splitlines` signifie que chaque ligne dans le fichier est un nouvel élément dans la liste `joueurs` ).
+    
+    ![capture d'écran](images/team-file-load.png)
 
-	![screenshot](images/team-players-empty.png)
-
-+ Ouvre ton fichier `players.txt` (le `r` veux dire lecture-seule).
-
-	![screenshot](images/team-file-open.png)
-
-+ Lis la liste depuis ton fichier et ajoutes la a ta liste `players`. (le code `splitlines` signifie que chaque nouvelle ligne de ton fichier représente un joueur dans ta liste `players`)
-
-	![screenshot](images/team-file-load.png)
-
-+ Si ton test ton code, cela devrais fonctionner exactement comme avant. Sauf que, maintenant, c'est beaucoup plus facile d'ajouter des joueurs a ton fichier `players.txt`.
-
-
-
++ Si tu testes ton code, il devrait fonctionner exactement comme avant. Cependant, il est maintenant beaucoup plus facile d'ajouter des joueurs à ton fichier `joueurs.txt`.
