@@ -1,24 +1,21 @@
 ## Joueurs impair
 
-Essayons d'améliorer notre programme pour qu'il fonctionne avec une listes de joueurs impair.
+Améliorons ton programme pour travailler avec un nombre impair de joueurs.
 
-+ Ajoute un autre nom a ta liste `players.txt`, pour que tu ais une liste impair de joueurs.
++ Ajoute un autre nom à ta liste `joueurs.txt`, de sorte que tu as un nombre impair de joueurs.
+    
+    ![capture d'écran](images/team-luna.png)
 
-	![screenshot](images/team-luna.png)
++ Si tu testes ton code, tu verras que tu obtiens un message d'erreur.
+    
+    ![capture d'écran](images/team-error.png)
 
-+ Si tu test ton code, tu devrais voir une erreur s'afficher.
++ L'erreur est due au fait que ton programme continue de choisir des joueurs aléatoires pour l'équipe A, puis pour l'équipe B. Toutefois, s'il y a un nombre impair de joueurs, après avoir choisi un joueur pour l'équipe A, il ne reste plus aucun joueur à choisir pour l'équipe B.
+    
+    Pour corriger ce bug, tu peux indiquer à ton programme de `sortir` de ta boucle `while` si ta liste `joueurs` est vide.
+    
+    ![capture d'écran](images/team-fix.png)
 
-	![screenshot](images/team-error.png)
-
-+ Cette erreur s'affiche parce que ton programme continue de choisir des joueurs aléatoire de l'équipe A et B. Sauf que maintenant, si il y a un nombre impair de joueurs alors après avoir choisi un joueur pour l'équipe A, il n'y a plus de joueurs disponible pour léquipe B.
-
-	Pour corriger ce probléme, tu peux dire à ton programme de stopper (ou `break`) ta boucle `while` si ta liste de joueurs `players` est vide. 
-
-	![screenshot](images/team-fix.png)
-
-+ Si tu test ton code encore une fois, tu devrais avoir que cela fonctionne avec un nombre impair de joueurs.
-
-	![screenshot](images/team-fix-test.png)
-
-
-
++ Si tu testes à nouveau ton code, tu devrais voir qu'il fonctionne maintenant avec un nombre impair de joueurs.
+    
+    ![capture d'écran](images/team-fix-test.png)

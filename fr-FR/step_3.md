@@ -1,13 +1,11 @@
 --- challenge ---
-## Défi: Ajoute plus de joueurs 
-Peut-tu ajouter plus de joueurs à ta liste? Tu peux ajouter autant de joueurs que tu souhaites, mais assure toi juste qu'il y a toujours un nombre __pair__ joueurs.
 
-Tu peux aussi changer le nom des 2 premiers joueurs si tu veux.
+## Défi: Ajoute plus de joueurs
 
-Peut-tu ajouter un code pour afficher __un seul__ de tes nouveaux joueurs ?
+Peux-tu ajouter plus de joueurs à ta liste? Tu peux ajouter autant de joueurs que tu le souhaites, mais assure-toi qu'il y a un **même** nombre de joueurs.
 
+Tu peux également changer les noms des 2 premiers joueurs si tu préfères.
 
-
-
+Peux-tu ajouter du code pour afficher **seulement un seul** de tes nouveaux joueurs ?
 
 --- /challenge ---

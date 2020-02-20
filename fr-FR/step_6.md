@@ -1,33 +1,31 @@
 ## Choisir plein de joueurs
 
-Maintenant tu dois etre sur que chaque joueurs a été choisi pour une équipe.
+Ensuite, tu devras t'assurer que chaque joueur a été choisi pour une équipe.
 
-+ Surligne ton code pour choisir les joueurs de l'équipe A et de l'équipe B et appuie sur la touche tab pour indenter ton code.
++ Sélectionne ton code pour choisir les joueurs de l’équipe A et de l’équipe B et appuie sur la touche de tabulation pour indenter le code.
+    
+    ![capture d'écran](images/team-loop-tab.png)
 
-	![screenshot](images/team-loop-tab.png)
++ Ajoute une boucle **while** pour continuer à choisir les joueurs jusqu'à ce que la longueur de la liste `joueurs` soit à 0.
+    
+    ![capture d'écran](images/team-loop-while.png)
 
-+ Ajouter une boucle __while__ pour continuer a choisir des joueurs jusqu'a ce que la longueur de la liste `players` soit égale a zéro.
++ Exécute ton code pour le tester. Tu devrais voir les joueurs choisis pour l'équipe A et l'équipe B jusqu'à ce qu'il n'y ait plus de joueurs restants.
+    
+    ![capture d'écran](images/team-loop-test.png)
 
-	![screenshot](images/team-loop-while.png)
++ Ajoute du code pour afficher ta liste `equipeA` **après** ta boucle `while` (en s’assurant que ce n’est pas indenté).
+    
+    Cela signifie que `equipeA` ne sera affiché qu'une fois, après que tous les joueurs ont été choisis.
+    
+    ![capture d'écran](images/team-teamA-paste.png)
 
-+ Lance ton code pour le tester. Tu devrais voir les joueurs remplir les listes de l'équipe A et B jusqu'a ce qu'il n'y ai plus de joueurs.
++ Tu peux faire la même chose pour `equipeB` , et tu peux également supprimer les autres commandes d'affichage, car elles n’étaient là que pour tester ton code.
+    
+    Voici à quoi ton code devrait ressembler :
+    
+    ![capture d'écran](images/team-loop-finished.png)
 
-	![screenshot](images/team-loop-test.png)
-
-+ Ajoute du code pour afficher ta liste `teamA` __après__ ta boucle `while` (vérifie que ce ne soit pas indenté)
-
-	Cela veux dire que ton équipe `teamA` sera affiché une seule fois, après que les joueurs aient été choisis.
-
-	![screenshot](images/team-teamA-paste.png)
-
-+ Tu peux faire la même chose pour `teamB`, et tu peux également supprimer les autres commande print, elles n'étaient utile que pour tester ton code.
-
-	Voici ce a quoi ton code devrais ressembler
-
-	![screenshot](images/team-loop-finished.png)
-
-+ Test ton code une fois encore et tu devrais juste voir ta liste de joueurs ainsi et que tes équipes finales.
-
-	![screenshot](images/team-loop-finished-test.png)
-
-
++ Teste ton code à nouveau et tu devrais juste voir ta liste de joueurs ainsi que tes équipes finales.
+    
+    ![capture d'écran](images/team-loop-finished-test.png)
