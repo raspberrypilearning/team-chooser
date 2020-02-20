@@ -1,21 +1,21 @@
-## Odd players
+## Joueurs impair
 
-Let's improve your program to work with an odd number of players.
+Améliorons ton programme pour travailler avec un nombre impair de joueurs.
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ Ajoute un autre nom à ta liste `joueurs.txt `, de sorte que tu as un nombre impair de joueurs.
     
-    ![screenshot](images/team-luna.png)
+    ![capture d'écran](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ Si tu testes ton code, tu verras que tu obtiens un message d'erreur.
     
-    ![screenshot](images/team-error.png)
+    ![capture d'écran](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ L'erreur est due au fait que ton programme continue de choisir des joueurs aléatoires pour l'équipe A, puis pour l'équipe B. Toutefois, s'il y a un nombre impair de joueurs, après avoir choisi un joueur pour l'équipe A, il ne reste plus aucun joueur à choisir pour l'équipe B.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    Pour corriger ce bug, tu peux indiquer à ton programme de `sortir` de ta boucle `while` si ta liste `joueurs` est vide.
     
-    ![screenshot](images/team-fix.png)
+    ![capture d'écran](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ Si tu testes à nouveau ton code, tu devrais voir qu'il fonctionne maintenant avec un nombre impair de joueurs.
     
-    ![screenshot](images/team-fix-test.png)
+    ![capture d'écran](images/team-fix-test.png)
