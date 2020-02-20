@@ -73,7 +73,7 @@ Mae’r prosiect hwn yn cwmpasu elfennau o’r ffrydiau canlynol o [Gwricwlwm Cr
 
 ## Adnoddau arweinwyr clwb
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* Gallwch chi ddod o hyd i'r ateb ar gyfer y prosiect hwn [yma ](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Prosiect Trinket wedi'i gwblhau ar-lein](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
