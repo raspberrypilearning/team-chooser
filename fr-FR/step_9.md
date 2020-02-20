@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Random team names
+## Défi: Noms d'équipe aléatoire
 
-Can you give both of your teams a random team name?
+Peux-tu donner un nom d'équipe aléatoire à tes deux équipes?
 
-You can create a list called `teamNames` containing the names to choose from.
+Tu peux créer une liste appelée ` Nomsequipe` contenant les noms à choisir.
 
-You can then choose (and display) a random name for each team.
+Tu peux ensuite choisir (et afficher) un nom aléatoire pour chaque équipe.
 
-![screenshot](images/team-finished.png)
+![capture d'écran](images/team-finished.png)
 
 \--- /challenge \---
