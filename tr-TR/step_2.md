@@ -1,21 +1,21 @@
-## Players
+## Oyuncular
 
-Let's start by creating a list of players to choose from.
+Aralarından seçim yapabileceğimiz bir oyuncu listesi oluşturarak başlayalım.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Trinket'ta boş Python şablonunu açın: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
++ Oyuncuların **listesini** kaydetmek için bir değişken kullanabilirsiniz. Bu liste köşeli parantez `[ ]` içinde olmalı ve listedeki her elemanın arasında virgül bulunmalı.
     
-    Start by adding a list of players to your program.
+    Programınıza bir oyuncu listesi ekleyerek başlayın.
     
-    ![screenshot](images/team-create-players.png)
+    ![ekran görüntüsü](images/team-create-players.png)
 
-+ Add this code to print your `players` variable:
++ `oyuncular` değişkeninizi yazdırmak için bu kodu ekleyin:
     
-    ![screenshot](images/team-print-players.png)
+    ![ekran görüntüsü](images/team-print-players.png)
 
-+ You can get to an item in the list by adding its position in square brackets after the variable name.
++ Listedeki bir öğeye, değişken adından sonra köşeli parantez içindeki konumunu ekleyerek ulaşabilirsiniz.
     
-    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
+    Listedeki ilk öğe **0 konumunda**'dır. Bu, 1. pozisyondan başlayan Scratch'ten farklıdır.
     
-    ![screenshot](images/team-print-players-index.png)
+    ![ekran görüntüsü](images/team-print-players-index.png)
