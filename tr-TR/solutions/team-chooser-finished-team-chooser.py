@@ -2,48 +2,48 @@
 
 from random import choice
 
-#create a list of players from a file
-players = []
-file = open('players.txt', 'r')
-players = file.read().splitlines()
-print('Players:', players)
+# bir dosyadaki oyuncuların listesini oluşturma
+oyuncular = []
+dosya = open('oyuncular.txt', 'r')
+oyuncular = dosya.read().splitlines()
+print('Oyuncular:', oyuncular)
 
-#create a list of team names from a file
-teamNames = []
-file = open('teamNames.txt', 'r')
-teamNames = file.read().splitlines()
-print('Team names:', teamNames)
+# bir dosyadan takım adlarının bir listesini oluşturun
+takimadlari = []
+dosya = open('takimadlari.txt', 'r')
+takimadlari = dosya.read().splitlines()
+print('Takım İsimleri:', takimadlari)
 
-#create empty team lists
-teamA = []
-teamB = []
+#boş takım listeleri oluşturma
+Atakimi = []
+Btakimi = []
 
-#loop until there are no players left
-while len(players) > 0:
+#oyuncu kalmayıncaya kadar döngü
+while len(oyuncular) > 0:
   
-  #choose a random player for team A
-  playerA = choice(players)
-  teamA.append(playerA)
-  #remove the player from the players list
-  players.remove(playerA)
+  #A takımı için rastgele bir oyuncu seçin
+  Aoyuncusu = choice(oyuncular)
+  Atakimi.append(Aoyuncusu)
+  #Seçilen oyuncuyu, oyuncular listesinden kaldırın
+  oyuncular.remove(Aoyuncusu)
   
-  #break out of the loop if there are no players left
-  if players == []: 
+  # oyuncu kalmadıysa döngüden çıkar
+  if oyuncular == []: 
     break
   
-  #choose a random player for team B
-  playerB = choice(players)
-  teamB.append(playerB)
-  #remove the player from the players list
-  players.remove(playerB)
+  #B takımı için rastgele bir oyuncu seçin
+  Boyuncusu = choice(oyuncular)
+  Btakimi.append(Boyuncusu)
+  #Seçilen oyuncuyu, oyuncular listesinden kaldırın
+  oyuncular.remove(Boyuncusu)
 
-#choose random team names for the 2 teams
-teamNameA = choice(teamNames)
-teamNames.remove(teamNameA)
-teamNameB = choice(teamNames)
-teamNames.remove(teamNameB)
+# 2 takım için rastgele takım adları seçin
+Atakimadi = choice(takimadlari)
+takimadlari.remove(Atakimadi)
+Btakimadi = choice(takimadlari)
+takimadlari.remove(Btakimadi)
 
-#print the teams
-print('\nHere are your teams:\n')
-print(teamNameA, teamA)
-print(teamNameB, teamB)
+#takımları yazdır
+print('\nİşte takımlarınız:\n')
+print(Atakimadi, Atakimi)
+print(Btakimadi, Btakimi)
