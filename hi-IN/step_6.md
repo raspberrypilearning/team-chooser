@@ -1,31 +1,31 @@
 ## Choosing lots of players
 
-Next you'll need to make sure that every player has been chosen for a team.
+इसके बाद आपको यह सुनिश्चित करना होगा कि हर खिलाड़ी को टीम के लिए चुना गया है।
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ टीम ए और टीम बी के लिए खिलाड़ियों को चुनने के लिए अपने कोड को हाइलाइट करें और कोड को इंडेंट करने के लिए टैब बटन दबाएं।
     
-    ![screenshot](images/team-loop-tab.png)
+    ![स्क्रीनशॉट](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ खिलाड़ियों की सूची की लंबाई 0 होने तक खिलाड़ियों को चुनने के लिए **while** लूप जोड़ें।
     
-    ![screenshot](images/team-loop-while.png)
+    ![स्क्रीनशॉट](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ इसका परीक्षण करने के लिए अपना कोड चलाएं। आपको टीम ए और टीम बी के लिए चुने गए खिलाड़ियों को तब तक देखना चाहिए जब तक कि कोई और खिलाड़ी न बचे।
     
-    ![screenshot](images/team-loop-test.png)
+    ![स्क्रीनशॉट](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ `while` लूप के बाद अपनी टीमए सूची को प्रिंट करने के लिए कोड जोड़ें (सुनिश्चित करें कि यह इंडेंटेड नहीं है)
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    इसका मतलब है कि ` teamA ` केवल एक बार मुद्रित किया जाएगा, सभी खिलाड़ियों को चुने जाने के बाद।
     
-    ![screenshot](images/team-teamA-paste.png)
+    ![स्क्रीनशॉट](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ आप ` teamB` के लिए भी ऐसा कर सकते हैं , और आप अन्य प्रिंट कमांड को भी हटा सकते हैं, क्योंकि वे केवल आपके कोड का परीक्षण करने के लिए थे।
     
-    Here's how your code should look:
+    यहाँ दिखाया गया है कि आपका कोड कैसा दिखेगा:
     
-    ![screenshot](images/team-loop-finished.png)
+    ![स्क्रीनशॉट](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ अपने कोड का फिर से परीक्षण करें और आपको अपनी खिलाड़ियों की सूची के साथ-साथ अपनी अंतिम टीमों को भी देखना चाहिए।
     
-    ![screenshot](images/team-loop-finished-test.png)
+    ![स्क्रीनशॉट](images/team-loop-finished-test.png)
