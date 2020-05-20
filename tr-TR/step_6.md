@@ -1,31 +1,31 @@
-## Choosing lots of players
+## Çok fazla oyuncu seçme
 
-Next you'll need to make sure that every player has been chosen for a team.
+Sırada her oyuncunun bir takım için seçildiğinden emin olmanız gerekecek.
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ A takımı ve B takımı için oyuncu seçen kodunuzu fareyle seçin ve bu koda girinti yapmak için sekme (TAB) tuşuna basın.
     
-    ![screenshot](images/team-loop-tab.png)
+    ![ekran görüntüsü](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ `oyuncular` listesi 0 olana kadar oyuncu seçmesine devam etmek için kodunuza bir **while** döngüsü ekleyin.
     
-    ![screenshot](images/team-loop-while.png)
+    ![ekran görüntüsü](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ Test etmek için kodunuzu çalıştırın. Listede oyuncu kalmayana kadar A takımı ve B takımı için oyuncu seçilmiş olduğunu görmelisiniz.
     
-    ![screenshot](images/team-loop-test.png)
+    ![ekran görüntüsü](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ `Atakimi` listenizi yazdırmak için `while` döngüsünden **sonra** şu kodu ekleyin (girintili olmadığına emin olun).
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    Bunun anlamı, tüm oyuncular seçildikten sonra `Atakimi` bir kez yazılmış olacak.
     
-    ![screenshot](images/team-teamA-paste.png)
+    ![ekran görüntüsü](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ Aynı şeyi `Btakimi` için de yapabilirsiniz ve ayrıca diğer yazdır komutlarını da silebilirsiniz çünkü bunlar sadece kodunuzu test etmek için ordalar.
     
-    Here's how your code should look:
+    Kodunuzun buradaki gibi görünmeli:
     
-    ![screenshot](images/team-loop-finished.png)
+    ![ekran görüntüsü](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ Kodunuzu tekrar deneyin artık oyuncularınızın listesini ve takımların son hallerini görmüş olmalısınız.
     
-    ![screenshot](images/team-loop-finished-test.png)
+    ![ekran görüntüsü](images/team-loop-finished-test.png)
