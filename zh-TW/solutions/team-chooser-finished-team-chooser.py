@@ -2,48 +2,48 @@
 
 from random import choice
 
-#create a list of players from a file
+#從檔案中匯入隊員名單
 players = []
 file = open('players.txt', 'r')
 players = file.read().splitlines()
-print('Players:', players)
+print('隊員：', players)
 
-#create a list of team names from a file
+#從檔案中匯入隊名清單
 teamNames = []
 file = open('teamNames.txt', 'r')
 teamNames = file.read().splitlines()
 print('Team names:', teamNames)
 
-#create empty team lists
+#建立空的團隊人員名單
 teamA = []
 teamB = []
 
-#loop until there are no players left
+#重複迴圈直到所有隊員全部被選走
 while len(players) > 0:
   
-  #choose a random player for team A
+  #為A隊隨機選擇一名隊員
   playerA = choice(players)
   teamA.append(playerA)
-  #remove the player from the players list
+  #將已選的隊員從隊員名單中去除
   players.remove(playerA)
   
-  #break out of the loop if there are no players left
+  #如果沒有隊員剩下了，則跳出迴圈
   if players == []: 
     break
   
-  #choose a random player for team B
+  #為B隊隨機選擇一名隊員
   playerB = choice(players)
   teamB.append(playerB)
-  #remove the player from the players list
+  #將已選的隊員從隊員名單中去除
   players.remove(playerB)
 
-#choose random team names for the 2 teams
+#為兩隊隨機選擇隊名
 teamNameA = choice(teamNames)
 teamNames.remove(teamNameA)
 teamNameB = choice(teamNames)
 teamNames.remove(teamNameB)
 
-#print the teams
+#輸出隊名
 print('\nHere are your teams:\n')
 print(teamNameA, teamA)
 print(teamNameB, teamB)
