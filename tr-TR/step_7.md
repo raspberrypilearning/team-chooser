@@ -1,25 +1,25 @@
-## Files
+## Dosyalar
 
-You can use a file to store your list of players.
+Oyuncularınızın listesini kaydetmek için bir dosya kullanabilirsiniz.
 
-+ Click the + icon and create a new file called `players.txt`.
++ + simgesine tıklayın ve `oyuncular.txt` adlı yeni bir dosya oluşturun.
     
-    ![screenshot](images/team-file-create.png)
+    ![ekran görüntüsü](images/team-file-create.png)
 
-+ Add your players to your new file. Make sure that there is no blank line after your last player.
++ Oyuncularınızı yeni dosyanıza ekleyin. Son oyuncunuzdan sonra boş satır olmadığından emin olun.
     
-    ![screenshot](images/team-file-add.png)
+    ![ekran görüntüsü](images/team-file-add.png)
 
-+ Change your `players` list so that it is empty.
++ `oyuncular` listesi değişkeninin boş olmasını sağlayın.
     
-    ![screenshot](images/team-players-empty.png)
+    ![ekran görüntüsü](images/team-players-empty.png)
 
-+ Open your `players.txt` file (the `'r'` means read-only).
++ `oyuncular.txt` dosyanızı açın (`'r'` ifadesi dosyanın sadece okunabilir olduğu anlamına gelir).
     
-    ![screenshot](images/team-file-open.png)
+    ![ekran görüntüsü](images/team-file-open.png)
 
-+ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
++ Dosyadaki listeyi okutun ve `oyuncular` listesi değişkenine ekleyin. (`splitlines` kodu, dosyanın içindeki her satırın, `oyuncular` listesinin yeni birer ögesi olduğu anlamına gelir).
     
-    ![screenshot](images/team-file-load.png)
+    ![ekran görüntüsü](images/team-file-load.png)
 
-+ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
++ Eğer kodunuzu tekrar denerseniz aynı eskisi gibi çalışıyor olmalı. Ancak, şimdi `oyuncular.txt` dosyasına oyuncu eklemek çok daha kolay.
