@@ -1,35 +1,36 @@
-## Random players
+## बेतरतीब खिलाड़ी
 
-Let's choose random players!
+चलो यादृच्छिक खिलाड़ियों का चयन करें!
 
-+ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
++ अपने खिलाड़ियों की सूची से एक यादृच्छिक खिलाड़ी प्राप्त करने में सक्षम होने के लिए, सबसे पहले आपको यादृच्छिक मॉड्यूल के विकल्प हिस्से को आयात करने की आवश्यकता होगी।
     
-    ![screenshot](images/team-import-random.png)
+    ![स्क्रीनशॉट](images/team-import-random.png)
 
-+ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
++ एक यादृच्छिक खिलाड़ी प्राप्त करने के लिए, आप पसंद का उपयोग कर सकते हैं। (आप व्यक्तिगत खिलाड़ियों को प्रिंट करने के लिए कोड को भी हटा सकते हैं।) (आप व्यक्तिगत खिलाड़ियों को प्रिंट करने के लिए कोड भी हटा सकते हैं।)
     
-    ![screenshot](images/team-random-player.png)
+    ![स्क्रीनशॉट](images/team-random-player.png)
 
-+ Test your `choice` code a few times and you should see a different player being chosen each time.
++ कई बार अपनी पसंद कोड का परीक्षण करें और आपको हर बार एक अलग खिलाड़ी को चुना जाना चाहिए।
 
-+ You can also create a new variable called `playerA`, and use it to store your random player.
++ आप प्लेयर ए नामक एक नया वेरिएबल भी बना सकते हैं, और अपने यादृच्छिक खिलाड़ी को स्टोर करने के लिए इसका उपयोग कर सकते हैं।
     
-    ![screenshot](images/team-random-playerA.png)
+    ![स्क्रीनशॉट](images/team-random-playerA.png)
 
-+ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
++ टीम ए के सभी खिलाड़ियों को स्टोर करने के लिए एक नई सूची की आवश्यकता होगी । शुरू करने के लिए, यह सूची खाली होनी चाहिए।
     
-    ![screenshot](images/team-teamA.png)
+    ![स्क्रीनशॉट](images/team-teamA.png)
 
-+ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
++ अब आप टीम ए में अपने यादृच्छिक ढंग से चुने गए खिलाड़ी को जोड़ सकते हैं। ऐसा करने के लिए, आप teamA.append का उपयोग कर सकते हैं (परिशिष्ट का मतलब है अंत में जोड़ें)।
     
-    ![screenshot](images/team-teamA-add.png)
+    ![स्क्रीनशॉट](images/team-teamA-add.png)
 
-+ Now that your player has been chosen, you can remove them from your list of `players`.
++ अब जब आपके खिलाड़ी को चुना गया है, तो आप उन्हें अपनी खिलाड़ियों की सूची से हटा सकते हैं।
     
-    ![screenshot](images/team-players-remove.png)
+    ![स्क्रीनशॉट](images/team-players-remove.png)
 
-+ Test this code by adding a `print` command, to show the `players` left to choose from.
++ एक प्रिंट कमांड जोड़कर इस कोड का परीक्षण करें, बचे हुए खिलाड़ियों में से चुनने के लिए
     
-    ![screenshot](images/team-players-remove-test.png)
+    ![स्क्रीनशॉट](images/team-players-remove-test.png)
     
-    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
+    ऊपर दिए गए उदाहरण में,हर्मिएक को ` teamA` के लिए चु ना गया है, और इसलिए  खिलाड़ियों की सूची से हटा दिया गया है < /0>।</p></li>
+</ul>
