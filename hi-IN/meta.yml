@@ -1,41 +1,41 @@
 ---
 hero_image: images/team-chooser.png
-theme: violet
+theme: बैंगनी
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Team Chooser
-description: Make a program to split players into 2 random teams.
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: टीम चयनकर्ता
+description: खिलाड़ियों को 2 बेतरतीब टीमों में विभाजित करने के लिए प्रोग्राम बनाएँ।
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
 interests: games
 technologies: python
-site_areas: projects
+site_areas: codeclub, python
 hardware: ''
-software: python
+software: python (पायथन)
 version: 3
 last_tested: 2018-04-05
 steps:
   - 
-    title: 'Introduction: '
+    title: 'भूमिका'
   - 
-    title: Players
+    title: खिलाड़ी
   - 
-    title: 'Challenge: Adding more players'
+    title: 'चुनौती: और खिलाड़ी जोड़ना'
   - 
-    title: Random players
+    title: बेतरतीब खिलाड़ी
   - 
-    title: 'Challenge: Choosing for team B'
+    title: 'चुनौती: टीम B के लिए चुनना'
   - 
-    title: Choosing lots of players
+    title: बहुत से खिलाड़ी चुनना
   - 
-    title: Files
+    title: फाइलें
   - 
-    title: Odd players
+    title: विषम खिलाड़ी
   - 
-    title: 'Challenge: Random team names'
+    title: 'चुनौती: टीमों के बेतरतीब नाम'
   - 
-    title: 'Challenge: Storing team names'
+    title: 'चुनौती: टीम के नाम स्टोर करना'
   - 
-    title: 'Challenge: More teams'
+    title: 'चुनौती: और टीमें'
