@@ -1,25 +1,25 @@
-## Files
+## 檔案
 
-You can use a file to store your list of players.
+您可以使用檔案來儲存你的隊員名單。
 
-+ Click the + icon and create a new file called `players.txt`.
++ 單擊 + 圖示並新建一個名為 `players.txt `的新檔案。
     
-    ![screenshot](images/team-file-create.png)
+    ![截圖](images/team-file-create.png)
 
-+ Add your players to your new file. Make sure that there is no blank line after your last player.
++ 將你的隊員名單加入到新檔案中。 確保在最後一名隊員之後沒有空行。
     
-    ![screenshot](images/team-file-add.png)
+    ![截圖](images/team-file-add.png)
 
-+ Change your `players` list so that it is empty.
++ 清空你的 `players `列表。
     
-    ![screenshot](images/team-players-empty.png)
+    ![截圖](images/team-players-empty.png)
 
-+ Open your `players.txt` file (the `'r'` means read-only).
++ 開啟你的` players.txt `檔案（`‘r‘ `表示唯讀）。
     
-    ![screenshot](images/team-file-open.png)
+    ![截圖](images/team-file-open.png)
 
-+ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
++ 從檔案中讀取列表並新增到`players`列表。 (`splitlines `程式碼表示檔案中的每一行都是` players ` 列表中的一個新成員)。
     
-    ![screenshot](images/team-file-load.png)
+    ![截圖](images/team-file-load.png)
 
-+ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
++ 如果進行測試，您的程式碼將與此前的執行一致。 然而，現在將隊員新增到 `players.txt `檔案的做法要容易得多。
