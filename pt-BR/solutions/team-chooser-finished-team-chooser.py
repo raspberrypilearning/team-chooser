@@ -2,48 +2,48 @@
 
 from random import choice
 
-#create a list of players from a file
-players = []
-file = open('players.txt', 'r')
-players = file.read().splitlines()
-print('Players:', players)
+#cria uma lista de jogadores a partir de um arquivo
+jogadores= []
+arquivo= open('jogadores.txt', 'r')
+jogadores = arquivo.read().splitlines()
+print('Jogadores:', jogadores)
 
-#create a list of team names from a file
-teamNames = []
-file = open('teamNames.txt', 'r')
-teamNames = file.read().splitlines()
-print('Team names:', teamNames)
+#cria uma lista de nomes de times a partir de um arquivo
+nomesTimes = []
+arquivo = open('nomesTimes.txt', 'r')
+nomesTimes = file.read().splitlines()
+print(Nome de Times', nomesTimes)
 
-#create empty team lists
-teamA = []
-teamB = []
+#cria listas de equipes vazias
+timeA = []
+timeB = []
 
-#loop until there are no players left
-while len(players) > 0:
+#loop até que não tenha mais jogadores
+while len(jogadores) > 0:
   
-  #choose a random player for team A
-  playerA = choice(players)
-  teamA.append(playerA)
-  #remove the player from the players list
-  players.remove(playerA)
+  # escolhe um jogador aleatório para o time A
+  jogadorA = choice(jogadores)
+  timeA.append(jogadorA)
+  #remove o jogador da lista de jogadores
+  jogadores.remove(jogadorA)
   
-  #break out of the loop if there are no players left
-  if players == []: 
+  #encerra o loop caso não haja mais jogadores
+  if jogadores == []: 
     break
   
-  #choose a random player for team B
-  playerB = choice(players)
-  teamB.append(playerB)
-  #remove the player from the players list
-  players.remove(playerB)
+  # escolhe um jogador aleatório para o time B
+  jogadorB = choice(jogadores)
+  timeB.append(jogadorB)
+  #remove o jogador da lista de jogadores
+  jogadores.remove(jogadorB)
 
-#choose random team names for the 2 teams
-teamNameA = choice(teamNames)
-teamNames.remove(teamNameA)
-teamNameB = choice(teamNames)
-teamNames.remove(teamNameB)
+# escolhe nomes aleatórios para as 2 equipes
+nomeTimeA = choice(nomesTimes)
+nomesTimes.remove(nomeTimeA)
+nomeTimeB = choice(nomesTimes)
+nomesTimes.remove(nomeTimeB)
 
-#print the teams
-print('\nHere are your teams:\n')
-print(teamNameA, teamA)
-print(teamNameB, teamB)
+#mostra os times
+print ('\nAqui estão seus times:\n')
+print (nomeTimeA, timeA)
+print(nomeTimeB, timeB)
