@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Random team names
+## Meydan okuma: Rastgele takım isimleri
 
-Can you give both of your teams a random team name?
+Her iki takımınıza da rastgele bir takım adı verebilir misiniz?
 
-You can create a list called `teamNames` containing the names to choose from.
+İçerisinden isim seçmek için `takimisimleri` adında bir liste oluşturabilirsiniz.
 
-You can then choose (and display) a random name for each team.
+Daha sonra her takım için rastgele bir isim seçebilir (ve görüntüleyebilirsiniz).
 
-![screenshot](images/team-finished.png)
+![ekran görüntüsü](images/team-finished.png)
 
 \--- /challenge \---
