@@ -1,21 +1,21 @@
-## Odd players
+## Jogadores ímpares
 
-Let's improve your program to work with an odd number of players.
+Vamos melhorar seu programa para trabalhar com um número ímpar de jogadores.
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ Adicione outro nome à sua lista `jogadores.txt` , para que você tenha um número ímpar de jogadores.
     
     ![screenshot](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ Se você testar seu código, verá uma mensagem de erro.
     
-    ![screenshot](images/team-error.png)
+    ![captura de tela](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ O erro ocorre porque seu programa continua escolhendo jogadores aleatórios para a equipe A e depois para a equipe B. No entanto, se houver um número ímpar de jogadores, depois de escolher um jogador para a equipe A, não há mais jogadores para escolher para a equipe B.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    Para corrigir esse bug, você pode dizer ao seu programa para `quebrar` de seu `enquanto` loop se sua lista `jogadores` estiver vazia.
     
     ![screenshot](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ Se você testar seu código novamente, verá que agora ele funciona com um número ímpar de jogadores.
     
-    ![screenshot](images/team-fix-test.png)
+    ![captura de tela](images/team-fix-test.png)
