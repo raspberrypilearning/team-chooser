@@ -2,48 +2,48 @@
 
 from random import choice
 
-#create a list of players from a file
+# 파일에서 플레이어 리스트 불러오기
 players = []
 file = open('players.txt', 'r')
 players = file.read().splitlines()
-print('Players:', players)
+print('플레이어 목록:', players)
 
-#create a list of team names from a file
+# 파일에서 불러온 플레이어 리스트 List에 삽입
 teamNames = []
 file = open('teamNames.txt', 'r')
 teamNames = file.read().splitlines()
-print('Team names:', teamNames)
+print('팀 목록:', teamNames)
 
-#create empty team lists
+# 빈 팀 List 만들기
 teamA = []
 teamB = []
 
-#loop until there are no players left
+# 남은 플레이어가 없을 때까지 반복
 while len(players) > 0:
   
-  #choose a random player for team A
+  # 팀 A의 임의의 플레이어 선택
   playerA = choice(players)
   teamA.append(playerA)
-  #remove the player from the players list
+  # 선택된 플레이어를 플레이어 리스트에서 제거
   players.remove(playerA)
   
-  #break out of the loop if there are no players left
+  # 만약 플레이어가 리스트에 없다면, 루프에서 벗어납니다.
   if players == []: 
     break
   
-  #choose a random player for team B
+  # 팀 B의 임의의 플레이어 선택
   playerB = choice(players)
   teamB.append(playerB)
-  #remove the player from the players list
+  # 선택된 플레이어를 플레이어 리스트에서 제거
   players.remove(playerB)
 
-#choose random team names for the 2 teams
+# 두 팀에 임의의 팀 이름 부여
 teamNameA = choice(teamNames)
 teamNames.remove(teamNameA)
 teamNameB = choice(teamNames)
 teamNames.remove(teamNameB)
 
-#print the teams
-print('\nHere are your teams:\n')
+# 팀 배정 결과 출력
+print('팀 배정 결과:')
 print(teamNameA, teamA)
 print(teamNameB, teamB)
