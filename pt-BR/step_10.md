@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Storing team names
+## Desafio: Armazenar nomes de equipes
 
-Can you store your list of team names in a file?
+Você pode armazenar sua lista de nomes de equipe em um arquivo?
 
 \--- /challenge \---
