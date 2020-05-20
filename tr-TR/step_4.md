@@ -1,35 +1,35 @@
-## Random players
+## Rastgele oyuncular
 
-Let's choose random players!
+Rasgele oyuncu seçelim!
 
-+ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
++ `oyuncular` listenizden rastgele oyuncular seçebilmek için ilk önce `random` modülünün `choise` bölümünü kodlamaya dahil etmeniz gerekiyor.
     
-    ![screenshot](images/team-import-random.png)
+    ![ekran görüntüsü](images/team-import-random.png)
 
-+ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
++ Rastgele bir oyuncu elde etmek için `choise` komutunu kullanabilirsiniz. (Ayrıca tek tek oyuncuları yazdıran kodu da silebilirsiniz.)
     
-    ![screenshot](images/team-random-player.png)
+    ![ekran görüntüsü](images/team-random-player.png)
 
-+ Test your `choice` code a few times and you should see a different player being chosen each time.
++ Bir kaç kez `choice` kodunuzu deneyin, her seferinde farklı bir oyuncunun seçilmiş olduğunu göreceksiniz.
 
-+ You can also create a new variable called `playerA`, and use it to store your random player.
++ Rastgele oyuncunuzu kaydetmek için ayrıca yeni bir `Aoyuncusu` değişkeni oluşturabilirsiniz.
     
-    ![screenshot](images/team-random-playerA.png)
+    ![ekran görüntüsü](images/team-random-playerA.png)
 
-+ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
++ A takımındaki tüm oyuncuları saklamak için yeni bir listeye ihtiyacınız olacak. Başlayabilmek için, bu liste boş olmalıdır.
     
-    ![screenshot](images/team-teamA.png)
+    ![ekran görüntüsü](images/team-teamA.png)
 
-+ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
++ Şimdi rastgele seçilmiş oyuncuları `Atakimi`'na ekleyebilirsiniz. Bunu yapmak için `Atakimi.append` komutunu kullanabilirsiniz (**append** sonuna ekle anlamına gelir).
     
-    ![screenshot](images/team-teamA-add.png)
+    ![ekran görüntüsü](images/team-teamA-add.png)
 
-+ Now that your player has been chosen, you can remove them from your list of `players`.
++ Artık oyuncunuz seçildiğine göre, onları `oyuncular` listenizden kaldırabilirsiniz.
     
-    ![screenshot](images/team-players-remove.png)
+    ![ekran görüntüsü](images/team-players-remove.png)
 
-+ Test this code by adding a `print` command, to show the `players` left to choose from.
++ `print` komutunu ekleyip, içinden seçim yapmak için `oyuncular` listesindeki kalan oyuncuları göstererek kodunuzu test edin.
     
-    ![screenshot](images/team-players-remove-test.png)
+    ![ekran görüntüsü](images/team-players-remove-test.png)
     
-    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
+    Yukarıdaki örnekte, Ceyda `Atakimi` için seçilmişti böylece adı `oyuncular` listesinden çıkarılmış oldu.
