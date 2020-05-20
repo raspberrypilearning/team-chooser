@@ -1,25 +1,25 @@
-## Files
+## फ़ाइलें
 
-You can use a file to store your list of players.
+आप अपने खिलाड़ियों की सूची को संग्रहीत करने के लिए एक फ़ाइल का उपयोग कर सकते हैं।
 
-+ Click the + icon and create a new file called `players.txt`.
++ + आइकन पर क्लिक करें और ` players.txt` नामक एक नई फाइल बनाएं ।
     
-    ![screenshot](images/team-file-create.png)
+    ![स्क्रीनशॉट](images/team-file-create.png)
 
-+ Add your players to your new file. Make sure that there is no blank line after your last player.
++ अपनी नई फ़ाइल में अपने खिलाड़ियों को जोड़ें। सुनिश्चित करें कि आपके अंतिम खिलाड़ी के बाद कोई खाली लाइन नहीं है।
     
-    ![screenshot](images/team-file-add.png)
+    ![स्क्रीनशॉट](images/team-file-add.png)
 
-+ Change your `players` list so that it is empty.
++ अपने `players` की सूची बदलें ताकि यह खाली हो।
     
-    ![screenshot](images/team-players-empty.png)
+    ![स्क्रीनशॉट](images/team-players-empty.png)
 
-+ Open your `players.txt` file (the `'r'` means read-only).
++ अपनी ` players.txt` फाइल खोलें (`'r'` का मतलब है केवल पढ़ें) ।
     
-    ![screenshot](images/team-file-open.png)
+    ![स्क्रीनशॉट](images/team-file-open.png)
 
-+ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
++ फ़ाइल से सूची पढ़ें और अपने खिलाड़ियों की सूची में जोड़ें। (` splitlines ` कोड का मतलब है कि फाइल में हर लाइन ` players ` लिस्ट में एक नया आइटम है ।
     
-    ![screenshot](images/team-file-load.png)
+    ![स्क्रीनशॉट](images/team-file-load.png)
 
-+ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
++ यदि आप अपने कोड का परीक्षण करते हैं, तो यह पहले की तरह ही काम करना चाहिए। हालांकि, अब अपने players.txt फ़ाइल में खिलाड़ियों को जोड़ना बहुत आसान है। हालांकि, अब अपने players.txt फ़ाइल में खिलाड़ियों को जोड़ना बहुत आसान है।
