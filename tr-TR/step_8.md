@@ -1,21 +1,21 @@
-## Odd players
+## Tek oyuncular
 
-Let's improve your program to work with an odd number of players.
+Programınızı tek sayıda oyuncu ile çalışacak şekilde geliştirelim.
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ `oyuncular.txt` dosyanıza bir oyuncu ismi daha ekleyin ki oyuncu sayısı tek sayı olsun.
     
-    ![screenshot](images/team-luna.png)
+    ![ekran görüntüsü](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ Kodunuzu test ederseniz, bir hata mesajı aldığınızı göreceksiniz.
     
-    ![screenshot](images/team-error.png)
+    ![ekran görüntüsü](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ Bunun nedeni, programınızın A takımı ve ardından B takımı için rastgele oyuncuları seçmeye devam etmesidir. Ancak, eğer eşit sayıda olmayan oyuncular varsa, A takımı için bir oyuncu seçildikten sonra, B takımı için seçilecek oyuncu kalmayacak.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    Bu hatayı düzeltmek için, programınıza `oyuncular` listesi boşalana kadar devam eden `while` döngüsünü `durdurmasını` söyleyebilirsiniz.
     
     ![screenshot](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ Kodunuzu tekrar test ederseniz, kodunuzun artık tek sayıda oyuncuyla çalıştığını görmeniz gerekir.
     
     ![screenshot](images/team-fix-test.png)
