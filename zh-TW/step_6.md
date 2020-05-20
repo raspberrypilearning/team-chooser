@@ -1,31 +1,31 @@
-## Choosing lots of players
+## 選擇很多隊員
 
-Next you'll need to make sure that every player has been chosen for a team.
+接下來，你要確保每一個隊員都被選入某個團隊中。
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ 將選擇A隊和B隊隊員的程式碼標示成藍底，然後按tab鍵縮排程式碼。
     
-    ![screenshot](images/team-loop-tab.png)
+    ![截圖](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ 新增一個**while**迴圈來持續選擇隊員直到`players`列表的長度為0。
     
-    ![screenshot](images/team-loop-while.png)
+    ![截圖](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ 執行你的程式碼進行測試。 你應該看到隊員們被選入A隊或B隊，直到沒有剩下隊員為止。
     
-    ![screenshot](images/team-loop-test.png)
+    ![截圖](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ 在你的`while`迴圈**後面**新增程式碼以輸出`teamA`列表（確保它沒有縮排）。
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    這意味著只有在所有的隊員都被選擇之後，`teamA`才被輸出一次。
     
-    ![screenshot](images/team-teamA-paste.png)
+    ![截圖](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ 您可以對 `teamB` 執行相同的操作，也可以刪除其他輸出指令，因為它們僅用於測試你的程式碼。 
     
-    Here's how your code should look:
+    現在你的程式碼應如圖所示：
     
-    ![screenshot](images/team-loop-finished.png)
+    ![截圖](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ 再次測試你的程式碼，你應該只看到全部的隊員名單以及最終團隊的名單。
     
-    ![screenshot](images/team-loop-finished-test.png)
+    ![截圖](images/team-loop-finished-test.png)
