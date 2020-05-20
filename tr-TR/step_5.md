@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: Choosing for team B
+## Meydan okuma: B takımı için seçme
 
-Can you add code to choose a player at random for team B? You'll need to:
+B takımı için rastgele bir oyuncu seçmek için kod ekleyebilir misiniz? Şunlara ihtiyacınız olacak:
 
-+ Create a new `teamB` list
-+ Choose a random player for team B (called `playerB`)
-+ `append` the chosen player to your `teamB` list
-+ `remove` the chosen player from your list of `players`
++ Yeni bir `Btakimi` listesi oluşturma
++ B takımı için rastgele bir oyuncu seçme (`Boyuncusu` adlı değişken)
++ Seçilmiş oyuncuyu `Btakimi` listenizin sonuna `append` komutuyla ekleme
++ Seçilmiş oyuncuyu `oyuncular` listesinden `çıkarma`
 
-The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
+`Btakimi` için ihtiyacınız olan kod, zaten `Atakimi` için yazılmış olan koda **çok** benzer olacaktır!
 
 \--- /challenge \---
