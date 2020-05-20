@@ -32,11 +32,11 @@
 
 ## 오프라인 자료들
 
-여러분의 선호에 따라 프로젝트를 [오프라인에서 완성](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)할 수 있습니다. 'Project Materials' 라는 링크를 클릭하여 이 프로젝트의 자료를 확인해볼 수 있습니다. 이 링크에는 학생들이 프로젝트를 오프라인으로 완료하는 데 필요한 자료가 포함된 'Project Resource' 섹션이 있습니다. 학생들이 이러한 자료의 사본에 접근할 수 있는지 확인하십시오. 이 섹션에는 아래와 같은 파일들이 포함되어 있습니다.
+여러분의 선호에 따라 프로젝트를 [오프라인에서 완성](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/)할 수 있습니다. '프로젝트 자료' 라는 링크를 클릭하여 이 프로젝트의 자료를 확인해볼 수 있습니다. 이 링크에는 학생들이 프로젝트를 오프라인으로 완료하는 데 필요한 자료가 포함된 '프로젝트 리소스' 섹션이 있습니다. 학생들이 이러한 자료의 사본에 접근할 수 있는지 확인하십시오. 이 섹션에는 아래와 같은 파일들이 포함되어 있습니다.
 
 * team/team.py
 
-이 프로젝트의 완성된 버전은 'Volunteer Resources' 섹션에서 찾을 수 있습니다.
+이 프로젝트의 완성된 버전은 '교육자를 위한 자료' 섹션에서 찾을 수 있습니다.
 
 * team-finished/team.py
 
@@ -67,13 +67,13 @@
 
 ## 프로젝트 리소스
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* 이 프로젝트의 [자료는 여기서 찾을 수 있습니다. ](http://rpf.io/p/en/team-chooser-go) {: target = "_ blank"}.
 * [온라인 파이썬 빈 Trinket 창](http://jumpto.cc/python-new)
 * [오프라인 파이썬 공백 파일](resources/new-new.py)
 
 ## 교육자를 위한 자료
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* 프로젝트의 완성본은 [여기](http://rpf.io/p/en/team-chooser-get){:target="_blank"}를 클릭하면 됩니다.
 * [완성된 온라인 Trinket 프로젝트](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
