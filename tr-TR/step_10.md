@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Storing team names
+## Meydan okuma: Takım isimlerini saklama
 
-Can you store your list of team names in a file?
+Takım isimlerinin olduğu listenizi bir dosyada saklayabilir misiniz?
 
 \--- /challenge \---
