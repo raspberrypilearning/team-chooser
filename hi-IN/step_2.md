@@ -1,21 +1,21 @@
-## Players
+## खिलाड़ी
 
-Let's start by creating a list of players to choose from.
+चलो शुरू करते हैं एक सूची बनाकर खिलाड़ियों का चयन करने के लिए 
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ रिक्त Python टेंपलेट Trinket खोलें: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
++ आप खिलाड़ियों की सूची संग्रहीत करने के लिए एक वेरिएबल का उपयोग कर सकते हैं। सूची वर्ग कोष्ठक (स्क्वायर ब्रैकेट) में होना चाहिए और प्रत्येक आइटम के बीच एक अल्पविराम के साथ ।
     
-    Start by adding a list of players to your program.
+    शुरुआत अपने कार्यक्रम में खिलाड़ियों की एक सूची जोड़कर करें।
     
-    ![screenshot](images/team-create-players.png)
+    ![स्क्रीनशॉट](images/team-create-players.png)
 
-+ Add this code to print your `players` variable:
++ अपने खिलाड़ियों का वेरिएबल प्रिंट करने के लिए यह कोड जोड़ें:
     
-    ![screenshot](images/team-print-players.png)
+    ![स्क्रीनशॉट](images/team-print-players.png)
 
-+ You can get to an item in the list by adding its position in square brackets after the variable name.
++ आप सूची में कोई भी आइटम प्राप्त करने के लिए, वेरिएबल के नाम के बाद वर्ग कोष्ठक में उक्त स्थान जोड़ दे
     
-    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
+    सूची में प्रथम आइटम स्थिति 0 पर है । यह स्क्रैच से अलग है, जो स्थिति 1 पर शुरू होता है।
     
-    ![screenshot](images/team-print-players-index.png)
+    ![स्क्रीनशॉट](images/team-print-players-index.png)
