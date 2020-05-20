@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More teams
+## Meydan Okuma: Daha fazla takım
 
-Can you improve your program to split players into 3 teams instead of 2?
+Programınızı, oyuncuları 2 yerine 3 takıma ayıracak şekilde geliştirebilir misiniz?
 
 \--- /challenge \---
