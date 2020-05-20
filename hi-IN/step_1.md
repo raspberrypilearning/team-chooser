@@ -1,6 +1,6 @@
-## Introduction:
+## परिचय:
 
-In this project, you'll learn how to create 2 random teams from a list of players.
+इस परियोजना में, आप खिलाड़ियों की सूची से 2 यादृच्छिक टीमें बनाने का तरीका सीखेंगे।
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,73 +8,73 @@ In this project, you'll learn how to create 2 random teams from a list of player
   <img src="images/team-finished.png">
 </div>
 
-### Additional information for club leaders
+### क्लब लीडरों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print).
+यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/team-chooser/print) का उपयोग करें।
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## शीर्षक: क्लब लीडर नोट्स
 
-## Introduction:
+## प्रस्तावना:
 
-In this project, children will learn how to make a program to split a list of players into 2 random teams. This project teaches lists and using files.
+इस परियोजना में, बच्चे खिलाड़ियों की एक सूची को 2 यादृच्छिक टीमों में विभाजित करने के लिए एक कंप्यूटर प्रोग्राम बनाने का तरीका सीखेंगे। यह प्रोजेक्ट सूची और फ़ाइलों का उपयोग करना सिखाता है।
 
-## Online Resources
+## ऑनलाइन संसाधन
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+यह प्रोजेक्ट पायथन 3 का उपयोग करता है। हम पायथन ऑनलाइन लिखने के लिए ट्रिंकेट का उपयोग करने की सलाह देते हैं। इस प्रोजेक्ट में निम्नलिखित ट्रिंकेट हैं:
 
-* [New (blank) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [नया (रिक्त) ट्रिंकेट ट्रिंकेट - jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing the completed project:
+एक ऐसा trinket भी है जिसमें पूर्ण किया गया प्रोजेक्ट है:
 
-* [‘Team Chooser’ Finished -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* ['टीम चयनकर्ता' समाप्त - trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
-## Offline Resources
+## ऑफ़लाइन संसाधन
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+यदि चाहें तो इस प्रोजेक्ट को [ऑफ़लाइन पूरा](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) किया जा सकता है। आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके परियोजना संसाधनों तक पहुंच सकते हैं। इस लिंक में एक 'प्रोजेक्ट रिसोर्सेज' सेक्शन शामिल है, जिसमें ऐसे संसाधन शामिल हैं जिन्हें बच्चों को ऑफलाइन इस प्रोजेक्ट को पूरा करने की आवश्यकता होगी। सुनिश्चित करें कि प्रत्येक बच्चे को इन संसाधनों की एक प्रति तक पहुंच है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
 
 * team/team.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+आप 'वालंटियर रिसोर्सेज' अनुभाग में इस परियोजना का एक पूरा संस्करण भी पा सकते हैं, जिसमें शामिल हैं:
 
 * team-finished/team.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+ऊपर दिए गए सभी संसाधन भी प्रोजेक्ट और वालंटियर.ज़िप फ़ाइल के रूप में डाउनलोड किए जा सकते हैं
 
-## Learning Objectives
+## सीखने के उद्देश्य
 
-* Lists;
-* Loading list data from a file.
+* सूचियाँ
+* किसी फाइल से डेटा लोड करना।
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+इस प्रोजेक्ट में रास्पबेरी पीआई डिजिटल मेकिंग पाठ्यक्रम के निम्नलिखित कस्में से तत्वों को शामिल किया गया है
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## चुनौतियाँ
 
-* "Adding more players" - adding elements to a `players` list;
-* "Choosing for team B" - creating a new `teamB` list to add random players to;
-* "Random team names" - creating and using a new `teamNames` list to assign random names to teams;
-* "Storing team names" - storing team names in a file, and loading them into a `teamNames` variable;
-* "More teams" - splitting players into 3 teams instead of 2.
+* "अधिक खिलाड़ियों को जोड़ना" - खिलाड़ियों की सूची में तत्वों को जोड़ना
+* "टीम बी के लिए चुनना" - यादृच्छिक खिलाड़ियों को जोड़ने के लिए एक नई टीम बी सूची बनाना;
+* "यादृच्छिक टीम के नाम" - टीमों को यादृच्छिक नाम आवंटित करने के लिए एक नई टीम नाम सूची बनाना और उपयोग करना;
+* "टीम के नाम संग्रहीत करना" फ़ाइल - एक फ़ाइल में टीम के नाम संग्रहीत करना, और उन्हें एक वेरिएबल teamName में लोड करे
+* "अधिक टीम" - दो के बजाय तीन टीमों में खिलाड़ियों को विभाजित करना। 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## शीर्षक: प्रोजेक्ट सामग्री
 
-## Project resources
+## प्रोजेक्ट संसाधन
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* आप [इस प्रोजेक्ट के लिए संसाधन यहाँ डाउनलोड कर सकते हैं](http://rpf.io/p/en/team-chooser-go){:target="_blank"}।
+* [ऑनलाइन रिक्त पाइथन ट्रिंकेट](http://jumpto.cc/python-new)
+* [ऑफ़लाइन रिक्त पाइथन फ़ाइल](resources/new-new.py)
 
-## Club leader resources
+## क्लब लीडर संसाधन
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
-* [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
+* आप [इस प्रोजेक्ट के लिए समाधान यहाँ खोज सकते हैं](http://rpf.io/p/en/team-chooser-get){:target="_blank"}।
+* [ऑनलाइन पूर्ण ट्रिंकेट प्रोजेक्ट](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 \--- /collapse \---
