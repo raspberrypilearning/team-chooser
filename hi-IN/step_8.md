@@ -1,21 +1,21 @@
-## Odd players
+## विषम खिलाड़ी
 
-Let's improve your program to work with an odd number of players.
+खिलाड़ियों की विषम संख्या के साथ काम करने के लिए अपने कार्यक्रम में सुधार करें।
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ अपने `players.txt में एक और नाम जोड़ें ` सूची, ताकि आपके पास विषम संख्या में खिलाड़ी हों।
     
-    ![screenshot](images/team-luna.png)
+    ![स्क्रीनशॉट](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ यदि आप अपने कोड का परीक्षण करते हैं, तो आप देखेंगे कि आपको एक त्रुटि संदेश मिलेगा।
     
-    ![screenshot](images/team-error.png)
+    ![स्क्रीनशॉट](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ त्रुटि इसलिए है क्योंकि आपका प्रोग्राम टीम ए और फिर टीम बी के लिए यादृच्छिक खिलाड़ियों का चयन करता रहता है। हालांकि, अगर खिलाड़ियों की एक विषम संख्या है, तो टीम ए के लिए खिलाड़ी चुनने के बाद टीम बी के लिए चुनने के लिए कोई खिलाड़ी नहीं बचे हैं।
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    इस बग को ठीक करने के लिए, आप अपने प्रोग्राम को `while` लूप से ` ब्रेक कर सकते हैं यदि आपके <code> खिलाड़ियों  की ` सूची खाली है।
     
-    ![screenshot](images/team-fix.png)
+    ![स्क्रीनशॉट](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ यदि आप अपने कोड का फिर से परीक्षण करते हैं, तो आप देखेंगे कि यह अब खिलाड़ियों की विषम संख्या के साथ काम कर रहा है।
     
-    ![screenshot](images/team-fix-test.png)
+    ![स्क्रीनशॉट](images/team-fix-test.png)
