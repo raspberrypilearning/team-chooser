@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Adding more players
+## Meydan okuma: daha fazla oyuncu ekleyin
 
-Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
+Listenize daha fazla oyuncu ekleyebilir misiniz? Dilediğiniz kadar çok oyuncu ekleyebilirsiniz ama oyuncu sayısının **çift** olması gerektiğinden emin olun.
 
-You can also change the names of the first 2 players if you prefer.
+İsterseniz ilk 2 oyuncunun ismini de değiştirebilirsiniz.
 
-Can you add code to print **just one** of your new players?
+Yeni oyuncularınızdan **sadece birinin** adını yazdırmak için kod ekleyebilir misiniz?
 
 \--- /challenge \---
