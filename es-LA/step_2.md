@@ -4,18 +4,18 @@ Vamos a empezar por crear una lista de jugadores para elegir.
 
 + Abre la plantilla Python en blanco en Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ Puedes usar una variable para almacenar una **lista** de jugadores. The list should be in square brackets `[ ]`, with a comma between each item in the list.
++ Puedes usar una variable para almacenar una **lista** de jugadores. La lista debe estar entre corchetes `[ ]`, con una coma entre cada elemento de la lista.
     
-    Start by adding a list of players to your program.
+    Empieza añadiendo una lista de jugadores a tu programa.
     
-    ![screenshot](images/team-create-players.png)
+    ![captura de pantalla](images/team-create-players.png)
 
-+ Add this code to print your `players` variable:
++ Añade este código para imprimir tu variable de `jugadores`:
     
-    ![screenshot](images/team-print-players.png)
+    ![captura de pantalla](images/team-print-players.png)
 
-+ You can get to an item in the list by adding its position in square brackets after the variable name.
++ Puedes acceder a un elemento de la lista agregando su posición entre corchetes después del nombre de la variable.
     
-    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
+    El primer elemento de la lista se encuentra en la **posición 0**. Esto es diferente a Scratch, que comienza en la posición 1.
     
-    ![screenshot](images/team-print-players-index.png)
+    ![captura de pantalla](images/team-print-players-index.png)
