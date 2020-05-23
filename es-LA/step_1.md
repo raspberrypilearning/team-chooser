@@ -49,27 +49,27 @@ Además, puedes encontrar una versión completa de este proyecto en la sección 
 
 Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Usar estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Desafíos
 
-* "Adding more players" - adding elements to a `players` list;
-* "Choosing for team B" - creating a new `teamB` list to add random players to;
-* "Random team names" - creating and using a new `teamNames` list to assign random names to teams;
-* "Storing team names" - storing team names in a file, and loading them into a `teamNames` variable;
-* "More teams" - splitting players into 3 teams instead of 2.
+* "Agregar más jugadores" - agregar elementos a la lista de `jugadores`;
+* "Eligiendo para el equipo B" - crear una nueva lista `equipoB` para agregar jugadores aleatorios;
+* "Nombres de equipos aleatorios" - crear y usar una nueva lista `nombresEquipos` para asignar nombres al azar a los equipos;
+* "Almacenamiento de nombres de equipos" - almacenar los nombres de los equipos en un archivo y cargarlos en una variable `nombresEquipos`;
+* "Más equipos" - dividir a los jugadores en 3 equipos en lugar de 2.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiales del proyecto
 
-## Project resources
+## Recursos del proyecto
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* Puedes [encontrar los recursos para este proyecto aquí](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* [Trinket Python en blanco en línea](http://jumpto.cc/python-new)
+* [Trinket Python archivo en blanco sin conexión](resources/new-new.py)
 
 ## Club leader resources
 
