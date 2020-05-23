@@ -1,6 +1,6 @@
 ## Introduction:
 
-In this project, you'll learn how to create 2 random teams from a list of players.
+En este proyecto, aprenderás cómo crear 2 equipos aleatorios a partir de una lista de jugadores.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,7 +8,7 @@ In this project, you'll learn how to create 2 random teams from a list of player
   <img src="images/team-finished.png">
 </div>
 
-### Additional information for club leaders
+### Información adicional para los líderes del club
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print).
 
