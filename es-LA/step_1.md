@@ -1,4 +1,4 @@
-## Introduction:
+## Introducción:
 
 En este proyecto, aprenderás cómo crear 2 equipos aleatorios a partir de una lista de jugadores.
 
@@ -32,7 +32,7 @@ También hay un Trinket que contiene al proyecto concluido:
 
 ## Recursos sin conexión
 
-Si prefiere, este proyecto se puede [completar offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del Proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto offline. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
+Si prefiere, este proyecto se puede [completar sin conexion](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del Proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto offline. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * team/team.py
 
@@ -71,10 +71,10 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 * [Trinket Python en blanco en línea](http://jumpto.cc/python-new)
 * [Trinket Python archivo en blanco sin conexión](resources/new-new.py)
 
-## Club leader resources
+## Recursos del líder del club
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
-* [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
+* Puedes [encontrar la solución para este proyecto aquí](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* [Proyecto Trinket completado en línea](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 \--- /collapse \---
