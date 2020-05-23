@@ -9,9 +9,9 @@ curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Selección de equipos
 description: Crea un programa para dividir a los jugadores en 2 equipos aleatorios.
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
-interests: games
+interests: juegos
 technologies: python
-site_areas: projects
+site_areas: proyectos
 hardware: ''
 software: python
 version: 3
@@ -28,14 +28,14 @@ steps:
   - 
     title: 'Desafío: Elegir para el equipo B'
   - 
-    title: Choosing lots of players
+    title: Selección de muchos jugadores
   - 
-    title: Files
+    title: Archivos
   - 
-    title: Odd players
+    title: Jugadores impares
   - 
-    title: 'Challenge: Random team names'
+    title: 'Desafío: Nombra los equipos aleatorios'
   - 
-    title: 'Challenge: Storing team names'
+    title: 'Desafío: Almacenamiento de los nombres de los equipos'
   - 
-    title: 'Challenge: More teams'
+    title: 'Desafío: Más equipos'
