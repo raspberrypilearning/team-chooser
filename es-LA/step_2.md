@@ -1,10 +1,10 @@
-## Players
+## Jugadores
 
-Let's start by creating a list of players to choose from.
+Vamos a empezar por crear una lista de jugadores para elegir.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ Abre la plantilla Python en blanco en Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
++ Puedes usar una variable para almacenar una **lista** de jugadores. The list should be in square brackets `[ ]`, with a comma between each item in the list.
     
     Start by adding a list of players to your program.
     
