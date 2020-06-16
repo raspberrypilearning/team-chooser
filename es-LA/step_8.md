@@ -1,21 +1,21 @@
-## Odd players
+## Jugadores impares
 
-Let's improve your program to work with an odd number of players.
+Mejoremos tu programa para que pueda trabajar con un número impar de jugadores.
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ Añade otro nombre a tu lista `players.txt`, para que tengas un número impar de jugadores.
     
-    ![screenshot](images/team-luna.png)
+    ![captura de pantalla](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ Si pruebas tu código, verás que aparece un mensaje de error.
     
-    ![screenshot](images/team-error.png)
+    ![captura de pantalla](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ El error se debe a que tu programa sigue eligiendo jugadores al azar para el equipo A y luego para el equipo B. Sin embargo, si hay un número impar de jugadores, después de elegir un jugador para el equipo A, no quedan jugadores para elegir para el equipo B.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    Para corregir este error, puedes decirle a tu programa que termine `break` tu bucle `while` si tu lista `jugadores` esta vacía.
     
-    ![screenshot](images/team-fix.png)
+    ![captura de pantalla](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ Si vuelves a probar tu código, deberías ver que ahora funciona con un número impar de jugadores.
     
-    ![screenshot](images/team-fix-test.png)
+    ![captura de pantalla](images/team-fix-test.png)
