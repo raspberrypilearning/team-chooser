@@ -1,31 +1,31 @@
-## Choosing lots of players
+## Selección de muchos jugadores
 
-Next you'll need to make sure that every player has been chosen for a team.
+A continuación, deberás asegurarte de que cada jugador ha sido elegido para un equipo.
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ Selecciona tu código para elegir jugadores para el equipo A y el equipo B y presiona la tecla de tabulación para añadir sangría al código.
     
-    ![screenshot](images/team-loop-tab.png)
+    ![captura de pantalla](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ Añade un bucle **while** para seguir eligiendo jugadores hasta la longitud de la lista `jugadores` sea 0.
     
-    ![screenshot](images/team-loop-while.png)
+    ![captura de pantalla](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ Ejecuta tu código para probarlo. Deberías ver a los jugadores ser elegidos para el equipo A y el equipo B hasta que no queden más jugadores.
     
-    ![screenshot](images/team-loop-test.png)
+    ![captura de pantalla](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ Añade el código para imprimir tu lista `equipoA` **después de** tu bucle `while` (asegurándote de que no tenga sangría).
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    Esto significa que `equipoA` solo se mostrará una vez, después de que todos los jugadores hayan sido elegidos.
     
-    ![screenshot](images/team-teamA-paste.png)
+    ![captura de pantalla](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ Puedes hacer lo mismo para el `equipoB`, y también puedes eliminar los otros comandos de impresión, ya que solo estaban ahí para probar tu código.
     
-    Here's how your code should look:
+    Así es como debería verse tu código:
     
-    ![screenshot](images/team-loop-finished.png)
+    ![captura de pantalla](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ Vuelve a probar tu código y deberías ver tu lista de jugadores, así como tus equipos finales.
     
-    ![screenshot](images/team-loop-finished-test.png)
+    ![captura de pantalla](images/team-loop-finished-test.png)
