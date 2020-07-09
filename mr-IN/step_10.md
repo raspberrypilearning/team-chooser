@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Storing team names
+## आव्हान: टीमची नावे संग्रहीत करणे
 
-Can you store your list of team names in a file?
+तुम्ही तुमच्या टीमच्या नावांची यादी एका फाइल मध्ये संग्रहीत करू शकता का?
 
 \--- /challenge \---
