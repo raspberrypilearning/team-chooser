@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: Choosing for team B
+## आव्हान: team B साठी निवडणे
 
-Can you add code to choose a player at random for team B? You'll need to:
+team B साठी कोणताही एक खेळाडू निवडण्यासाठी तुम्ही कोड जोडू शकता का? तुम्हाला ह्याची गरज आहे:
 
-+ Create a new `teamB` list
-+ Choose a random player for team B (called `playerB`)
-+ `append` the chosen player to your `teamB` list
-+ `remove` the chosen player from your list of `players`
++ एक नवीन `teamB` यादी तयार करा
++ team B साठी कोणताही एक खेळाडू निवडा (`playerB` म्हणा)
++ निवडलेला खालडू तुमच्या `teamB` यादी ला `जोडा`
++ निवडलेला खेळाडू तुमच्या `players` यादीतून `काढून` टाका
 
-The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
+`teamB` साठी लागणारा कोड हा तुम्ही आधीच `teamA` साठी लिहिल्या कोड <0>सारखाच</0> आहे!
 
 \--- /challenge \---
