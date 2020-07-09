@@ -1,31 +1,31 @@
-## Choosing lots of players
+## बरेच खेळाडू निवडणे
 
-Next you'll need to make sure that every player has been chosen for a team.
+पुढे तुम्हाला हे सुनिश्चित करावा लागेल की प्रत्येक खेळाडू टीमसाठी निवडला गेला आहे.
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ team A आणि team B मधून खेळाडू निवडण्यासाठी तुमचं कोड हायलाइट करा आणि कोड ला इंडेंट(indent) करण्यासाठी टॅब की(tab key) दाबा.
     
     ![screenshot](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ `players` यादी 0 होई पर्यंत खेळाडू निवडत राहण्यासाठी **व्हाईल(while)** लूप जोडा.
     
     ![screenshot](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ तुमच्या कोड ची चाचणी घेण्यासाठी रन करून बघा. तुम्ही बघू शकाल की कोणतेही खेळाडू शिल्लक नसे पर्यंत team A आणि team B मधले खेळाडू निवडले जात असतील.
     
     ![screenshot](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ `teamA` ची यादी प्रिंट करण्यासाठी तुमच्या `व्हाइल(while)` लूप नंतर कोड जोडा (खात्री करून घ्या की तो इंडेंटेड(indented) नाहीये).
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    ह्याचा अर्थ हा आहे की सगळे खलेडू निवडले गेल्या नंतर `teamA` फक्त एकदाच प्रिंट होइल.
     
     ![screenshot](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ `teamB` साठी पण तुम्ही तेच करू शकता, आणि इतर प्रिंट आदेश देखील हटवू शकता, कारण ते तेथे फक्त तुमच्या कोड ची चाचणी करण्यासाठी होते.
     
-    Here's how your code should look:
+    तुमचा कोड कसा दिसला पाहिजे हे येथे आहे:
     
     ![screenshot](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ तुमच्या कोड ची पुन्हा चाचणी केल्या नंतर तुम्हाला तुमच्या खेळाडूंची यादी आणि त्याच बरोबर तुमच्या अंतिम टीम्स देखील दिसतील.
     
     ![screenshot](images/team-loop-finished-test.png)
