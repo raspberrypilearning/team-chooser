@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: More teams
+## आव्हान: आणखी टीम्स
 
-Can you improve your program to split players into 3 teams instead of 2?
+2 च्या ऐवजी 3 टिम्स मध्ये खेळाडू विभाजित करण्यासाठी तुम्ही तुमचा प्रोग्राम सुधारू शकता का?
 
 \--- /challenge \---
