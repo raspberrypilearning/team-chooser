@@ -1,0 +1,30 @@
+---
+hero_image: images/team-chooser.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: टीम निवडकर्ता
+description: खेळाडूंना कोणत्याही 2 टिम्स मध्ये विभाजित करण्यासाठी एक प्रोग्राम लिहा.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2018-04-05
+steps:
+  - title: 'परिचय'
+  - title: खेळाडू
+  - title: 'आव्हान: आणखी खेळाडू जोडणे'
+  - title: कोणतेही खेळाडू
+  - title: 'आव्हान: team B साठी निवडणे'
+  - title: बरेच खेळाडू निवडणे
+  - title: फायली
+  - title: विषम खेळाडू
+  - title: 'आव्हान: कोणत्याही टीमची नावे'
+  - title: 'आव्हान: टीमची नावे संग्रहीत करणे'
+  - title: 'आव्हान: आणखी टीम्स'
