@@ -1,21 +1,21 @@
-## Odd players
+## विषम खेळाडू
 
-Let's improve your program to work with an odd number of players.
+विषम संख्येच्या खेळाडूंसह काम करण्यासाठी तुमचा प्रोग्राम सुधारूया.
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ तुमच्या `players.txt` मध्ये आणखी एक नाव जोडा जेणेकरून तुमच्याकडे विषम संखेचे खेळाडू होतील.
     
     ![screenshot](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ तुम्ही तुमच्या कोडची चाचणी घेतल्यास, तुम्हाला एक त्रुटी संदेश(error message) प्राप्त झाल्याचे दिसेल.
     
     ![screenshot](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ त्रुटी(error) ह्यामुळे आहे की तुमचा प्रोग्राम पहिले team A आणि त्या नंतर team B मधून कोणतेही खेळाडू निवडत आहे. पण जर विषम संखेचे खालडू आहेत तर team A मधून एक खेळाडू निवडल्या नंतर team B मधून निवडण्यासाठी काहीच खेळाडू उरत नाहीत.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    जर तुमची `players` यादी रिकामी आहे, तर तुम्ही तुमच्या प्रोग्राम ला `व्हाइल(while)` लूप मधून `बाहेर` यायला सांगू शकता जेणेकरून ह्या बगचं निराकरण होईल.
     
     ![screenshot](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ तुम्ही तुमच्या कोड ची पुन्हा तपासणी केल्यास, तुम्हाला दिसेल की ते आता विषम संखेच्या खेळाडूंसह पण काम करत आहे.
     
     ![screenshot](images/team-fix-test.png)
