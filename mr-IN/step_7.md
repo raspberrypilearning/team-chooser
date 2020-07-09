@@ -1,25 +1,25 @@
-## Files
+## फायली
 
-You can use a file to store your list of players.
+खेळाडूंची यादी संग्रहीत करण्यासाठी तुम्ही एक फाइल वापरू शकता.
 
-+ Click the + icon and create a new file called `players.txt`.
++ + आयकॉन वर क्लिक करा आणि एक नवीन फाइल `players.txt` तयार करा.
     
     ![screenshot](images/team-file-create.png)
 
-+ Add your players to your new file. Make sure that there is no blank line after your last player.
++ तुमच्या नवीन फाइल ला तुमचे खेळाडू जोडा. तुमच्या शेवटच्या खेळाडू नंतर रिकामी ओळ नसल्याचे सुनिश्चित करा.
     
     ![screenshot](images/team-file-add.png)
 
-+ Change your `players` list so that it is empty.
++ तुमची `players` यादी बदला जेणेयारून ती रिकामी होईल.
     
     ![screenshot](images/team-players-empty.png)
 
-+ Open your `players.txt` file (the `'r'` means read-only).
++ तुमची `players.txt` फाइल उघडा (`'r'` म्हणजे केवळ-वाचनीय).
     
     ![screenshot](images/team-file-open.png)
 
-+ Read the list from the file and add to your `players` list. (The `splitlines` code means that every line in the file is a new item in the `players` list).
++ फाइल मधून ती यादी वाचा आणि तुमच्या `players` यादी ला जोडा. (`स्प्लिटलाइन्स(splitlines)` कोडचा अर्थ असा आहे की फाईलमधील प्रत्येक ओळ ही ` players` यादीतील एक नवीन आयटम आहे).
     
     ![screenshot](images/team-file-load.png)
 
-+ If you test your code, it should work exactly the same as before. However, now it's much easier to add players to your `players.txt` file.
++ तुम्ही तुमचा कोडतपासल्यास, त्याने पूर्वीसारखा काम केले पाहिजे. पण, आता तुमच्या `players.txt` फाइलला खेळाडू जोडणे बरेच सोपे आहे.
