@@ -1,35 +1,35 @@
-## Random players
+## कोणतेही खेळाडू
 
-Let's choose random players!
+चला कोणतेही खेळाडू निवडूया!
 
-+ To be able to get a random player from your `players` list, first you'll need to import the `choice` part of the `random` module.
++ `players` यादीतून कोणताही खेळाडू मिळवण्यासाठी, आधी तुम्हाला `रॅनडम(random)` मॉड्यूल मधील `चॉइस(choice)` चा भाग इम्पोर्ट करावा लागेल.
     
     ![screenshot](images/team-import-random.png)
 
-+ To get a random player, you can use `choice`. (You can also delete the code to print individual players.)
++ एक कोणताही खेळाडू मिळवण्यासाठी तुम्ही `चॉइस(choice)` वापरू शकता. (वैयक्तिक खेळाडू प्रिंट करण्यासाठी तुम्ही कोड हटवू शकता.)
     
     ![screenshot](images/team-random-player.png)
 
-+ Test your `choice` code a few times and you should see a different player being chosen each time.
++ तुमच्या `चॉइस(choice)` कोड ची काही वेळा चाचणी घ्या आणि मग तुम्हाला हे दिसून येईल की प्रत्येक वेळी एक वेघळा खेळाडू निवडल्या जातो आहे.
 
-+ You can also create a new variable called `playerA`, and use it to store your random player.
++ तुमचं कोणताही खेळाडू संग्रहीत करण्यासाठी तुम्ही एक नवीन चल(variable) `playerA` देखील तयार करू शकता.
     
     ![screenshot](images/team-random-playerA.png)
 
-+ You'll need a new list to store all of the players in team A. To start with, this list should be empty.
++ सर्व खेळाडू team A मध्ये संग्रहीत करण्यासाठी तुम्हाला एक नवीन यादी लागेल. सुरुवात करण्यासाठी, ती यादी रिकामी असली पाहिजे.
     
     ![screenshot](images/team-teamA.png)
 
-+ You can now add your randomly chosen player to `teamA`. To do this, you can use `teamA.append` (**append** means add to the end).
++ आता तुम्ही तुमचे कोणतेही निवडलेले खेळाडू `teamA` ला जोडू शकता. हे करण्यासाठी तुम्ही वापरा `teamA.append` (**append** म्हणजे शेवटी जोडणे).
     
     ![screenshot](images/team-teamA-add.png)
 
-+ Now that your player has been chosen, you can remove them from your list of `players`.
++ आता तुमचा खेळाडू निवडला गेला आहे, तर तुम्ही त्याला तुमच्या `players` यादीतून काढू शकता.
     
     ![screenshot](images/team-players-remove.png)
 
-+ Test this code by adding a `print` command, to show the `players` left to choose from.
++ जे `players` निवडण्यासाठी बाकी आहेत, ते दाखविण्यासाठी `प्रिंट` आदेश जोडून ह्या कोड ची चाचणी घ्या.
     
     ![screenshot](images/team-players-remove-test.png)
     
-    In the example above, Hermione has been chosen for `teamA`, and so has been removed from the list of `players`.
+    वरील उदाहरणात, Hermione `teamA` साठी निवडली गेली आहे, आणि म्हणून `players` च्या यादीतून काढल्या गेली आहे.
