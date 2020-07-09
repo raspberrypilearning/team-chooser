@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Random team names
+## आव्हान: कोणत्याही टीमची नावे
 
-Can you give both of your teams a random team name?
+तुमच्या दोन्ही टीम्सना कोणतेही नाव देऊ शकता का?
 
-You can create a list called `teamNames` containing the names to choose from.
+तुम्ही एक `teamNames` नावाची यादी तयार करू शकता ज्याच्यात निवडण्यासाठी नावे असतील.
 
-You can then choose (and display) a random name for each team.
+त्यानंतर तुम्ही प्रत्येक टीमसाठी कोणतेही एक नाव निवडू शकता (आणि दाखवू शकता).
 
 ![screenshot](images/team-finished.png)
 
