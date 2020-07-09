@@ -1,21 +1,21 @@
-## Players
+## खेळाडू
 
-Let's start by creating a list of players to choose from.
+चला, खेळाडू निवडण्यासाठी त्यांची यादी तयार करण्या पासून सुरुवात करुयात.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ रिकामा Python टेंप्लेट Trinket उघडा: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
 
-+ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
++ तुम्ही खेळाडूंची **यादी** संग्रहीत करण्यासाठी एक चल म्हणजेच एक व्हेरिएबल (variable)वापरू शकता. ती यादी चौकोनी कंसा मध्ये असावी`[ ]` आणि, यादीतील प्रत्येक आयटमच्या दरम्यान स्वल्पविराम(,)असावा.
     
-    Start by adding a list of players to your program.
+    तुमच्या प्रोग्राम मध्ये खेळाडूंची यादी जोडून सुरुवात करा.
     
     ![screenshot](images/team-create-players.png)
 
-+ Add this code to print your `players` variable:
++ `players` चल(variable)प्रिंट करण्यासाठी हा कोड जोडा:
     
     ![screenshot](images/team-print-players.png)
 
-+ You can get to an item in the list by adding its position in square brackets after the variable name.
++ चलच्या (variable) नावानंतर चौकोनी कंस मध्ये त्याचे स्थान जोडून तुम्ही यादीतील त्या आयटमवर जाऊ शकता.
     
-    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
+    यादीतील पहिला आयटम **स्थान 0** वर आहे. हे Scratch पेक्षा वेघळे आहे, ते स्थान 1 वर सुरू होते.
     
     ![screenshot](images/team-print-players-index.png)
