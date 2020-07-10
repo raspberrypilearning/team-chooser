@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Team Chooser
-description: Make a program to split players into 2 random teams.
+title: ತಂಡದ ಆಯ್ಕೆ
+description: ಒಂದು ಕಾರ್ಯಕ್ರಮ ವನ್ನು ಮಾಡಿ ಅದರಲ್ಲಿ ಆಟಗಾರರನ್ನು ಎರಡು ತಂಡ ವಾಗಿ ವಿಭಜಿಸಿ.
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
 interests: games
 technologies: python
@@ -18,24 +18,24 @@ version: 3
 last_tested: 2018-04-05
 steps:
   - 
-    title: 'Introduction: '
+    title: 'ಪರಿಚಯ: '
   - 
-    title: Players
+    title: ಆಟಗಾರರು
   - 
-    title: 'Challenge: Adding more players'
+    title: 'ಸವಾಲು: ಹೆಚ್ಚು ಆಟಗಾರರನ್ನು ಸೇರಿಸುವುದು'
   - 
-    title: Random players
+    title: ಸ್ವೇಚ್ಛೆಯಾದ ಆಟಗಾರರು
   - 
-    title: 'Challenge: Choosing for team B'
+    title: 'ಸವಾಲು: ಬಿ ತಂಡವನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು'
   - 
-    title: Choosing lots of players
+    title: ಸಾಕಷ್ಟು ಆಟಗಾರರನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು
   - 
-    title: Files
+    title: ಕಡತಗಳನ್ನು
   - 
-    title: Odd players
+    title: ಬೆಸ ಆಟಗಾರರು
   - 
-    title: 'Challenge: Random team names'
+    title: 'ಸವಾಲು: ಸ್ವೇಚ್ಛೆಯಾದ ತಂಡಗಳ ಹೆಸರು'
   - 
-    title: 'Challenge: Storing team names'
+    title: 'ಸವಾಲು: ತಂಡದ ಹೆಸರುಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದು'
   - 
-    title: 'Challenge: More teams'
+    title: 'ಸವಾಲು: ಹೆಚ್ಚಿನ ತಂಡಗಳು'
