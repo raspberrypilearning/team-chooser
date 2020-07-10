@@ -7,8 +7,8 @@
 + ಹೊಸ `teamB` ಪಟ್ಟಿ ತಯಾರಿಸಿ
 + ರ್ಯಾಂಡಮ್ ಆಟಗಾರನನ್ನು ತಂಡ ಬಿ ಇಂದ ಆಯ್ಕೆ ಮಾಡಿ(ಕರೆಯಿರಿ `playerB`)
 + `append` ಆಯ್ಕೆ ಮಾಡಿರುವ ಆಟಗಾರನನ್ನು ನಿಮ್ಮ `teamB` ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ
-+ `remove` the chosen player from your list of `players`
++ `remove` ನೀವು ಆಯ್ಕೆ ಮಾಡಿರುವ ಆಟಗಾರರನ್ನು ಪಟ್ಟಿ ಯಾ `players` ಇಂದ ತೆಗೆಯಿರಿ
 
-The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
+ಕೋಡ್ ನಿಮಗೆಬೇಕಾಗಿರುವ `teamB` ಯು **very** ಒಂದೇ ಸಮನೆ ಕೋಡ್ `teamA` ಗೆ ಬರೆದಂತೆ ಇರತ್ತದೆ!
 
 \--- /challenge \---
