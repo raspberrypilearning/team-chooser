@@ -1,6 +1,6 @@
-## Choosing lots of players
+## ಸಾಕಷ್ಟು ಆಟಗಾರರನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು
 
-Next you'll need to make sure that every player has been chosen for a team.
+ಮುಂದೆ ನೀವು ಪ್ರತಿ ಆಟಗಾರನನ್ನು ತಂಡಕ್ಕೆ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕು.
 
 + Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
     
