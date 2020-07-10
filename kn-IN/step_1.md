@@ -40,41 +40,41 @@
 
 * team-finished/team.py
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(ಮೇಲಿನ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಪ್ರಾಜೆಕ್ಟ್ ಮತ್ತು ಸ್ವಯಂಸೇವಕರಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದು `.zip` ಕಡತಗಳನ್ನು.)
 
-## Learning Objectives
+## ಕಲಿಯುತ್ತಿರುವ ಉದ್ದೇಶಗಳು
 
-* Lists;
-* Loading list data from a file.
+* ಪಟ್ಟಿಗಳು;
+* ಫೈಲ್‌ನಿಂದ ಪಟ್ಟಿ ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+ಈ ಯೋಜನೆ [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ಇದರ ಪಠ್ಯಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತದೆ:
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [ಸರಳ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ರಚಿಸಲು ಮೂಲ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ರಚನೆಗಳನ್ನು ಬಳಸಿ.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## ಸವಾಲುಗಳು
 
-* "Adding more players" - adding elements to a `players` list;
-* "Choosing for team B" - creating a new `teamB` list to add random players to;
-* "Random team names" - creating and using a new `teamNames` list to assign random names to teams;
-* "Storing team names" - storing team names in a file, and loading them into a `teamNames` variable;
-* "More teams" - splitting players into 3 teams instead of 2.
+* "ಹೆಚ್ಚಿನ ಆಟಗಾರರನ್ನು ಸೇರಿಸುವುದು" - ಆಟಗಾರರಿಗೆ ಅಂಶಗಳನ್ನು ಸೇರಿಸುವುದು `players` ಪಟ್ಟಿ;
+* "ತಂಡ ಬಿ ಆಯ್ಕೆ" - ರಚಿಸುತ್ತಿರುವ ಹೊಸ `teamB` ಪಠ್ಯಕ್ಕೆ ಸ್ವೇಚ್ಛೆಯಾದಆಟಗಾರನನ್ನು ಸೇರಿಸುವುದು;
+* "ರ್ಯಾಂಡಮ್ ತಂಡ ಹೆಸರುಗಳು" - ರಚಿಸುವ ಮತ್ತು ಬಳಸುವ ಹೊಸ `teamNames` ಪಟ್ಟಿ ರ್ಯಾಂಡಮ್ ಹೆಸರನ್ನು ನಿರ್ಯೋಜಿತಾ ತಂಡಕ್ಕೆ ಮಾಡಲು;
+* "ತಂಡದ ಹೆಸರನ್ನು ಸಂಗ್ರಹಿಸುವುದು" - ತಂಡದ ಹೆಸರನ್ನು ಫೈಲ್ ನಲ್ಲಿ ಸಂಗ್ರಹಿಸುವುದು, ಮತ್ತು ಅದನ್ನು ಲೋಡ್ ಮಾಡುವುದು `teamNames` ವೇರಿಯೇಬಲ್;
+* "ಹೆಚ್ಚು ತಂಡಗಳು" - ಆಟಗಾರರನ್ನು ವಿಭಜಿಸುವುದು ಮೂರು ತಂಡಗಳಲ್ಲಿ ಎರಡರ ಬದಲು.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: ಯೋಜನೆಯ ವಸ್ತುಗಳು
 
-## Project resources
+## ಯೋಜನೆಯ ಸಂಪನ್ಮೂಲಗಳು
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
-* [Online blank Python Trinket](http://jumpto.cc/python-new)
-* [Offline blank Python file](resources/new-new.py)
+* ನೀವು [ಯೋಜನೆಯ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಇಲ್ಲಿ ಕಾಣ ಬಹುದು](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* [ಆನ್‌ಲೈನ್ ಖಾಲಿ Python Trinket](http://jumpto.cc/python-new)
+* [ಆಫ್‌ಲೈನ್ ಖಾಲಿ Python ಫೈಲ್](resources/new-new.py)
 
-## Club leader resources
+## ಕ್ಲಬ್ ನಾಯಕ ಸಂಪನ್ಮೂಲಗಳು
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
-* [Online completed Trinket project](https://trinket.io/python/a699c44ce6)
+* ನೀವು [ಯೋಜನೆಯ ಪರಿಹಾರವನ್ನು ಇಲ್ಲಿ ಪಡೆಯ ಬಹುದು](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* [ಆನ್ಲೈನ್ ಸಂಪೂರ್ಣ Trinket ಯೋಜನೆ](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 \--- /collapse \---
