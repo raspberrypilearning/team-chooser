@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Choosing for team B
+## ಸವಾಲು: ಬಿ ತಂಡವನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು
 
-Can you add code to choose a player at random for team B? You'll need to:
+ನೀವು ಕೋಡ್ ಅನ್ನು ಹಾಕಬಹುದೇ ತಂಡ ಬಿ ಇಂದ ಆಟಗಾರನನ್ನು ಆಯ್ಕೆ ಮಾಡಲು? ನೀವು ಇದನ್ನು ಮಾಡಬೇಕಾಗಿದೆ:
 
-+ Create a new `teamB` list
-+ Choose a random player for team B (called `playerB`)
-+ `append` the chosen player to your `teamB` list
++ ಹೊಸ `teamB` ಪಟ್ಟಿ ತಯಾರಿಸಿ
++ ರ್ಯಾಂಡಮ್ ಆಟಗಾರನನ್ನು ತಂಡ ಬಿ ಇಂದ ಆಯ್ಕೆ ಮಾಡಿ(ಕರೆಯಿರಿ `playerB`)
++ `append` ಆಯ್ಕೆ ಮಾಡಿರುವ ಆಟಗಾರನನ್ನು ನಿಮ್ಮ `teamB` ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ
 + `remove` the chosen player from your list of `players`
 
 The code you'll need for `teamB` will be **very** similar to the code you've already written for `teamA`!
