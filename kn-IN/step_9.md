@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: Random team names
+## ಸವಾಲು: ಸ್ವೇಚ್ಛೆಯಾದ ತಂಡಗಳ ಹೆಸರು
 
-Can you give both of your teams a random team name?
+ಏನು ನೀವು ನಿಮ್ಮ ಎರಡು ತಂಡಗಳಿಗೆ ಸ್ವೀಚ್ವೇಯಾದ ಹೆಸರನ್ನು ಕೊಡಬಹುದೇ?
 
-You can create a list called `teamNames` containing the names to choose from.
+ನೀವು ಒಂದು `teamNames`ಎಂಬ ಪಟ್ಟಿ ಯನ್ನು ತಯಾರಿಸಬಹುದು ಅದರಲ್ಲಿ ಹೊಂದಿರುವ ಹೆಸರನ್ನು ನೀವು ಆಯ್ಕೆ ಮಾಡಬಹುದು.
 
 You can then choose (and display) a random name for each team.
 
