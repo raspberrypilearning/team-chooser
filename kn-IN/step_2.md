@@ -1,21 +1,21 @@
-## Players
+## ಆಟಗಾರರು
 
-Let's start by creating a list of players to choose from.
+ಆಯ್ಕೆ ಮಾಡಲು ಆಟಗಾರರ ಪಟ್ಟಿಯನ್ನು ರಚಿಸುವ ಮೂಲಕ ಪ್ರಾರಂಭಿಸೋಣ.
 
-+ Open the blank Python template Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new</a>.
++ ಖಾಲಿ ಪೈಥಾನ್ ಟೆಂಪ್ಲೆಟ್ Trinket: <a href="http://jumpto.cc/python-new" target="_blank">jumpto.cc/python-new </a>ಅನ್ನು ತೆರೆಯಿರಿ.
 
-+ You can use a variable to store a **list** of players. The list should be in square brackets `[ ]`, with a comma between each item in the list.
++ ನೀವು ಒಂದು ವೇರಿಯೇಬಲ್ ಅನ್ನು ಸಂಗ್ರಹಿಸಲು ಉಪಯೋಗಿಸಬಹುದು **list** ಆಟಗಾರರು. ಪಟ್ಟಿ ಚದರ ಆವರಣಗಳಲ್ಲಿರಬೇಕು `[ ]` , ಪಟ್ಟಿಯಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದು ಐಟಂ ನಡುವೆ ಅಲ್ಪವಿರಾಮದಿಂದ.
     
-    Start by adding a list of players to your program.
+    ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂಗೆ ಆಟಗಾರರ ಪಟ್ಟಿಯನ್ನು ಸೇರಿಸುವ ಮೂಲಕ ಪ್ರಾರಂಭಿಸಿ.
     
-    ![screenshot](images/team-create-players.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-create-players.png)
 
-+ Add this code to print your `players` variable:
++ ನಿಮ್ಮ`players` ವೇರಿಯೇಬಲ್ ಅನ್ನು ಪ್ರಿಂಟ್ ಮಾಡಲು ಈ ಕೋಡ್ ಅನ್ನು ಹಾಕಿ:
     
-    ![screenshot](images/team-print-players.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-print-players.png)
 
-+ You can get to an item in the list by adding its position in square brackets after the variable name.
++ ವೇರಿಯಬಲ್ ಹೆಸರಿನ ನಂತರ ಚದರ ಆವರಣಗಳಲ್ಲಿ ಅದರ ಸ್ಥಾನವನ್ನು ಸೇರಿಸುವ ಮೂಲಕ ನೀವು ಪಟ್ಟಿಯಲ್ಲಿರುವ ಐಟಂ ಅನ್ನು ಪಡೆಯಬಹುದು.
     
-    The first item in the list is at **position 0**. This is different to Scratch, which starts at position 1.
+    ಪಟ್ಟಿಯಲ್ಲಿನ ಮೊದಲ ಐಟಂ **position 0** ರಲ್ಲಿದೆ. ಇದು ಸ್ಕ್ರ್ಯಾಚ್‌ಗೆ ಭಿನ್ನವಾಗಿದೆ, ಇದು ಸ್ಥಾನ ಒಂದರಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.
     
-    ![screenshot](images/team-print-players-index.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-print-players-index.png)
