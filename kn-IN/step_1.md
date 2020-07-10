@@ -1,6 +1,6 @@
-## Introduction:
+## ಪರಿಚಯ:
 
-In this project, you'll learn how to create 2 random teams from a list of players.
+ಈ ಯೋಜನೆಯಲ್ಲಿ, ಎರಡು ಸ್ವೇಚ್ಛೆಯಾದ ತಂಡವನ್ನು ಆಟಗಾರರ ಪತ್ತೆ ಇಂದ ರಚಿಸಲು ಕಲಿಯುತ್ತೀರಾ.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,35 +8,35 @@ In this project, you'll learn how to create 2 random teams from a list of player
   <img src="images/team-finished.png">
 </div>
 
-### Additional information for club leaders
+### ಕ್ಲಬ್ ನಾಯಕರಿಗೆ ಹೆಚ್ಚು ಮಾಹಿತಿ
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print).
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print)ಬಳಸಿ.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: ಕ್ಲಬ್ ನಾಯಕ ಟಿಪ್ಪಣಿಗಳು
 
-## Introduction:
+## ಪರಿಚಯ:
 
-In this project, children will learn how to make a program to split a list of players into 2 random teams. This project teaches lists and using files.
+ಈ ಯೋಜನೆಯಲ್ಲಿ, ಮಕ್ಕಳು ಹೇಗೆ ಆಟಗಾರರ ವಿಭಜ ಕಾರ್ಯಕ್ರಮವನ್ನು ಎರಡು ಸ್ವೇಚ್ಛೆಯಾದ ತಂಡಗಳನ್ನಾಗಿ ಮಾಡುವುದನ್ನು ಕಲಿಯುತ್ತಾರೆ. ಈ ಯೋಜನೆಯು ಪತ್ತೆ ಹಾಗು ಕಡಿತಗಳನ್ನು ಉಪಯೋಗಿಸುವುದನ್ನು ಹೇಳಿಕೊಡುತ್ತದೆ.
 
-## Online Resources
+## ಆನ್‌ಲೈನ್ ಸಂಪನ್ಮೂಲಗಳು
 
-**This project uses Python 3.** We recommend using [trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
+**ಈ ಯೋಜನೆಯು Python 3 ಬಳಸುತ್ತದೆ.** ನೀವು Python ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಬರೆಯಲು ನಾವು [trinket](https://trinket.io/) ಬಳಸಲು ಶಿಫಾರಸು ಮಾಡಿದ್ದೇವೆ. ಈ ಯೋಜನೆಯೂ ಕೆಳಗಿನ Trinkets ಒಳಗೊಂಡಿದೆ:
 
-* [New (blank) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
+* [ಹೊಸ (ಖಾಲಿ) Python Trinket -- jumpto.cc/python-new](http://jumpto.cc/python-new)
 
-There is also a trinket containing the completed project:
+ಅಲ್ಲಿ ಕೂಡ ಒಂದು trinket ಹೊಂದಿರುವ ಸಂಪೂರ್ಣಯೋಜನೆ ಇದೆ:
 
-* [‘Team Chooser’ Finished -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* ['ತಂಡ ಆಯ್ಕೆ' ಮುಗಿದಿದೆ -- trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
-## Offline Resources
+## ಆಫ್‌ಲೈನ್ ಸಂಪನ್ಮೂಲಗಳು
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+ಬಯಸಿದರೆ ಈ ಯೋಜನೆಯನ್ನು [ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಬಹುದು](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). ಈ ಯೋಜನೆಗಾಗಿ 'ಯೋಜನೆ ವಸ್ತುಗಳು' ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನೀವು ಪ್ರಾಜೆಕ್ಟ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಪಡೆಯಬಹುದು. ಈ ಲಿಂಕ್ 'ಯೋಜನೆ ಸಂಪನ್ಮೂಲಗಳು' ವಿಭಾಗವನ್ನು ಒಳಗೊಂಡಿದೆ, ಇದರಲ್ಲಿ ಮಕ್ಕಳು ಈ ಯೋಜನೆಯನ್ನು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಪೂರ್ಣಗೊಳಿಸಬೇಕಾದ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಈ ಸಂಪನ್ಮೂಲಗಳ ಪ್ರತಿಕೃತಿಗೆ ಪ್ರತಿ ಮಗುವಿಗೆ ಪ್ರವೇಶವಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಈ ವಿಭಾಗವು ಈ ಕೆಳಗಿನ ಫೈಲ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
 
 * team/team.py
 
-You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
+'ಸ್ವಯಂಸೇವಕ ಸಂಪಂಮೊಳಗಳು' ವಿಭಾಗದಲ್ಲಿ ಹೊಂದಿರುವ ಒಂದು ಸಂಪೂರ್ಣ ಆವೃತ್ತಿ ಯೋಜನೆಯನ್ನು ನೀ ಕಂಡು ಬರಬಹುದು:
 
 * team-finished/team.py
 
