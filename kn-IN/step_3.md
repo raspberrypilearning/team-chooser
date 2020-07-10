@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Adding more players
+## ಸವಾಲು: ಹೆಚ್ಚು ಆಟಗಾರರನ್ನು ಸೇರಿಸುವುದು
 
-Can you add more players to your list? You can add as many players as you like, but make sure that there is an **even** number of players.
+ನಿಮ್ಮ ಪಟ್ಟಿಗೆ ಹೆಚ್ಚಿನ ಆಟಗಾರರನ್ನು ಸೇರಿಸಬಹುದೇ? ನೀವು ಇಷ್ಟಪಡುವಷ್ಟು ಆಟಗಾರರನ್ನು ನೀವು ಸೇರಿಸಬಹುದು, ಆದರೆ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ ಅಲ್ಲಿ **even** ಸಂಖ್ಯೆಯ ಆಟಗಾರರು ಇದ್ದಾರೆ ಅಂದು.
 
-You can also change the names of the first 2 players if you prefer.
+ನೀವು ಬಯಸಿದಲ್ಲಿ ಮೊದಲ ಎರಡು ಆಟಗಾರರ ಹೆಸರನ್ನು ಸಹ ನೀವು ಬದಲಾಯಿಸಬಹುದು.
 
-Can you add code to print **just one** of your new players?
+ನೀವು ಮುದ್ರಿಸಲು ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಬಹುದೇ **just one** ಹೊಸ ಆಟಗಾರನನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಲು?
 
 \--- /challenge \---
