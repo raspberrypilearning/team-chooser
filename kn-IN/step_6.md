@@ -10,22 +10,22 @@
     
     ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-loop-while.png)
 
-+ ಅದನ್ನು ಪರೀಕ್ಷಿಸಲು ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಚಲಾಯಿಸಿ. You should see players being chosen for team A and team B until there are no more players left.
++ ಅದನ್ನು ಪರೀಕ್ಷಿಸಲು ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಚಲಾಯಿಸಿ. ಹೆಚ್ಚಿನ ಆಟಗಾರರು ಉಳಿದಿಲ್ಲದವರೆಗೆ ಆಟಗಾರರನ್ನು ತಂಡ ಎ ಮತ್ತು ತಂಡ ಬಿ ಗೆ ಆಯ್ಕೆ ಮಾಡುವುದನ್ನು ನೀವು ನೋಡಬೇಕು.
     
-    ![screenshot](images/team-loop-test.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-loop-test.png)
 
-+ Add code to print your `teamA` list **after** your `while` loop (making sure it is not indented).
++ ಕೋಡ್ ಅನ್ನು ಹಾಕಿ ಮುದ್ರಿಸಲು ನಿಮ್ಮ `teamA` ಪಟ್ಟಿ **after**ನಿಮ್ಮ `while` ಲೂಪ್(ಅದನ್ನು ಉದ್ದೇಶಿಸಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವುದು).
     
-    This means that `teamA` will only be printed once, after all the players have been chosen.
+    ಇದರರ್ಥ `teamA` ಎಲ್ಲಾ ಆಟಗಾರರನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ ನಂತರ ಒಮ್ಮೆ ಮಾತ್ರ ಮುದ್ರಿಸಲಾಗುತ್ತದೆ.
     
-    ![screenshot](images/team-teamA-paste.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-teamA-paste.png)
 
-+ You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
++ ಇದಕ್ಕಾಗಿ ನೀವು ಅದೇ ರೀತಿ ಮಾಡಬಹುದು `teamB` ಗೋಸ್ಕರ, ನೀವು ಇತರ ಮುದ್ರಾ ಆಜ್ಞೆ ಗಳನ್ನೂ ಸಹ ಅಳಿಸಬಹುದು, ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷೆ ಮಾಡಲು ಮಾತ್ರ ಅವರು ಇದ್ದರು.
     
-    Here's how your code should look:
+    ನಿಮ್ಮ ಕೋಡ್ ಹೇಗೆ ಕಾಣಬೇಕು ಎಂಬುದು ಇಲ್ಲಿದೆ:
     
-    ![screenshot](images/team-loop-finished.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-loop-finished.png)
 
-+ Test your code again and you should just see your list of players as well as your final teams.
++ ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಮತ್ತೊಮ್ಮೆ ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಆಟಗಾರರ ಪಟ್ಟಿಯನ್ನು ಮತ್ತು ನಿಮ್ಮ ಅಂತಿಮ ತಂಡಗಳನ್ನು ನೀವು ನೋಡಬೇಕು.
     
-    ![screenshot](images/team-loop-finished-test.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-loop-finished-test.png)
