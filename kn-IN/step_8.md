@@ -1,21 +1,21 @@
-## Odd players
+## ಬೆಸ ಆಟಗಾರರು
 
-Let's improve your program to work with an odd number of players.
+ಬೆಸ ಸಂಖ್ಯೆಯ ಆಟಗಾರರೊಂದಿಗೆ ಕೆಲಸ ಮಾಡಲು ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಸುಧಾರಿಸೋಣ.
 
-+ Add another name to your `players.txt` list, so that you have an odd number of players.
++ ಇನ್ನೊಂದು ಹೆಸರು ಸೇರಿಸಿ ನಿಮ್ಮ `players.txt` ಪಟ್ಟಿಆದ ರಿಂದ ನೀವು ಬೆಸ ಸಂಖ್ಯಯ ಆಟಗಾರರನ್ನು ಹೊಂದಬಹುದು.
     
-    ![screenshot](images/team-luna.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-luna.png)
 
-+ If you test your code, you'll see that you get an error message.
++ ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ನೀವು ಪರೀಕ್ಷಿಸಿದರೆ, ನೀವು ದೋಷ ಸಂದೇಶವನ್ನು ಪಡೆಯುತ್ತೀರಿ ಎಂದು ನೀವು ನೋಡುತ್ತೀರಿ.
     
-    ![screenshot](images/team-error.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-error.png)
 
-+ The error is because your program keeps choosing random players for team A and then team B. However, if there is an odd number of players then after choosing a player for team A there are no players left to choose from for team B.
++ ದೋಷವೆಂದರೆ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ತಂಡ ಎ ಮತ್ತು ನಂತರ ತಂಡ ಬಿ ಗೆ ಸ್ವಚ್ಛೆಹಾಗಿ ಆಟಗಾರರನ್ನು ಆಯ್ಕೆ ಮಾಡುತ ಇರುತ್ತದೆ. ಆದಾಗ್ಯೂ, ಬೆಸ ಸಂಖ್ಯೆಯ ಆಟಗಾರರು ಇದ್ದರೆ ತಂಡ ಎಗಾಗಿ ಆಟಗಾರನನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ ನಂತರ ತಂಡ ಬಿ ಗೆ ಆಯ್ಕೆ ಮಾಡಲು ಯಾವುದೇ ಆಟಗಾರರು ಉಳಿದಿಲ್ಲ.
     
-    To fix this bug, you can tell your program to `break` out of your `while` loop if your `players` list is empty.
+    ಇದನ್ನು ಸರಿಪಡಿಸಲು, ನೀವು ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಮ್ ಗೆ ಹೇಳಬಹುದು `break` ನಿಮ್ಮ ಹೊರಗೆ `while` ಲೂಪ್ ಏನಾದರು ನಿಮ್ಮ `players` ಪಟ್ಟಿ ಖಾಲಿ ಆದಲ್ಲಿ.
     
-    ![screenshot](images/team-fix.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-fix.png)
 
-+ If you test your code again, you should see that it now works with an odd number of players.
++ ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ನೀವು ಮತ್ತೆ ಪರೀಕ್ಷಿಸಿದರೆ, ಅದು ಈಗ ಬೆಸ ಸಂಖ್ಯೆಯ ಆಟಗಾರರೊಂದಿಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಎಂದು ನೀವು ನೋಡಬೇಕು.
     
-    ![screenshot](images/team-fix-test.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-fix-test.png)
