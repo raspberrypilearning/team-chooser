@@ -2,15 +2,15 @@
 
 ಮುಂದೆ ನೀವು ಪ್ರತಿ ಆಟಗಾರನನ್ನು ತಂಡಕ್ಕೆ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬೇಕು.
 
-+ Highlight your code for choosing players for team A and team B and press the tab key to indent the code.
++ ತಂಡ ಎ ಮತ್ತು ತಂಡ ಬಿ ಗಾಗಿ ಆಟಗಾರರನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ ಮತ್ತು ಕೋಡ್ ಇಂಡೆಂಟ್ ಮಾಡಲು ಟ್ಯಾಬ್ ಕೀಲಿಯನ್ನು ಒತ್ತಿ.
     
-    ![screenshot](images/team-loop-tab.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-loop-tab.png)
 
-+ Add a **while** loop to keep choosing players until the length of the `players` list is 0.
++ ಸೇರಿಸಿ ಒಂದು **while** ಲೂಪ್ ಆಟಗಾರರನ್ನು ಆಯ್ಕೆ ಮಾಡುತ್ತಿರಲು `players` ಉದ್ದ ಪಟ್ಟಿ ಅಲ್ಲಿ ಸೊನ್ನೆ ಆಗುವವರೆಗೂ.
     
-    ![screenshot](images/team-loop-while.png)
+    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-loop-while.png)
 
-+ Run your code to test it. You should see players being chosen for team A and team B until there are no more players left.
++ ಅದನ್ನು ಪರೀಕ್ಷಿಸಲು ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಚಲಾಯಿಸಿ. You should see players being chosen for team A and team B until there are no more players left.
     
     ![screenshot](images/team-loop-test.png)
 
