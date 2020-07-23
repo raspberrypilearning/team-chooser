@@ -1,0 +1,30 @@
+---
+hero_image: images/team-chooser.png
+theme: violet
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: ತಂಡದ ಆಯ್ಕೆ
+description: ಒಂದು ಕಾರ್ಯಕ್ರಮ ವನ್ನು ಮಾಡಿ ಅದರಲ್ಲಿ ಆಟಗಾರರನ್ನು ಎರಡು ತಂಡ ವಾಗಿ ವಿಭಜಿಸಿ.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2018-04-05
+steps:
+  - title: 'ಪರಿಚಯ'
+  - title: ಆಟಗಾರರು
+  - title: 'ಸವಾಲು: ಹೆಚ್ಚು ಆಟಗಾರರನ್ನು ಸೇರಿಸುವುದು'
+  - title: ಸ್ವೇಚ್ಛೆಯಾದ ಆಟಗಾರರು
+  - title: 'ಸವಾಲು: ಬಿ ತಂಡವನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು'
+  - title: ಸಾಕಷ್ಟು ಆಟಗಾರರನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು
+  - title: ಕಡತಗಳನ್ನು
+  - title: ಬೆಸ ಆಟಗಾರರು
+  - title: 'ಸವಾಲು: ಸ್ವೇಚ್ಛೆಯಾದ ತಂಡಗಳ ಹೆಸರು'
+  - title: 'ಸವಾಲು: ತಂಡದ ಹೆಸರುಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದು'
+  - title: 'ಸವಾಲು: ಹೆಚ್ಚಿನ ತಂಡಗಳು'
