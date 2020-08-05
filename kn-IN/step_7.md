@@ -4,22 +4,22 @@
 
 + + ಐಕಾನ್ ಒತ್ತಿರಿ ಮತ್ತು `player.txt` ಎಂಬ ಹೊಸ ಫೈಲ್ ಅನ್ನು ರಚಿಸಿ.
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-file-create.png)
+    ![screenshot](images/team-file-create.png)
 
 + ನಿಮ್ಮ ಹೊಸ ಫೈಲ್‌ಗೆ ನಿಮ್ಮ ಆಟಗಾರರನ್ನು ಸೇರಿಸಿ. ನಿಮ್ಮ ಕೊನೆಯ ಆಟಗಾರನ ನಂತರ ಯಾವುದೇ ಖಾಲಿ ಸಾಲು ಇಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-file-add.png)
+    ![screenshot](images/team-file-add.png)
 
 + ಬದಲಾಯಿಸಿಕೊಲ್ಲಿ ನಿಮ್ಮ `players` ಪಟ್ಟಿಯನ್ನುಆದುದರಿಂದ ಅದು ಖಾಲಿ ಆಗಲಿ ಯಂದು.
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-players-empty.png)
+    ![screenshot](images/team-players-empty.png)
 
 + ತೆಗೆಯಿರಿ ನಿಮ್ಮ `players.txt` ಫೈಲ್ (ಇಲ್ಲಿ `'r'` ಯಂದರೆ ಬರಿ ಓದಿ ಯಂದು ಅರ್ಥ).
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-file-open.png)
+    ![screenshot](images/team-file-open.png)
 
 + ಫೈಲ್‌ನಿಂದ ಪಟ್ಟಿಯನ್ನು ಓದಿ ಮತ್ತು ನಿಮ್ಮ `players` ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ. (`splitlines` ಕೋಡ್ ಎಂದರೆ ಫೈಲ್‌ನ ಪ್ರತಿಯೊಂದು ಸಾಲು ` players`ಪಟ್ಟಿ ಹೊಸ ಐಟಂ ಆಗಿದೆ).
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-file-load.png)
+    ![screenshot](images/team-file-load.png)
 
 + ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ನೀವು ಪರೀಕ್ಷಿಸಿದರೆ, ಅದು ಮೊದಲಿನಂತೆಯೇ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಹೇಗಿದ್ದರೂ,ಈಗ ಆಟಗಾರಗನ್ನು `players.txt` ಫೈಲ್ ಗೆ ಸೇರಿಸುವುದು ಇನ್ನು ಸುಲಭ.
