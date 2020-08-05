@@ -8,14 +8,14 @@
     
     ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂಗೆ ಆಟಗಾರರ ಪಟ್ಟಿಯನ್ನು ಸೇರಿಸುವ ಮೂಲಕ ಪ್ರಾರಂಭಿಸಿ.
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-create-players.png)
+    ![screenshot](images/team-create-players.png)
 
 + ನಿಮ್ಮ`players` ವೇರಿಯೇಬಲ್ ಅನ್ನು ಪ್ರಿಂಟ್ ಮಾಡಲು ಈ ಕೋಡ್ ಅನ್ನು ಹಾಕಿ:
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-print-players.png)
+    ![screenshot](images/team-print-players.png)
 
 + ವೇರಿಯಬಲ್ ಹೆಸರಿನ ನಂತರ ಚದರ ಆವರಣಗಳಲ್ಲಿ ಅದರ ಸ್ಥಾನವನ್ನು ಸೇರಿಸುವ ಮೂಲಕ ನೀವು ಪಟ್ಟಿಯಲ್ಲಿರುವ ಐಟಂ ಅನ್ನು ಪಡೆಯಬಹುದು.
     
     ಪಟ್ಟಿಯಲ್ಲಿನ ಮೊದಲ ಐಟಂ **position 0** ರಲ್ಲಿದೆ. ಇದು ಸ್ಕ್ರ್ಯಾಚ್‌ಗೆ ಭಿನ್ನವಾಗಿದೆ, ಇದು ಸ್ಥಾನ ಒಂದರಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-print-players-index.png)
+    ![screenshot](images/team-print-players-index.png)
