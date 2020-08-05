@@ -12,7 +12,7 @@ print('隊員：', players)
 teamNames = []
 file = open('teamNames.txt', 'r')
 teamNames = file.read().splitlines()
-print('Team names:', teamNames)
+print('隊名：', teamNames)
 
 #建立空的團隊人員名單
 teamA = []
