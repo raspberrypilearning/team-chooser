@@ -8,6 +8,6 @@
 
 ನೀವು ಆಯ್ಕೆ (ಹಾಗು ಪ್ರದರ್ಶನ) ಒಂದು ಸ್ವೇಚ್ಚೆಯಾದ ಹೆಸರು ಪ್ರತಿ ತಂಡಕ್ಕೆ ಮಾಡಬಹುದು.
 
-![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-finished.png)
+![screenshot](images/team-finished.png)
 
 \--- /challenge \---
