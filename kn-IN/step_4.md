@@ -4,32 +4,32 @@
 
 + ಸ್ವೇಚ್ಛೆಯಾದ ಆಟಗಾರರನ್ನು ತರಲು ನಿಮ್ಮ `players` ಪಟ್ಟೆಇಂದ, ಮೊದಲು ನೀವು `choice` ಭಾಗವನ್ನು ಇಂಪೋರ್ಟ್ ಮಾಡಬೇಕು `ಸ್ವೇಚ್ಛೆಯಾದ` ಘಟಕ ಇಂದ.
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-import-random.png)
+    ![screenshot](images/team-import-random.png)
 
 + ಸ್ವೇಚ್ಛೆಯಾದ ಆಟಗಾರರನ್ನು ತರಲು ನೀವು `choice`ಉಪಯೋಗಿಸಬಹುದು. (ನೀವು ಕೋಡ್ ಅನ್ನು ಸಹ ಅಳಿಸಬಹುದು ವಯಕ್ತಿಕ ಆಟಗಾರರನ್ನು ಮುದ್ರಿಸಲು.)
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-random-player.png)
+    ![screenshot](images/team-random-player.png)
 
 + ಪರೀಕ್ಷಿಸಿ ನಿಮ್ಮ `choice` ಕೋಡ್ ಕೆಲವು ಬಾರಿ ಮತ್ತೆ ನೀವು ಕಾಣಬೇಕು ಪ್ರತಿಸಲ ಬೇರೆ ಆಟಗಾರರು ಆಯ್ಕೆ ಆಗುತ್ತಿರುವುದನ್ನು.
 
 + ನೀವು ಒಂದು ಹೊಸ ವೇರಿಯೇಬಲ್ ಅನ್ನು ತಯಾರಿಸಬಹುದು `playerA`, ಮತ್ತು ಅದನ್ನು ಉಪಯೋಗಿಸಬಹುದು ಸ್ವೇಚ್ಛೆಯಾದ ಆಟಗಾರನನ್ನು ಸಂಗ್ರಹಿಸಲು.
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-random-playerA.png)
+    ![screenshot](images/team-random-playerA.png)
 
 + ಎ ತಂಡದಲ್ಲಿ ಎಲ್ಲ ಆಟಗಾರರನ್ನು ಸಂಗ್ರಹಿಸಲು ನಿಮಗೆ ಹೊಸ ಪಟ್ಟಿ ಅಗತ್ಯವಿದೆ. ಪ್ರಾರಂಭಿಸಲು, ಈ ಪಟ್ಟಿ ಖಾಲಿಯಾಗಿರಬೇಕು.
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-teamA.png)
+    ![screenshot](images/team-teamA.png)
 
 + ನೀವು ಸ್ವೇಚ್ಛೆಯಾದ ಆಟಗಾರನನ್ನು ಸಹ ಸೇರಿಸಬಹುದು `teamA` ಗೆ. ಇದನ್ನು ಮಾಡಲು,ನೀವು ಉಪಯೋಗಿಸಬಹುದು `teamA.append` (**append** ಅಂದ್ರೆ ಕೊನೆಗೆ ಸೇರಿಸಿ ಯಂದು).
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-teamA-add.png)
+    ![screenshot](images/team-teamA-add.png)
 
 + ಈಗ ನಿಮ್ಮ ಆಟಗಾರನನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗಿರುವುದರಿಂದ, ನೀವು ಅವರನ್ನು ನಿಮ್ಮ `players` ಪಟ್ಟಿ ಇಂದ ತೆಗೆಯಬಹುದು.
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-players-remove.png)
+    ![screenshot](images/team-players-remove.png)
 
 + ಪರೀಕ್ಷೆ ಮಾಡಿ ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು `print` ಕಮಾಂಡ್ ಅನ್ನು ಸೇರಿಸುವುದರ ಮೂಲಕ, ಉಳಿದಿದ್ದ `players` ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಲು.
     
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/team-players-remove-test.png)
+    ![screenshot](images/team-players-remove-test.png)
     
     ಮೇಲಿನ ಉದಾಹರಣೆ ಅಲ್ಲಿ, Hermione ಅನ್ನು `teamA` ಇಂದ ಆಯ್ಕೆ ಮಾಡಿದ್ದೇವೆ, ಮತ್ತು, `players` ಪಟ್ಟಿ ಇಂದ ತೆಗೆದಿದ್ದೇವೆ.
