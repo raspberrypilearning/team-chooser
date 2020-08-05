@@ -10,7 +10,7 @@
 
 ### ಕ್ಲಬ್ ನಾಯಕರಿಗೆ ಹೆಚ್ಚು ಮಾಹಿತಿ
 
-ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [Printer friendly version](https://projects.raspberrypi.org/en/projects/team-chooser/print)ಬಳಸಿ.
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ](https://projects.raspberrypi.org/en/projects/team-chooser/print).
 
 ## \--- collapse \---
 
