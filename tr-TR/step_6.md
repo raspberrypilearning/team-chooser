@@ -1,4 +1,4 @@
-## Çok fazla oyuncu seçme
+## Çok fazla oyuncu seçmi
 
 Sırada her oyuncunun bir takım için seçildiğinden emin olmanız gerekecek.
 
