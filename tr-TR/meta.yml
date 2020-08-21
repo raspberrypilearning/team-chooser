@@ -1,0 +1,30 @@
+---
+hero_image: images/team-chooser.png
+theme: menekşe
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Takım Seçici
+description: Oyuncuları rastgele 2 takıma ayırmak için bir program yapın.
+original_url: https://codeclubprojects.org/en-GB/python/team-chooser
+interests: games
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 3
+last_tested: 2018-04-05
+steps:
+  - title: 'Giriş: '
+  - title: Oyuncular
+  - title: 'Meydan okuma: daha fazla oyuncu ekleyin'
+  - title: Rastgele oyuncular
+  - title: 'Meydan okuma: B takımı için seçme'
+  - title: Çok fazla oyuncu seçimi
+  - title: Dosyalar
+  - title: Tek oyuncular
+  - title: 'Meydan okuma: Rastgele takım isimleri'
+  - title: 'Meydan okuma: Takım isimlerini saklama'
+  - title: 'Meydan Okuma: Daha fazla takım'
