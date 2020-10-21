@@ -2,7 +2,7 @@
 
 Puedes usar un archivo para almacenar tu lista de jugadores.
 
-+ Haz clic en el icono + y crea un nuevo archivo llamado `players.txt`.
++ Haz clic en el icono + y crea un nuevo archivo llamado `jugadores.txt`.
     
     ![captura de pantalla](images/team-file-create.png)
 
@@ -14,7 +14,7 @@ Puedes usar un archivo para almacenar tu lista de jugadores.
     
     ![captura de pantalla](images/team-players-empty.png)
 
-+ Abre tu archivo `players.txt` (la `'r'` significa solo lectura).
++ Abre tu archivo `jugadores.txt` (la `'r'` significa solo lectura).
     
     ![captura de pantalla](images/team-file-open.png)
 
@@ -22,4 +22,4 @@ Puedes usar un archivo para almacenar tu lista de jugadores.
     
     ![captura de pantalla](images/team-file-load.png)
 
-+ Si pruebas tu código, debería funcionar exactamente igual que antes. Sin embargo, ahora es mucho más fácil añadir jugadores a tu archivo `players.txt`.
++ Si pruebas tu código, debería funcionar exactamente igual que antes. Sin embargo, ahora es mucho más fácil añadir jugadores a tu archivo `jugadores.txt`.

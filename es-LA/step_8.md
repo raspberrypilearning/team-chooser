@@ -2,7 +2,7 @@
 
 Mejoremos tu programa para que pueda trabajar con un número impar de jugadores.
 
-+ Añade otro nombre a tu lista `players.txt`, para que tengas un número impar de jugadores.
++ Añade otro nombre a tu lista `jugadores.txt`, para que tengas un número impar de jugadores.
     
     ![captura de pantalla](images/team-luna.png)
 
