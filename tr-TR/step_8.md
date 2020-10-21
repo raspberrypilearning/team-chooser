@@ -14,8 +14,8 @@ Programınızı tek sayıda oyuncu ile çalışacak şekilde geliştirelim.
     
     Bu hatayı düzeltmek için, programınıza `oyuncular` listesi boşalana kadar devam eden `while` döngüsünü `durdurmasını` söyleyebilirsiniz.
     
-    ![screenshot](images/team-fix.png)
+    ![ekran görüntüsü](images/team-fix.png)
 
 + Kodunuzu tekrar test ederseniz, kodunuzun artık tek sayıda oyuncuyla çalıştığını görmeniz gerekir.
     
-    ![screenshot](images/team-fix-test.png)
+    ![ekran görüntüsü](images/team-fix-test.png)
