@@ -47,7 +47,7 @@ Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wo
 * Listy;
 * Pobieranie danych do listy z pliku.
 
-Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
+Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspberry Pi](https://rpf.io/curriculum):
 
 * [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów.](https://www.raspberrypi.org/curriculum/programming/creator)
 

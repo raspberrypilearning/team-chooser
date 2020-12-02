@@ -47,7 +47,7 @@ Vous pouvez aussi trouver une version complétée du projet dans la section "Res
 * Listes;
 * Chargement des données de la liste depuis un fichier.
 
-Ce projet traite des éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
+Ce projet traite des éléments suivants du [Programme Raspberry Pi de Créativité Numérique](https://rpf.io/curriculum):
 
 * [Utiliser des constructions basiques de programmation pour élaborer un programme simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@ title: Matériel pour le projet
 ---
 ## Ressources pour le projet
 
-* Vous pouvez trouver le [projet terminé ici](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* Vous pouvez trouver le [projet terminé ici](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Trinket Python en-ligne vierge](http://jumpto.cc/python-new)
 * [Fichier Python hors-ligne vierge](resources/new-new.py)
 
 ## Ressources pour le responsable de club
 
-* Vous pouvez trouver le [projet terminé ici](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* Vous pouvez trouver le [projet terminé ici](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Trinket Python en-ligne completé](https://trinket.io/python/ac53aa6066)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 

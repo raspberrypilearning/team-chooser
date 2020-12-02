@@ -47,7 +47,7 @@ Potete anche trovare una versione completa di questo progetto nella sezione 'Ris
 * Liste;
 * Caricamento di liste di dati da un file.
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Utilizzo di costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
 

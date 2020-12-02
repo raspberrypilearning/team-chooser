@@ -48,7 +48,7 @@ De asemenea, poți găsi proiectul finalizat în secțiunea „Resurse pentru vo
 * Liste;
 * Încărcarea datelor pentru o listă dintr-un fișier.
 
-Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Folosirea unor structuri de bază în programare pentru a crea programe simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -69,13 +69,13 @@ title: Materialele proiectului
 
 ## Resursele proiectului
 
-* Poți [găsi resursele proiectului aici](http://rpf.io/p/ro-RO/team-chooser-go){:target="_blank"}.
+* Poți [găsi resursele proiectului aici](https://rpf.io/p/ro-RO/team-chooser-go){:target="_blank"}.
 * [Trinket Python online gol](https://trinket.io/python/204ebc7605)
 * [Fișier Python offline gol](resources/new-new.py)
 
 ## Resurse pentru conducătorul clubului
 
-* Poți [găsi soluțiile proiectului aici](http://rpf.io/p/ro-RO/team-chooser-get){:target="_blank"}.
+* Poți [găsi soluțiile proiectului aici](https://rpf.io/p/ro-RO/team-chooser-get){:target="_blank"}.
 * [Proiect Trinket online, completat](https://trinket.io/python/17808d7c48)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
