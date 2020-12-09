@@ -69,13 +69,13 @@ title: प्रोजेक्ट सामग्री
 
 ## प्रोजेक्ट संसाधन
 
-* आप [इस प्रोजेक्ट के लिए संसाधन यहाँ डाउनलोड कर सकते हैं](http://rpf.io/p/hi-IN/team-chooser-go){:target="_blank"}।
+* आप [इस प्रोजेक्ट के लिए संसाधन यहाँ डाउनलोड कर सकते हैं](https://rpf.io/p/hi-IN/team-chooser-go){:target="_blank"}।
 * [ऑनलाइन रिक्त पाइथन ट्रिंकेट](http://jumpto.cc/python-new)
 * [ऑफ़लाइन रिक्त पाइथन फ़ाइल](resources/new-new.py)
 
 ## क्लब लीडर संसाधन
 
-* आप [इस प्रोजेक्ट के लिए समाधान यहाँ खोज सकते हैं](http://rpf.io/p/hi-IN/team-chooser-get){:target="_blank"}।
+* आप [इस प्रोजेक्ट के लिए समाधान यहाँ खोज सकते हैं](https://rpf.io/p/hi-IN/team-chooser-get){:target="_blank"}।
 * [ऑनलाइन पूर्ण ट्रिंकेट प्रोजेक्ट](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 

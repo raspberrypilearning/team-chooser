@@ -47,7 +47,7 @@ Gallwch hefyd ddod o hyd i fersiwn wedi'i gwblhau o'r prosiect hwn yn yr adran '
 * Rhestrau;
 * Llwytho data rhestr o ffeil.
 
-Mae’r prosiect hwn yn cwmpasu elfennau o’r ffrydiau canlynol o [Gwricwlwm Creu Digidol Raspberry Pi](http://rpf.io/curriculum):
+Mae’r prosiect hwn yn cwmpasu elfennau o’r ffrydiau canlynol o [Gwricwlwm Creu Digidol Raspberry Pi](https://rpf.io/curriculum):
 
 * [Defnyddiwch lluniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator)
 

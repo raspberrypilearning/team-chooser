@@ -48,7 +48,7 @@ Je kunt ook een voltooide versie van dit project vinden in de sectie 'Vrijwillig
 * lijsten (Engels: lists);
 * Laadt lijstdata uit een bestand.
 
-Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Gebruik basale programmeerconstructies om eenvoudige programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator)
 

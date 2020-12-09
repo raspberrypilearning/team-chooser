@@ -48,7 +48,7 @@ Você também pode encontrar uma versão completa deste projeto na seção 'Recu
 * Listas;
 * Carregando dados da lista de um arquivo.
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](https://rpf.io/curriculum):
 
 * [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -69,13 +69,13 @@ title: Materiais do Projeto
 
 ## Recursos do Projeto
 
-* Você pode [encontrar os recursos para este projeto aqui](http://rpf.io/p/pt-BR/team-chooser-go){:target="_blank"}.
+* Você pode [encontrar os recursos para este projeto aqui](https://rpf.io/p/pt-BR/team-chooser-go){:target="_blank"}.
 * [Trinket de Python em branco on-line](http://jumpto.cc/python-new)
 * [Arquivo Python offline em branco](resources/new-new.py)
 
 ## Recursos para líderes de clube
 
-* Você pode [encontrar as soluções para este projeto aqui](http://rpf.io/p/pt-BR/team-chooser-get){:target="_blank"}.
+* Você pode [encontrar as soluções para este projeto aqui](https://rpf.io/p/pt-BR/team-chooser-get){:target="_blank"}.
 * [Projeto Trinket concluído online](https://trinket.io/python/ef47a6c291)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
