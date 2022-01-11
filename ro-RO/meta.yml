@@ -17,14 +17,16 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: 'Introducere'
-  - title: Jucători
-  - title: 'Provocare: Adăugarea mai multor jucători'
-  - title: Jucători la întâmplare
-  - title: 'Provocare: Alegerea jucătorilor pentru echipa B'
-  - title: Alegerea mai multor jucători
-  - title: Fișiere
-  - title: Jucători impari
-  - title: 'Provocare: Nume de echipe la întâmplare'
-  - title: 'Provocare: Salvarea numelor echipelor'
-  - title: 'Provocare: Mai multe echipe'
+- title: Introducere
+  completion: engaged
+- title: Jucători
+- title: 'Provocare: Adăugarea mai multor jucători'
+- title: Jucători la întâmplare
+- title: 'Provocare: Alegerea jucătorilor pentru echipa B'
+- title: Alegerea mai multor jucători
+- title: Fișiere
+- title: Jucători impari
+- title: 'Provocare: Nume de echipe la întâmplare'
+- title: 'Provocare: Salvarea numelor echipelor'
+  completion: internal
+- title: 'Provocare: Mai multe echipe'

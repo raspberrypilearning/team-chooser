@@ -17,14 +17,16 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: Cyflwyniad
-  - title: Chwaraewyr
-  - title: 'Her: Ychwanegu mwy o chwaraewyr'
-  - title: Chwaraewyr ar hap
-  - title: 'Her: Dewis ar gyfer tîm B'
-  - title: Dewis llawer o chwaraewyr
-  - title: Ffeiliau
-  - title: Chwaraewyr odrif
-  - title: 'Her: Enwau tîm ar hap'
-  - title: 'Her: Storio enwau tîm'
-  - title: 'Her: Mwy o dimau'
+- title: Cyflwyniad
+  completion: engaged
+- title: Chwaraewyr
+- title: 'Her: Ychwanegu mwy o chwaraewyr'
+- title: Chwaraewyr ar hap
+- title: 'Her: Dewis ar gyfer tîm B'
+- title: Dewis llawer o chwaraewyr
+- title: Ffeiliau
+- title: Chwaraewyr odrif
+- title: 'Her: Enwau tîm ar hap'
+- title: 'Her: Storio enwau tîm'
+  completion: internal
+- title: 'Her: Mwy o dimau'

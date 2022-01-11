@@ -17,14 +17,16 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: 'Introdução'
-  - title: Jogadores
-  - title: 'Desafio: adicionando mais jogadores'
-  - title: Jogadores aleatórios
-  - title: 'Desafio: escolhendo para o time B'
-  - title: Escolhendo muitos jogadores
-  - title: Arquivos
-  - title: Jogadores ímpares
-  - title: 'Desafio: nomes aleatórios de equipes'
-  - title: 'Desafio: armazenar nomes de equipes'
-  - title: 'Desafio: mais equipes'
+- title: Introdução
+  completion: engaged
+- title: Jogadores
+- title: 'Desafio: adicionando mais jogadores'
+- title: Jogadores aleatórios
+- title: 'Desafio: escolhendo para o time B'
+- title: Escolhendo muitos jogadores
+- title: Arquivos
+- title: Jogadores ímpares
+- title: 'Desafio: nomes aleatórios de equipes'
+- title: 'Desafio: armazenar nomes de equipes'
+  completion: internal
+- title: 'Desafio: mais equipes'

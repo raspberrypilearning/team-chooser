@@ -18,6 +18,7 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: Wprowadzenie
+  completion: engaged
 - title: Gracze
 - title: 'Wyzwanie: Dodawanie kolejnych graczy'
 - title: Losowi gracze
@@ -27,4 +28,5 @@ steps:
 - title: Nieparzyści gracze
 - title: 'Wyzwanie: Losowe nazwy zespołów'
 - title: 'Wyzwanie: Przechowywanie nazw zespołów'
+  completion: internal
 - title: 'Wyzwanie: Więcej zespołów'
