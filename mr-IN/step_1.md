@@ -48,7 +48,7 @@ title: क्लब प्रमुखांसाठी टिपा
 * याद्या;
 * फाइलमधून यादी डेटा लोड करीत आहे.
 
-ह्या प्रोजेक्ट मध्ये [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) च्या अभयासक्रमातील पुढील घटकांचा समावेश आहे:
+ह्या प्रोजेक्ट मध्ये [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum) च्या अभयासक्रमातील पुढील घटकांचा समावेश आहे:
 
 * [सोपे प्रोग्राम तयार करण्यासाठी मूलभूत प्रोग्रामिंग रचना वापरा.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -69,13 +69,13 @@ title: प्रोजेक्ट साहित्य
 
 ## प्रोजेक्ट संसाधने
 
-* तुम्हाला [येथे ह्या प्रोजेक्ट ची संसाधने मिळतील](http://rpf.io/p/mr-IN/team-chooser-go){:target="_blank"}.
+* तुम्हाला [येथे ह्या प्रोजेक्ट ची संसाधने मिळतील](https://rpf.io/p/mr-IN/team-chooser-go){:target="_blank"}.
 * [ऑनलाइन रिकामं Python Trinket](http://jumpto.cc/python-new)
 * [ऑफलाइन रिकामी Python फाइल](resources/new-new.py)
 
 ## क्लब प्रमुख साठी संसाधने
 
-* तुम्हाला [येथे प्रोजेक्ट चे उपाय मिळतील](http://rpf.io/p/mr-IN/team-chooser-get){:target="_blank"}.
+* तुम्हाला [येथे प्रोजेक्ट चे उपाय मिळतील](https://rpf.io/p/mr-IN/team-chooser-get){:target="_blank"}.
 * [ऑनलाइन पूर्ण झालेले Trinket प्रोजेक्ट](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 

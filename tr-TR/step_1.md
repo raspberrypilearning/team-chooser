@@ -48,7 +48,7 @@ Bu projenin tamamlanmış bir versiyonunu aşağıdakileri içeren 'Gönüllü K
 * Listeler;
 * Liste verilerinin bir dosyadan yüklenmesi.
 
-Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un aşağıdaki bölümlerinden unsurları kapsamaktadır:
+Bu proje, [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum) 'un aşağıdaki bölümlerinden unsurları kapsamaktadır:
 
 * [Basit programlar oluşturmak için temel programlama yapılarını kullanın.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -69,13 +69,13 @@ title: Proje materyalleri
 
 ## Proje kaynakları
 
-* [Bu proje için kaynaklara şuradan ulaşabilirsiniz.](http://rpf.io/p/tr-TR/team-chooser-go).
+* [Bu proje için kaynaklara şuradan ulaşabilirsiniz.](https://rpf.io/p/tr-TR/team-chooser-go).
 * [Çevrimiçi boş Python Trinket'ı](http://jumpto.cc/python-new)
 * [Çevrimdışı boş Python dosyası](resources/new-new.py)
 
 ## Kulüp lideri için kaynaklar
 
-* [Bu proje için çözümlere şuradan ulaşabilirsiniz.](http://rpf.io/p/tr-TR/team-chooser-get).
+* [Bu proje için çözümlere şuradan ulaşabilirsiniz.](https://rpf.io/p/tr-TR/team-chooser-get).
 * [Çevrimiçi tamamlanmış Trinket projesi](https://trinket.io/python/6f624da57e)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
