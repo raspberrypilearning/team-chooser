@@ -17,14 +17,18 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: '들어가며 '
-  - title: 플레이어
-  - title: '과제: 더 많은 플레이어 추가'
-  - title: 임의의 플레이어
-  - title: '과제: 팀 B에 대한 Code 제작'
-  - title: 많은 플레이어 선택
-  - title: 파일들
-  - title: 홀수 플레이어 취급하기
-  - title: '과제: 무작위 팀 이름'
-  - title: '과제: 팀 이름 저장'
-  - title: '과제: 더 많은 팀'
+- title: '들어가며 '
+- title: 플레이어
+- title: '과제: 더 많은 플레이어 추가'
+- title: 임의의 플레이어
+  completion:
+  - engaged
+- title: '과제: 팀 B에 대한 Code 제작'
+- title: 많은 플레이어 선택
+- title: 파일들
+- title: 홀수 플레이어 취급하기
+  completion:
+  - internal
+- title: '과제: 무작위 팀 이름'
+- title: '과제: 팀 이름 저장'
+- title: '과제: 더 많은 팀'

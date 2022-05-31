@@ -17,14 +17,18 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: '介紹： '
-  - title: 隊員
-  - title: '挑戰：增加更多玩家'
-  - title: 隨機玩家
-  - title: '挑戰：為B隊選擇隊員'
-  - title: 選擇很多球員
-  - title: 檔案
-  - title: 奇數數量的隊員
-  - title: '挑戰：隨機團隊名稱'
-  - title: '挑戰：儲存團隊名稱'
-  - title: '挑戰：更多團隊'
+- title: '介紹： '
+- title: 隊員
+- title: 挑戰：增加更多玩家
+- title: 隨機玩家
+  completion:
+  - engaged
+- title: 挑戰：為B隊選擇隊員
+- title: 選擇很多球員
+- title: 檔案
+- title: 奇數數量的隊員
+  completion:
+  - internal
+- title: 挑戰：隨機團隊名稱
+- title: 挑戰：儲存團隊名稱
+- title: 挑戰：更多團隊

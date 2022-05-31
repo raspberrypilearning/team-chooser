@@ -21,10 +21,14 @@ steps:
 - title: Gracze
 - title: 'Wyzwanie: Dodawanie kolejnych graczy'
 - title: Losowi gracze
+  completion:
+  - engaged
 - title: 'Wyzwanie: Wybieranie do zespołu B'
 - title: Wybieranie wielu graczy
 - title: Pliki
 - title: Nieparzyści gracze
+  completion:
+  - internal
 - title: 'Wyzwanie: Losowe nazwy zespołów'
 - title: 'Wyzwanie: Przechowywanie nazw zespołów'
 - title: 'Wyzwanie: Więcej zespołów'

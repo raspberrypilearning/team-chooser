@@ -17,14 +17,18 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: 'Introduzione'
-  - title: Giocatori
-  - title: 'Sfida: Aggiungi altri giocatori'
-  - title: Giocatori casuali
-  - title: 'Sfida: Scegliere per il team B'
-  - title: Scegliere tanti giocatori
-  - title: File
-  - title: Giocatori dispari
-  - title: 'Sfida: Nomi casuali per i team'
-  - title: 'Sfida: Salvataggio dei nomi dei team'
-  - title: 'Sfida: Più squadre'
+- title: Introduzione
+- title: Giocatori
+- title: 'Sfida: Aggiungi altri giocatori'
+- title: Giocatori casuali
+  completion:
+  - engaged
+- title: 'Sfida: Scegliere per il team B'
+- title: Scegliere tanti giocatori
+- title: File
+- title: Giocatori dispari
+  completion:
+  - internal
+- title: 'Sfida: Nomi casuali per i team'
+- title: 'Sfida: Salvataggio dei nomi dei team'
+- title: 'Sfida: Più squadre'

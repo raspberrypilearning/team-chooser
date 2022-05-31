@@ -17,14 +17,18 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: 'Uvod'
-  - title: Igrači
-  - title: 'Izazov: Dodaj još igrača'
-  - title: Nasumični igrači
-  - title: 'Izazov: Odaberi igrača za tim B'
-  - title: Biranje više igrača
-  - title: Datoteke
-  - title: Neparan broj igrača
-  - title: 'Izazov: Nasumični nazivi timova'
-  - title: 'Izazov: Čuvanje naziva timova'
-  - title: 'Izazov: Više timova'
+- title: Uvod
+- title: Igrači
+- title: 'Izazov: Dodaj još igrača'
+- title: Nasumični igrači
+  completion:
+  - engaged
+- title: 'Izazov: Odaberi igrača za tim B'
+- title: Biranje više igrača
+- title: Datoteke
+- title: Neparan broj igrača
+  completion:
+  - internal
+- title: 'Izazov: Nasumični nazivi timova'
+- title: 'Izazov: Čuvanje naziva timova'
+- title: 'Izazov: Više timova'

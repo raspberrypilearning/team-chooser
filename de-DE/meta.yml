@@ -17,14 +17,18 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: 'Einleitung: '
-  - title: Mitspieler
-  - title: 'Aufgabe: Weitere Mitspieler hinzufügen'
-  - title: Zufällig ausgesuchte Mitspieler
-  - title: 'Aufgabe: Für Team B wählen'
-  - title: Viele Mitspieler wählen
-  - title: Dateien
-  - title: Ungerade Anzahl an Mitspielern
-  - title: 'Aufgabe: Zufällige Teamnamen'
-  - title: 'Aufgabe: Teamnamen speichern'
-  - title: 'Aufgabe: Weitere Teams'
+- title: 'Einleitung: '
+- title: Mitspieler
+- title: 'Aufgabe: Weitere Mitspieler hinzufügen'
+- title: Zufällig ausgesuchte Mitspieler
+  completion:
+  - engaged
+- title: 'Aufgabe: Für Team B wählen'
+- title: Viele Mitspieler wählen
+- title: Dateien
+- title: Ungerade Anzahl an Mitspielern
+  completion:
+  - internal
+- title: 'Aufgabe: Zufällige Teamnamen'
+- title: 'Aufgabe: Teamnamen speichern'
+- title: 'Aufgabe: Weitere Teams'

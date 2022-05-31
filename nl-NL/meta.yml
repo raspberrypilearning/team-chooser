@@ -17,14 +17,18 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: 'Inleiding'
-  - title: Spelers
-  - title: 'Uitdaging: meer spelers toevoegen'
-  - title: Willekeurige spelers
-  - title: 'Uitdaging: kiezen voor team B'
-  - title: Kies een aantal spelers
-  - title: Bestanden
-  - title: Oneven aantal spelers
-  - title: 'Uitdaging: willekeurige teamnamen'
-  - title: 'Uitdaging: teamnamen opslaan'
-  - title: 'Uitdaging: meer teams'
+- title: Inleiding
+- title: Spelers
+- title: 'Uitdaging: meer spelers toevoegen'
+- title: Willekeurige spelers
+  completion:
+  - engaged
+- title: 'Uitdaging: kiezen voor team B'
+- title: Kies een aantal spelers
+- title: Bestanden
+- title: Oneven aantal spelers
+  completion:
+  - internal
+- title: 'Uitdaging: willekeurige teamnamen'
+- title: 'Uitdaging: teamnamen opslaan'
+- title: 'Uitdaging: meer teams'

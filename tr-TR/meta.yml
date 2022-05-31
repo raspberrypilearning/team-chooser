@@ -17,14 +17,18 @@ software: python
 version: 3
 last_tested: 2018-04-05
 steps:
-  - title: 'Giriş: '
-  - title: Oyuncular
-  - title: 'Meydan okuma: daha fazla oyuncu ekleyin'
-  - title: Rastgele oyuncular
-  - title: 'Meydan okuma: B takımı için seçme'
-  - title: Çok fazla oyuncu seçimi
-  - title: Dosyalar
-  - title: Tek oyuncular
-  - title: 'Meydan okuma: Rastgele takım isimleri'
-  - title: 'Meydan okuma: Takım isimlerini saklama'
-  - title: 'Meydan Okuma: Daha fazla takım'
+- title: 'Giriş: '
+- title: Oyuncular
+- title: 'Meydan okuma: daha fazla oyuncu ekleyin'
+- title: Rastgele oyuncular
+  completion:
+  - engaged
+- title: 'Meydan okuma: B takımı için seçme'
+- title: Çok fazla oyuncu seçimi
+- title: Dosyalar
+- title: Tek oyuncular
+  completion:
+  - internal
+- title: 'Meydan okuma: Rastgele takım isimleri'
+- title: 'Meydan okuma: Takım isimlerini saklama'
+- title: 'Meydan Okuma: Daha fazla takım'
