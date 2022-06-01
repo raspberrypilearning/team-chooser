@@ -18,15 +18,17 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Spelers
 - title: 'Uitdaging: meer spelers toevoegen'
 - title: Willekeurige spelers
+  completion:
+  - engaged
 - title: 'Uitdaging: kiezen voor team B'
 - title: Kies een aantal spelers
 - title: Bestanden
 - title: Oneven aantal spelers
+  completion:
+  - internal
 - title: 'Uitdaging: willekeurige teamnamen'
 - title: 'Uitdaging: teamnamen opslaan'
-  completion: internal
 - title: 'Uitdaging: meer teams'

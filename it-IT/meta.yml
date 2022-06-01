@@ -18,15 +18,17 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: Introduzione
-  completion: engaged
 - title: Giocatori
 - title: 'Sfida: Aggiungi altri giocatori'
 - title: Giocatori casuali
+  completion:
+  - engaged
 - title: 'Sfida: Scegliere per il team B'
 - title: Scegliere tanti giocatori
 - title: File
 - title: Giocatori dispari
+  completion:
+  - internal
 - title: 'Sfida: Nomi casuali per i team'
 - title: 'Sfida: Salvataggio dei nomi dei team'
-  completion: internal
 - title: 'Sfida: Più squadre'

@@ -18,15 +18,17 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: Uvod
-  completion: engaged
 - title: Igrači
 - title: 'Izazov: Dodaj još igrača'
 - title: Nasumični igrači
+  completion:
+  - engaged
 - title: 'Izazov: Odaberi igrača za tim B'
 - title: Biranje više igrača
 - title: Datoteke
 - title: Neparan broj igrača
+  completion:
+  - internal
 - title: 'Izazov: Nasumični nazivi timova'
 - title: 'Izazov: Čuvanje naziva timova'
-  completion: internal
 - title: 'Izazov: Više timova'

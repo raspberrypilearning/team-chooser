@@ -19,15 +19,17 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: Introduction
-  completion: engaged
 - title: Joueurs
 - title: 'Défi: Ajoute plus de joueurs'
 - title: Joueurs aléatoires
+  completion:
+  - engaged
 - title: 'Défi: Choisir pour l''équipe B'
 - title: Choisir plein de joueurs
 - title: Fichiers
 - title: Joueurs impair
+  completion:
+  - internal
 - title: 'Défi: Noms déquipe aléatoire'
 - title: 'Défi: Stocker les noms d''équipe'
-  completion: internal
 - title: 'Défi: Encore plus d''équipes'

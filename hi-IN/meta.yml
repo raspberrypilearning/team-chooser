@@ -18,15 +18,17 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: परिचय
-  completion: engaged
 - title: खिलाड़ी
 - title: 'चुनौती: और खिलाड़ी जोड़ना'
 - title: बेतरतीब खिलाड़ी
+  completion:
+  - engaged
 - title: 'चुनौती: टीम बी के लिए चयन'
 - title: बहुत से खिलाड़ी चुनना
 - title: फाइलें
 - title: विषम खिलाड़ी
+  completion:
+  - internal
 - title: 'चुनौती: टीमों के बेतरतीब नाम'
 - title: 'चुनौती: टीम के नाम स्टोर करना'
-  completion: internal
 - title: 'चुनौती: और टीमें'

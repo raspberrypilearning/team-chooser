@@ -18,15 +18,17 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Παίκτες
 - title: 'Πρόκληση: Προσθήκη περισσότερων παικτών'
 - title: Τυχαίοι παίκτες
+  completion:
+  - engaged
 - title: 'Πρόκληση: Επιλογή για την ομάδα Β'
 - title: Επιλογή πολλών παικτών
 - title: Αρχεία
 - title: Περιττός αριθμός παικτών
+  completion:
+  - internal
 - title: 'Πρόκληση: Τυχαία ονόματα ομάδων'
 - title: 'Πρόκληση: Αποθήκευση ονομάτων ομάδων'
-  completion: internal
 - title: 'Πρόκληση: Περισσότερες ομάδες'

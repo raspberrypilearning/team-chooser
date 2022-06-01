@@ -18,15 +18,17 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: 'Introduction: '
-  completion: engaged
 - title: Players
 - title: 'Challenge: Adding more players'
 - title: Random players
+  completion:
+  - engaged
 - title: 'Challenge: Choosing for team B'
 - title: Choosing lots of players
 - title: Files
 - title: Odd players
+  completion:
+  - internal
 - title: 'Challenge: Random team names'
 - title: 'Challenge: Storing team names'
-  completion: internal
 - title: 'Challenge: More teams'

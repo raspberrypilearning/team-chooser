@@ -18,15 +18,17 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: 'Einleitung: '
-  completion: engaged
 - title: Mitspieler
 - title: 'Aufgabe: Weitere Mitspieler hinzufügen'
 - title: Zufällig ausgesuchte Mitspieler
+  completion:
+  - engaged
 - title: 'Aufgabe: Für Team B wählen'
 - title: Viele Mitspieler wählen
 - title: Dateien
 - title: Ungerade Anzahl an Mitspielern
+  completion:
+  - internal
 - title: 'Aufgabe: Zufällige Teamnamen'
 - title: 'Aufgabe: Teamnamen speichern'
-  completion: internal
 - title: 'Aufgabe: Weitere Teams'

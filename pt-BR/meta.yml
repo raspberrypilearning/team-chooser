@@ -18,15 +18,17 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: Introdução
-  completion: engaged
 - title: Jogadores
 - title: 'Desafio: adicionando mais jogadores'
 - title: Jogadores aleatórios
+  completion:
+  - engaged
 - title: 'Desafio: escolhendo para o time B'
 - title: Escolhendo muitos jogadores
 - title: Arquivos
 - title: Jogadores ímpares
+  completion:
+  - internal
 - title: 'Desafio: nomes aleatórios de equipes'
 - title: 'Desafio: armazenar nomes de equipes'
-  completion: internal
 - title: 'Desafio: mais equipes'
