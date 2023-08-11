@@ -47,7 +47,7 @@
 * याद्या;
 * फाइलमधून यादी डेटा लोड करीत आहे.
 
-ह्या प्रोजेक्ट मध्ये [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) च्या अभयासक्रमातील पुढील घटकांचा समावेश आहे:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [सोपे प्रोग्राम तयार करण्यासाठी मूलभूत प्रोग्रामिंग रचना वापरा.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@
 
 ## प्रोजेक्ट संसाधने
 
-* तुम्हाला [येथे ह्या प्रोजेक्ट ची संसाधने मिळतील](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [ऑनलाइन रिकामं Python Trinket](http://jumpto.cc/python-new)
 * [ऑफलाइन रिकामी Python फाइल](resources/new-new.py)
 
 ## क्लब प्रमुख साठी संसाधने
 
-* तुम्हाला [येथे प्रोजेक्ट चे उपाय मिळतील](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [ऑनलाइन पूर्ण झालेले Trinket प्रोजेक्ट](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
