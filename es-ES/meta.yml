@@ -25,6 +25,8 @@ steps:
     title: 'Reto: Añadir más jugadores'
   - 
     title: Jugadores aleatorios
+    completion:
+      - engaged
   - 
     title: 'Reto: Elegir para el equipo B'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Archivos
   - 
     title: Jugadores impares
+    completion:
+      - internal
   - 
     title: 'Reto: Nombres de equipo aleatorios'
   - 
