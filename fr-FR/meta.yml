@@ -25,6 +25,8 @@ steps:
     title: 'Défi: Ajoute plus de joueurs'
   - 
     title: Joueurs aléatoires
+    completion:
+      - engaged
   - 
     title: 'Défi: Choisir pour l''équipe B'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Fichiers
   - 
     title: Joueurs impair
+    completion:
+      - internal
   - 
     title: 'Défi: Noms d''équipe aléatoire'
   - 
