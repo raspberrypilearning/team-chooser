@@ -25,6 +25,8 @@ steps:
     title: 'Uitdaging: meer spelers toevoegen'
   - 
     title: Willekeurige spelers
+    completion:
+      - engaged
   - 
     title: 'Uitdaging: kiezen voor team B'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Bestanden
   - 
     title: Oneven aantal spelers
+    completion:
+      - internal
   - 
     title: 'Uitdaging: willekeurige teamnamen'
   - 
