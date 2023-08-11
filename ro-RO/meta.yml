@@ -25,6 +25,8 @@ steps:
     title: 'Provocare: Adăugarea mai multor jucători'
   - 
     title: Jucători la întâmplare
+    completion:
+      - engaged
   - 
     title: 'Provocare: Alegerea jucătorilor pentru echipa B'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Fișiere
   - 
     title: Jucători impari
+    completion:
+      - internal
   - 
     title: 'Provocare: Nume de echipe la întâmplare'
   - 
