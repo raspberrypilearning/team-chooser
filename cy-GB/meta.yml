@@ -25,6 +25,8 @@ steps:
     title: 'Her: Ychwanegu mwy o chwaraewyr'
   - 
     title: Chwaraewyr ar hap
+    completion:
+      - engaged
   - 
     title: 'Her: Dewis ar gyfer tîm B'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Ffeiliau
   - 
     title: Chwaraewyr odrif
+    completion:
+      - internal
   - 
     title: 'Her: Enwau tîm ar hap'
   - 
