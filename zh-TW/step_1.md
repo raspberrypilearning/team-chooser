@@ -47,7 +47,7 @@
 * 列表;
 * 從檔案中載入列表資料。
 
-本專案涵蓋 [樹莓派數位化課程](http://rpf.io/curriculum)以下內容：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [使用基本的編程結構來創造簡單的程式。](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@
 
 ## 專案資源
 
-* 你可以[在這裡找到專案資源](http://rpf.io/p/en/team-chooser-go){:target="_blank"}。
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [線上空白的Python Trinket](http://jumpto.cc/python-new)
 * [線上空白的Python 檔案](resources/new-new.py)
 
 ## 教師資源
 
-* 你可以[在這裡找到專案解決方案](http://rpf.io/p/en/team-chooser-get){:target="_blank"}。
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [線上完成的Trinket專案](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
