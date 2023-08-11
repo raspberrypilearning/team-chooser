@@ -25,6 +25,8 @@ steps:
     title: 'Challenge: Adding more players'
   - 
     title: Random players
+    completion:
+      - engaged
   - 
     title: 'Challenge: Choosing for team B'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Files
   - 
     title: Odd players
+    completion:
+      - internal
   - 
     title: 'Challenge: Random team names'
   - 
