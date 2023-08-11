@@ -47,7 +47,7 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
 * Listen (lists);
 * Listendaten aus einer Datei laden.
 
-Dieses Projekt umfasst Elemente aus den folgenden Strängen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Verwendung elementarer Programmiersprachelemente zur Erstellung einfacher Programme.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@ Dieses Projekt umfasst Elemente aus den folgenden Strängen des [Raspberry Pi Di
 
 ## Projektressourcen
 
-* Hier finden Sie die [Ressourcen für dieses Projekt](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Leeres Python-Trinket online](http://jumpto.cc/python-new)
 * [Leere Python-Datei offline](resources/new-new.py)
 
 ## Ressourcen für Clubleiter
 
-* Hier finden Sie die [Lösung für dieses Projekt](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Fertiges online Trinket-Projekt](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
