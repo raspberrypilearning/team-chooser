@@ -25,6 +25,8 @@ steps:
     title: 'Sfida: Aggiungi altri giocatori'
   - 
     title: Giocatori casuali
+    completion:
+      - engaged
   - 
     title: 'Sfida: Scegliere per la squadra B'
   - 
@@ -33,6 +35,8 @@ steps:
     title: File
   - 
     title: Giocatori dispari
+    completion:
+      - internal
   - 
     title: 'Sfida: Nomi casuali per i team'
   - 
