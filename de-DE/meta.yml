@@ -25,6 +25,8 @@ steps:
     title: 'Aufgabe: Weitere Mitspieler hinzufügen'
   - 
     title: Zufällig ausgesuchte Mitspieler
+    completion:
+      - engaged
   - 
     title: 'Aufgabe: Für Team B wählen'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Dateien
   - 
     title: Ungerade Anzahl an Mitspielern
+    completion:
+      - internal
   - 
     title: 'Aufgabe: Zufällige Teamnamen'
   - 
