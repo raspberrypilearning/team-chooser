@@ -25,6 +25,8 @@ steps:
     title: 'आव्हान: आणखी खेळाडू जोडणे'
   - 
     title: कोणतेही खेळाडू
+    completion:
+      - engaged
   - 
     title: 'आव्हान: team B साठी निवडणे'
   - 
@@ -33,6 +35,8 @@ steps:
     title: फायली
   - 
     title: विषम खेळाडू
+    completion:
+      - internal
   - 
     title: 'आव्हान: कोणत्याही टीमची नावे'
   - 
