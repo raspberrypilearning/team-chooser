@@ -25,6 +25,8 @@ steps:
     title: '挑战：添加更多队员'
   - 
     title: 随机队员
+    completion:
+      - engaged
   - 
     title: '挑战：为B队选择队员'
   - 
@@ -33,6 +35,8 @@ steps:
     title: 文件
   - 
     title: 奇数数量的队员
+    completion:
+      - internal
   - 
     title: '挑战：随机团队名称'
   - 
