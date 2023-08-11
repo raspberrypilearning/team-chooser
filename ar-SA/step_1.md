@@ -47,7 +47,7 @@
 * القوائم;
 * تحميل بيانات قائمة من ملف.
 
-يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@
 
 ## موارد المشروع
 
-* يمكنك [الحصول على الموارد لهذا المشروع هنا](http://rpf.io/p/en/team-chooser-go).
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Python Trinket فارغة على الانترنت](http://jumpto.cc/python-new)
 * [ملف Python فارغ بدون الاتصال بالانترنت](resources/new-new.py)
 
 ## موارد قادة النادي
 
-* يمكنك [ العثور على الحلول لهذا المشروع هنا ](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [مشروع Trinket مكتمل على الإنترنت](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
