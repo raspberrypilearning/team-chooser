@@ -47,7 +47,7 @@
 * 列表；
 * 从文件中加载列表数据。
 
-本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [利用基本编程结构创建简单程序。](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@
 
 ## 项目资源
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [在线空白Python Trinket项目](http://jumpto.cc/python-new)
 * [离线空白Python文件](resources/new-new.py)
 
 ## 俱乐部导师资源
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [在线已完成的Trinket项目](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
