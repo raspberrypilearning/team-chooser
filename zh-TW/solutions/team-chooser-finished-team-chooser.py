@@ -44,6 +44,6 @@ teamNameB = choice(teamNames)
 teamNames.remove(teamNameB)
 
 #輸出隊名
-print('\nHere are your teams:\n')
+print('\n這是您的團隊：\n')
 print(teamNameA, teamA)
 print(teamNameB, teamB)
