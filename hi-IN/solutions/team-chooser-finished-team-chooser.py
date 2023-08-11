@@ -1,49 +1,49 @@
 #!/bin/python3
 
-यादृच्छिक आयात विकल्प से
+from random import choice
 
-#फ़ाइल से खिलाड़ियों की एक सूची बनाएं
+#create a list of players from a file
 players = []
 file = open('players.txt', 'r')
 players = file.read().splitlines()
 print('Players:', players)
 
-#फ़ाइल से खिलाड़ियों की एक सूची बनाएं
+#create a list of team names from a file
 teamNames = []
 file = open('teamNames.txt', 'r')
 teamNames = file.read().splitlines()
 print('Team names:', teamNames)
 
-#टीम की खाली सूचियां बनाएं
+#create empty team lists
 teamA = []
 teamB = []
 
-#लूप चलाएँ जब तक कोई खिलाड़ी नहीं बचे हैं
+#loop until there are no players left
 while len(players) > 0:
   
-  # ए टीम के लिए एक यादृच्छिक खिलाड़ी चुनें
+  #choose a random player for team A
   playerA = choice(players)
   teamA.append(playerA)
-  # खिलाड़ियों की सूची से खिलाड़ी को निकालें
+  #remove the player from the players list
   players.remove(playerA)
   
-  #यदि कोई खिलाड़ी नहीं बचा है तो लूप ब्रेक करे
+  #break out of the loop if there are no players left
   if players == []: 
     break
   
-  #टीम बी के लिए एक यादृच्छिक खिलाड़ी चुनें
+  #choose a random player for team B
   playerB = choice(players)
   teamB.append(playerB)
   # खिलाड़ियों की सूची से खिलाड़ी को निकालें
   players.remove(playerB)
 
-#2 टीमों के लिए यादृच्छिक टीम के नाम चुनें
+#choose random team names for the 2 teams
 teamNameA = choice(teamNames)
 teamNames.remove(teamNameA)
 teamNameB = choice(teamNames)
 teamNames.remove(teamNameB)
 
-#टीमों को प्रिंट करें
+#print the teams
 print('\nHere are your teams:\n')
 print(teamNameA, teamA)
 print(teamNameB, teamB)
