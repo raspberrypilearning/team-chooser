@@ -32,7 +32,7 @@ También hay un Trinket que contiene al proyecto concluido:
 
 ## Recursos sin conexión
 
-Si prefiere, este proyecto se puede [completar sin conexion](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del Proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto offline. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
+Si prefieres, este proyecto se puede [completar sin conexion](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del Proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto offline. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * team/team.py
 
@@ -47,7 +47,7 @@ Además, puedes encontrar una versión completa de este proyecto en la sección 
 * Listas;
 * Cargar una lista de datos desde un archivo.
 
-Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Usar estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 
 ## Recursos del proyecto
 
-* Puedes [encontrar los recursos para este proyecto aquí](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Trinket Python en blanco en línea](http://jumpto.cc/python-new)
 * [Trinket Python archivo en blanco sin conexión](resources/new-new.py)
 
 ## Recursos del líder del club
 
-* Puedes [encontrar la solución para este proyecto aquí](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Proyecto Trinket completado en línea](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
