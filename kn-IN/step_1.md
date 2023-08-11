@@ -47,7 +47,7 @@
 * ಪಟ್ಟಿಗಳು;
 * ಫೈಲ್‌ನಿಂದ ಪಟ್ಟಿ ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ.
 
-ಈ ಯೋಜನೆ [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ಇದರ ಪಠ್ಯಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತದೆ:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [ಸರಳ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ರಚಿಸಲು ಮೂಲ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ರಚನೆಗಳನ್ನು ಬಳಸಿ.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@
 
 ## ಯೋಜನೆಯ ಸಂಪನ್ಮೂಲಗಳು
 
-* ನೀವು [ಯೋಜನೆಯ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಇಲ್ಲಿ ಕಾಣ ಬಹುದು](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [ಆನ್‌ಲೈನ್ ಖಾಲಿ Python Trinket](http://jumpto.cc/python-new)
 * [ಆಫ್‌ಲೈನ್ ಖಾಲಿ Python ಫೈಲ್](resources/new-new.py)
 
 ## ಕ್ಲಬ್ ನಾಯಕ ಸಂಪನ್ಮೂಲಗಳು
 
-* ನೀವು [ಯೋಜನೆಯ ಪರಿಹಾರವನ್ನು ಇಲ್ಲಿ ಪಡೆಯ ಬಹುದು](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [ಆನ್ಲೈನ್ ಸಂಪೂರ್ಣ Trinket ಯೋಜನೆ](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
