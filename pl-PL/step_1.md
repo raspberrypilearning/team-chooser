@@ -47,7 +47,7 @@ Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wo
 * Listy;
 * Pobieranie danych do listy z pliku.
 
-Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@ Projekt ten obejmuje następujące elementy [Cyfrowego programu nauczania Raspbe
 
 ## Zasoby
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Pusty szablon Trinket do języka Python](http://jumpto.cc/python-new)
 * [Plik z pustym szablonem do języka Python](resources/new-new.py)
 
 ## Zasoby dla lidera klubu
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Ukończony projekt "Selekcjoner"](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
