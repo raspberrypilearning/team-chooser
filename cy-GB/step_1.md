@@ -47,7 +47,7 @@ Gallwch hefyd ddod o hyd i fersiwn wedi'i gwblhau o'r prosiect hwn yn yr adran '
 * Rhestrau;
 * Llwytho data rhestr o ffeil.
 
-Mae’r prosiect hwn yn cwmpasu elfennau o’r ffrydiau canlynol o [Gwricwlwm Creu Digidol Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Defnyddiwch lluniadau rhaglennu sylfaenol i greu rhaglenni syml.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@ Mae’r prosiect hwn yn cwmpasu elfennau o’r ffrydiau canlynol o [Gwricwlwm Cr
 
 ## Adnoddau'r prosiect
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Trinket Python gwag ar-lein](http://jumpto.cc/python-new)
 * [Ffurflen wag Python all-lein](resources/new-new.py)
 
 ## Adnoddau arweinwyr clwb
 
-* Gallwch chi ddod o hyd i'r ateb ar gyfer y prosiect hwn [yma ](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Prosiect Trinket wedi'i gwblhau ar-lein](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
