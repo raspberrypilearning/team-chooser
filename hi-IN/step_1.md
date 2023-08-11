@@ -1,6 +1,6 @@
 ## परिचय:
 
-इस परियोजना में, आप खिलाड़ियों की सूची से 2 यादृच्छिक टीमें बनाने का तरीका सीखेंगे।
+इस परियोजना में, आप खिलाड़ियों की सूची से 2 अनियमित टीमें बनाने का तरीका सीखेंगे।
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -18,17 +18,17 @@
 
 ## प्रस्तावना:
 
-इस परियोजना में, बच्चे खिलाड़ियों की एक सूची को 2 यादृच्छिक टीमों में विभाजित करने के लिए एक कंप्यूटर प्रोग्राम बनाने का तरीका सीखेंगे। यह प्रोजेक्ट सूची और फ़ाइलों का उपयोग करना सिखाता है।
+इस प्रोजेक्ट में, बच्चे खिलाड़ियों की एक सूची को 2 अनियमित टीमों में विभाजित करने के लिए एक कंप्यूटर प्रोग्राम बनाने का तरीका सीखेंगे। यह प्रोजेक्ट सूची और फ़ाइलों का उपयोग करना सिखाता है।
 
 ## ऑनलाइन संसाधन
 
-यह प्रोजेक्ट पायथन 3 का उपयोग करता है। हम पायथन ऑनलाइन लिखने के लिए ट्रिंकेट का उपयोग करने की सलाह देते हैं। इस प्रोजेक्ट में निम्नलिखित ट्रिंकेट हैं:
+**यह प्रोजेक्ट Python 3** का उपयोग करता है। हम Python ऑनलाइन लिखने के लिए [trinket](https://trinket.io/) का उपयोग करने की सलाह देते हैं। इस प्रोजेक्ट में निम्नलिखित Trinket हैं:
 
 * [नया (रिक्त) ट्रिंकेट ट्रिंकेट - jumpto.cc/python-new](http://jumpto.cc/python-new)
 
 एक ऐसा trinket भी है जिसमें पूर्ण किया गया प्रोजेक्ट है:
 
-* ['टीम चयनकर्ता' समाप्त - trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
+* [‘Team-chooser-finished/trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
 
 ## ऑफ़लाइन संसाधन
 
@@ -47,15 +47,15 @@
 * सूचियाँ
 * किसी फाइल से डेटा लोड करना।
 
-इस प्रोजेक्ट में रास्पबेरी पीआई डिजिटल मेकिंग पाठ्यक्रम के निम्नलिखित कस्में से तत्वों को शामिल किया गया है
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## चुनौतियाँ
 
 * "अधिक खिलाड़ियों को जोड़ना" - खिलाड़ियों की सूची में तत्वों को जोड़ना
-* "टीम बी के लिए चुनना" - यादृच्छिक खिलाड़ियों को जोड़ने के लिए एक नई टीम बी सूची बनाना;
-* "यादृच्छिक टीम के नाम" - टीमों को यादृच्छिक नाम आवंटित करने के लिए एक नई टीम नाम सूची बनाना और उपयोग करना;
+* "टीम बी के लिए चुनना" - अनियमित खिलाड़ियों को जोड़ने के लिए एक नई टीम बी सूची बनाना;
+* "अनियमित टीम के नाम" - टीमों को अनियमित नाम आवंटित करने के लिए एक नई टीम नाम सूची बनाना और उपयोग करना;
 * "टीम के नाम संग्रहीत करना" फ़ाइल - एक फ़ाइल में टीम के नाम संग्रहीत करना, और उन्हें एक वेरिएबल teamName में लोड करे
 * "अधिक टीम" - दो के बजाय तीन टीमों में खिलाड़ियों को विभाजित करना। 
 
@@ -63,18 +63,18 @@
 
 ## \--- collapse \---
 
-## शीर्षक: प्रोजेक्ट सामग्री
+## title: प्रोजेक्ट सामग्री
 
 ## प्रोजेक्ट संसाधन
 
-* आप [इस प्रोजेक्ट के लिए संसाधन यहाँ डाउनलोड कर सकते हैं](http://rpf.io/p/en/team-chooser-go){:target="_blank"}।
-* [ऑनलाइन रिक्त पाइथन ट्रिंकेट](http://jumpto.cc/python-new)
-* [ऑफ़लाइन रिक्त पाइथन फ़ाइल](resources/new-new.py)
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* [ऑनलाइन रिक्त Python Trinket](http://jumpto.cc/python-new)
+* [ऑफ़लाइन खाली Python फ़ाइल](resources/new-new.py)
 
 ## क्लब लीडर संसाधन
 
-* आप [इस प्रोजेक्ट के लिए समाधान यहाँ खोज सकते हैं](http://rpf.io/p/en/team-chooser-get){:target="_blank"}।
-* [ऑनलाइन पूर्ण ट्रिंकेट प्रोजेक्ट](https://trinket.io/python/a699c44ce6)
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* [ऑनलाइन पूर्ण Trinket प्रोजेक्ट](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
 \--- /collapse \---
