@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 title: टीम चयनकर्ता
-description: खिलाड़ियों को 2 बेतरतीब टीमों में विभाजित करने के लिए प्रोग्राम बनाएँ।
+description: खिलाड़ियों को 2 अनियमित टीमों में विभाजित करने के लिए प्रोग्राम बनाएँ।
 original_url: https://codeclubprojects.org/en-GB/python/team-chooser
 interests: games
 technologies: python
@@ -18,13 +18,15 @@ version: 3
 last_tested: 2018-04-05
 steps:
   - 
-    title: 'भूमिका'
+    title: 'परिचय: '
   - 
     title: खिलाड़ी
   - 
     title: 'चुनौती: और खिलाड़ी जोड़ना'
   - 
-    title: बेतरतीब खिलाड़ी
+    title: अनियमित खिलाड़ी
+    completion:
+      - engaged
   - 
     title: 'चुनौती: टीम B के लिए चुनना'
   - 
@@ -33,8 +35,10 @@ steps:
     title: फाइलें
   - 
     title: विषम खिलाड़ी
+    completion:
+      - internal
   - 
-    title: 'चुनौती: टीमों के बेतरतीब नाम'
+    title: 'चुनौती: टीमों के अनियमित नाम'
   - 
     title: 'चुनौती: टीम के नाम स्टोर करना'
   - 
