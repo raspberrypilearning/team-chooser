@@ -25,6 +25,8 @@ steps:
     title: '挑戰：增加更多玩家'
   - 
     title: 隨機玩家
+    completion:
+      - engaged
   - 
     title: '挑戰：為B隊選擇隊員'
   - 
@@ -33,6 +35,8 @@ steps:
     title: 檔案
   - 
     title: 奇數數量的隊員
+    completion:
+      - internal
   - 
     title: '挑戰：隨機團隊名稱'
   - 
