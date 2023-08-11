@@ -25,6 +25,8 @@ steps:
     title: 'Meydan okuma: daha fazla oyuncu ekleyin'
   - 
     title: Rastgele oyuncular
+    completion:
+      - engaged
   - 
     title: 'Meydan okuma: B takımı için seçme'
   - 
@@ -33,6 +35,8 @@ steps:
     title: Dosyalar
   - 
     title: Tek oyuncular
+    completion:
+      - internal
   - 
     title: 'Meydan okuma: Rastgele takım isimleri'
   - 
