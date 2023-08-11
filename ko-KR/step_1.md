@@ -47,7 +47,7 @@
 * Python 리스트;
 * 파일에서 데이터 불러오기
 
-이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [기본 프로그래밍 문법으로 간단한 프로그램 만들기](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@
 
 ## 프로젝트 리소스
 
-* 이 프로젝트의 [자료는 여기서 찾을 수 있습니다. ](http://rpf.io/p/en/team-chooser-go) {: target = "_ blank"}.
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [온라인 파이썬 빈 Trinket 창](http://jumpto.cc/python-new)
 * [오프라인 파이썬 공백 파일](resources/new-new.py)
 
 ## 교육자를 위한 자료
 
-* 프로젝트의 완성본은 [여기](http://rpf.io/p/en/team-chooser-get){:target="_blank"}를 클릭하면 됩니다.
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [완성된 온라인 Trinket 프로젝트](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
