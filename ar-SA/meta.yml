@@ -25,6 +25,8 @@ steps:
     title: 'التحدي: إضافة المزيد من اللاعبين'
   - 
     title: لاعبين عشوائيين
+    completion:
+      - engaged
   - 
     title: 'التحدي: الاختيار للفريق B'
   - 
@@ -33,6 +35,8 @@ steps:
     title: ملفات
   - 
     title: لاعبين فرديين
+    completion:
+      - internal
   - 
     title: 'التحدي: أسماء فرق عشوائية'
   - 
