@@ -47,7 +47,7 @@ Potete anche trovare una versione completa di questo progetto nella sezione 'Ris
 * Liste;
 * Caricamento di liste di dati da un file.
 
-Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Utilizzo di costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -67,13 +67,13 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Raspberry
 
 ## Risorse del progetto
 
-* You can [find the resources for this project here](http://rpf.io/p/en/team-chooser-go){:target="_blank"}.
+* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
 * [Trinket online vuoto per Python](http://jumpto.cc/python-new)
 * [Trinket offline vuoto per Python](resources/new-new.py)
 
 ## Risorse per gli organizzatori del club
 
-* You can [find the solutions for this project here](http://rpf.io/p/en/team-chooser-get){:target="_blank"}.
+* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
 * [Trinket online completo](https://trinket.io/python/a699c44ce6)
 * [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
 
