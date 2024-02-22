@@ -1,7 +1,7 @@
 ## Introduction: 
 In this project, you'll learn how to create 2 random teams from a list of players.
 
-  <iframe src="https://editor.raspberrypi.org/en/embed/viewer/team-chooser-solution" width="400" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://editor.raspberrypi.org/en/embed/viewer/team-chooser-solution" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
 
 ### Additional information for club leaders

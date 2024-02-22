@@ -118,7 +118,7 @@ print('Team A', team_A)
 
 --- task ---
 
-You can do the same for `teamB`, and you can also delete the other print commands, as they were only there to test your code.
+You can do the same for `team_B`, and you can also delete the other print commands, as they were only there to test your code.
 
 Here's how your code should look:
 
