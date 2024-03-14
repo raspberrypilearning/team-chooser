@@ -10,7 +10,9 @@ Open the [Team chooser starter](https://editor.raspberrypi.org/en/projects/team-
 
 --- task ---
 
-You can use a variable to store a __list__ of players. The list should be in square brackets `[ ]`, with a comma between each item in the list. 
+You can use a variable to store a __list__ of players. 
+
+The list should be in square brackets `[ ]`, with a comma between each item in the list. 
 
 Start by adding a list of players to your program.
 

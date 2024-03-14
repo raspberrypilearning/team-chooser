@@ -142,7 +142,7 @@ players.remove(player_A)
 
 --- task ---
 
-+ Test this code by adding a `print` command, to show the `players` left to choose from.
+Test this code by adding a `print` command, to show the `players` left to choose from.
 
 --- code ---
 ---
