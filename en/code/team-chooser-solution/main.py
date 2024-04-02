@@ -4,13 +4,11 @@ from random import choice
 players = []
 file = open('players.txt', 'r')
 players = file.read().splitlines()
-print('Players:', players)
 
 #create a list of team names from a file
 team_names = []
 file = open('team_names.txt', 'r')
 team_names = file.read().splitlines()
-print('Team names:', team_names)
 
 #create empty team lists
 team_A = []
