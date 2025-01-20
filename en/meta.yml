@@ -20,9 +20,9 @@ steps:
 - title: 'Introduction: '
 - title: Players
 - title: 'Challenge: Adding more players'
-- title: Random players
   completion:
   - engaged
+- title: Random players
 - title: 'Challenge: Choosing for team B'
 - title: Choosing lots of players
 - title: Files
@@ -32,3 +32,5 @@ steps:
 - title: 'Challenge: Random team names'
 - title: 'Challenge: Storing team names'
 - title: 'Challenge: More teams'
+  completion:
+  - external
