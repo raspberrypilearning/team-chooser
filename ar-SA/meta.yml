@@ -23,10 +23,10 @@ steps:
     title: لاعبين
   - 
     title: 'التحدي: إضافة المزيد من اللاعبين'
-  - 
-    title: لاعبين عشوائيين
     completion:
       - engaged
+  - 
+    title: لاعبين عشوائيين
   - 
     title: 'التحدي: الاختيار للفريق B'
   - 
@@ -43,3 +43,5 @@ steps:
     title: 'التحدي: خزِّن أسماء الفِرق'
   - 
     title: 'تحدي: مزيد من الفرق'
+    completion:
+      - external
