@@ -4,10 +4,20 @@
 
 Poți da ambelor tale echipe un nume aleatoriu?
 
-Poți crea o listă numită `numeEchipe` ce conține numele din care se va alege.
+You can create a list called `team_names` containing the names to choose from.
 
 Poți, apoi, să alegi (și să afișezi) un nume aleatoriu pentru fiecare echipă.
 
-![captură de ecran](images/team-finished.png)
+## \--- code \---
+
+language: python filename: main.py line_numbers: false line_number_start:
+
+## line_highlights:
+
+Here are your teams:
+
+Wasps ['Harry', 'Neville', 'Ginny'] Pythons ['Hermione', 'Luna']
+
+\--- /code \---
 
 \--- /challenge \---
