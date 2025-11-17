@@ -2,34 +2,138 @@
 
 Rasgele oyuncu seçelim!
 
-+ `oyuncular` listenizden rastgele oyuncular seçebilmek için ilk önce `random` modülünün `choise` bölümünü kodlamaya dahil etmeniz gerekiyor.
-    
-    ![ekran görüntüsü](images/team-import-random.png)
+\--- task \---
 
-+ Rastgele bir oyuncu elde etmek için `choise` komutunu kullanabilirsiniz. (Ayrıca tek tek oyuncuları yazdıran kodu da silebilirsiniz.)
-    
-    ![ekran görüntüsü](images/team-random-player.png)
+`oyuncular` listenizden rastgele oyuncular seçebilmek için ilk önce `random` modülünün `choise` bölümünü kodlamaya dahil etmeniz gerekiyor.
 
-+ Bir kaç kez `choice` kodunuzu deneyin, her seferinde farklı bir oyuncunun seçilmiş olduğunu göreceksiniz.
+## \--- code \---
 
-+ Rastgele oyuncunuzu kaydetmek için ayrıca yeni bir `Aoyuncusu` değişkeni oluşturabilirsiniz.
-    
-    ![ekran görüntüsü](images/team-random-playerA.png)
+language: python filename: main.py line_numbers: true line_number_start: 1
 
-+ A takımındaki tüm oyuncuları saklamak için yeni bir listeye ihtiyacınız olacak. Başlayabilmek için, bu liste boş olmalıdır.
-    
-    ![ekran görüntüsü](images/team-teamA.png)
+## line_highlights: 1
 
-+ Şimdi rastgele seçilmiş oyuncuları `Atakimi`'na ekleyebilirsiniz. Bunu yapmak için `Atakimi.append` komutunu kullanabilirsiniz (**append** sonuna ekle anlamına gelir).
-    
-    ![ekran görüntüsü](images/team-teamA-add.png)
+from random import choice
 
-+ Artık oyuncunuz seçildiğine göre, onları `oyuncular` listenizden kaldırabilirsiniz.
-    
-    ![ekran görüntüsü](images/team-players-remove.png)
+players = ['Harry', 'Hermione', 'Neville', 'Ginny'] print(players)
 
-+ `print` komutunu ekleyip, içinden seçim yapmak için `oyuncular` listesindeki kalan oyuncuları göstererek kodunuzu test edin.
-    
-    ![ekran görüntüsü](images/team-players-remove-test.png)
-    
-    Yukarıdaki örnekte, Ceyda `Atakimi` için seçilmişti böylece adı `oyuncular` listesinden çıkarılmış oldu.
+print(players[0]) print(players[1])
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+Rastgele bir oyuncu elde etmek için `choise` komutunu kullanabilirsiniz. (Ayrıca tek tek oyuncuları yazdıran kodu da silebilirsiniz.)
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 1
+
+## line_highlights: 6
+
+from random import choice
+
+players = ['Harry', 'Hermione', 'Neville', 'Ginny'] print(players)
+
+print(choice(players))
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+Bir kaç kez `choice` kodunuzu deneyin, her seferinde farklı bir oyuncunun seçilmiş olduğunu göreceksiniz.
+
+\--- /task \---
+
+\--- task \---
+
+Rastgele oyuncunuzu kaydetmek için ayrıca yeni bir `Aoyuncusu` değişkeni oluşturabilirsiniz.
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 1
+
+## line_highlights: 6-7
+
+from random import choice
+
+players = ['Harry', 'Hermione', 'Neville', 'Ginny'] print(players)
+
+player_A = choice(players) print(player_A)
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+A takımındaki tüm oyuncuları saklamak için yeni bir listeye ihtiyacınız olacak. Başlayabilmek için, bu liste boş olmalıdır.
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 1
+
+## line_highlights: 6
+
+from random import choice
+
+players = ['Harry', 'Hermione', 'Neville', 'Ginny'] print(players)
+
+team_A = []
+
+player_A = choice(players) print(player_A)
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+Şimdi rastgele seçilmiş oyuncuları `Atakimi`'na ekleyebilirsiniz. Bunu yapmak için `Atakimi.append` komutunu kullanabilirsiniz (**append** sonuna ekle anlamına gelir).
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 8
+
+## line_highlights: 10
+
+player_A = choice(players) print(player_A) team_A.append(player_A)
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+Artık oyuncunuz seçildiğine göre, onları `oyuncular` listenizden kaldırabilirsiniz.
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 8
+
+## line_highlights: 11
+
+player_A = choice(players) print(player_A) team_A.append(player_A) players.remove(player_A)
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+`print` komutunu ekleyip, içinden seçim yapmak için `oyuncular` listesindeki kalan oyuncuları göstererek kodunuzu test edin.
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 8
+
+## line_highlights: 12
+
+player_A = choice(players) print(player_A) team_A.append(player_A) players.remove(player_A) print('Players left: ', players)
+
+\--- /code \---
+
+\--- /task \---
