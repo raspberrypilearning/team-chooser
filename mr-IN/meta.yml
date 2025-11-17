@@ -23,10 +23,10 @@ steps:
     title: खेळाडू
   - 
     title: 'आव्हान: आणखी खेळाडू जोडणे'
-  - 
-    title: कोणतेही खेळाडू
     completion:
       - engaged
+  - 
+    title: कोणतेही खेळाडू
   - 
     title: 'आव्हान: team B साठी निवडणे'
   - 
@@ -43,3 +43,5 @@ steps:
     title: 'आव्हान: टीमची नावे संग्रहीत करणे'
   - 
     title: 'आव्हान: आणखी टीम्स'
+    completion:
+      - external
