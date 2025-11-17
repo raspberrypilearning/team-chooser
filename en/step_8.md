@@ -19,6 +19,7 @@ Hermione
 Neville
 Ginny
 Luna
+
 --- /code ---
 
 --- /task ---
@@ -56,6 +57,7 @@ while len(players) > 0:
     player_B = choice(players)
     team_B.append(player_B)
     players.remove(player_B)
+
 --- /code ---
 
 --- /task ---
@@ -74,6 +76,7 @@ line_highlights:
 ---
 Team A ['Harry', 'Ginny', 'Luna']
 Team B ['Hermione', 'Neville']
+
 --- /code ---
 
 --- /task ---

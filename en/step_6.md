@@ -34,6 +34,7 @@ team_B = []
     team_B.append(player_B)
     players.remove(player_B)
     print('Players left: ', players)
+
 --- /code ---
 
 --- /task ---
@@ -62,6 +63,7 @@ while len(players) > 0:
     team_B.append(player_B)
     players.remove(player_B)
     print('Players left: ', players)
+
 --- /code ---
 
 --- /task ---
@@ -112,6 +114,7 @@ while len(players) > 0:
     print('Players left: ', players)
 
 print('Team A', team_A)
+
 --- /code ---
 
 --- /task ---
@@ -148,6 +151,7 @@ while len(players) > 0:
 
 print('Team A', team_A)
 print('Team B', team_B)
+
 --- /code ---
 
 --- /task ---

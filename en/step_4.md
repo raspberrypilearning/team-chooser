@@ -21,6 +21,7 @@ print(players)
 
 print(players[0])
 print(players[1])
+
 --- /code ---
 
 --- /task ---
@@ -43,6 +44,7 @@ players = ['Harry', 'Hermione', 'Neville', 'Ginny']
 print(players)
 
 print(choice(players))
+
 --- /code ---
 
 --- /task ---
@@ -72,6 +74,7 @@ print(players)
 
 player_A = choice(players)
 print(player_A)
+
 --- /code ---
 
 --- /task ---
@@ -97,6 +100,7 @@ team_A = []
 
 player_A = choice(players)
 print(player_A)
+
 --- /code ---
 
 --- /task ---
@@ -116,6 +120,7 @@ line_highlights: 10
 player_A = choice(players)
 print(player_A)
 team_A.append(player_A)
+
 --- /code ---
 
 --- /task ---
@@ -136,6 +141,7 @@ player_A = choice(players)
 print(player_A)
 team_A.append(player_A)
 players.remove(player_A)
+
 --- /code ---
 
 --- /task ---
@@ -157,6 +163,7 @@ print(player_A)
 team_A.append(player_A)
 players.remove(player_A)
 print('Players left: ', players)
+
 --- /code ---
 
 --- /task ---

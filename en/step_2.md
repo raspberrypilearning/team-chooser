@@ -25,6 +25,7 @@ line_number_start: 1
 line_highlights: 1
 ---
 players = ['Harry', 'Hermione']
+
 --- /code ---
 
 --- /task ---
@@ -43,6 +44,7 @@ line_highlights: 2
 ---
 players = ['Harry', 'Hermione']
 print(players)
+
 --- /code ---
 
 --- /task ---
@@ -66,6 +68,7 @@ print(players)
 
 print(players[0])
 print(players[1])
+
 --- /code ---
 
 --- /task ---
