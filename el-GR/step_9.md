@@ -4,10 +4,20 @@
 
 Μπορείς να δώσεις και στις δύο ομάδες σου τυχαία ονόματα;
 
-Μπορείς να δημιουργήσεις μια λίστα που ονομάζεται `teamNames` που να περιέχει ονόματα ομάδων.
+You can create a list called `team_names` containing the names to choose from.
 
 Στη συνέχεια, μπορείς να επιλέξεις (και να εμφανίσεις) ένα τυχαίο όνομα για κάθε ομάδα.
 
-![screenshot](images/team-finished.png)
+## \--- code \---
+
+language: python filename: main.py line_numbers: false line_number_start:
+
+## line_highlights:
+
+Here are your teams:
+
+Wasps ['Harry', 'Neville', 'Ginny'] Pythons ['Hermione', 'Luna']
+
+\--- /code \---
 
 \--- /challenge \---
