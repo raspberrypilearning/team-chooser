@@ -23,10 +23,10 @@ steps:
     title: Jogadores
   - 
     title: 'Desafio: Adicionando mais jogadores'
-  - 
-    title: Jogadores aleatórios
     completion:
       - engaged
+  - 
+    title: Jogadores aleatórios
   - 
     title: 'Desafio: Escolhendo para o time B'
   - 
@@ -43,3 +43,5 @@ steps:
     title: 'Desafio: Armazenar nomes de equipes'
   - 
     title: 'Desafio: Mais equipes'
+    completion:
+      - external
