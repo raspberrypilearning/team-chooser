@@ -4,11 +4,11 @@
 
 Poți adăuga cod pentru a alege un jucător la întâmplare pentru echipa B? Va trebui să:
 
-+ Creezi o nouă listă `echipaB`
-+ Alegi un jucător la întâmplare pentru echipa B (numit `jucatorB`)
-+ Dai `append` jucătorului ales la lista ta `echipaB`
++ Create a new `team_B` list
++ Choose a random player for team B (called `player_B`)
++ `append` the chosen player to your `team_B` list
 + Dai `remove` jucătorului ales din lista ta de `jucatori`
 
-Codul de care vei avea nevoie pentru `echipaB` va fi **foarte** similar cu codul pe care l-ai scris deja pentru `echipaA`!
+The code you'll need for `team_B` will be **very** similar to the code you've already written for `team_A`!
 
 \--- /challenge \---
