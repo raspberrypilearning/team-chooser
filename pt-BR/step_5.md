@@ -4,11 +4,11 @@
 
 Você pode adicionar código para escolher um jogador aleatoriamente para a equipe B? Você precisará:
 
-+ Crie uma nova lista `timeB`
-+ Escolha um jogador aleatório para o time B (chamado `jogadorB`)
-+ Adicione (`append`) o jogador escolhido à sua lista `timeB`
++ Create a new `team_B` list
++ Choose a random player for team B (called `player_B`)
++ `append` the chosen player to your `team_B` list
 + Remova (`remove`) o jogador escolhido da sua lista de `jogadores`
 
-O código que você precisará para `timeB` será **muito** semelhante ao código que você já escreveu para `timeA`!
+The code you'll need for `team_B` will be **very** similar to the code you've already written for `team_A`!
 
 \--- /challenge \---
