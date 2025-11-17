@@ -4,10 +4,20 @@
 
 두 팀 모두 무작위로 팀 이름을 부여 할 수 있습니까?
 
-선택할 수 있는 팀 이름이 포함 된 `teamNames` 이라는 리스트를 새로 만들 수 있습니다.
+You can create a list called `team_names` containing the names to choose from.
 
 그런 다음 각 팀의 랜덤한 이름을 선택(표시) 할 수 있습니다.
 
-![스크린샷](images/team-finished.png)
+## \--- code \---
+
+language: python filename: main.py line_numbers: false line_number_start:
+
+## line_highlights:
+
+Here are your teams:
+
+Wasps ['Harry', 'Neville', 'Ginny'] Pythons ['Hermione', 'Luna']
+
+\--- /code \---
 
 \--- /challenge \---
