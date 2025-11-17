@@ -23,10 +23,10 @@ steps:
     title: Chwaraewyr
   - 
     title: 'Her: Ychwanegu mwy o chwaraewyr'
-  - 
-    title: Chwaraewyr ar hap
     completion:
       - engaged
+  - 
+    title: Chwaraewyr ar hap
   - 
     title: 'Her: Dewis ar gyfer tîm B'
   - 
@@ -43,3 +43,5 @@ steps:
     title: 'Her: Storio enwau tîm'
   - 
     title: 'Her: Mwy o dimau'
+    completion:
+      - external
