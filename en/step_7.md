@@ -36,6 +36,7 @@ players = []
 
 team_A = []
 team_B = []
+
 --- /code ---
 
 --- /task ---
@@ -59,6 +60,7 @@ file = open('players.txt', 'r')
 
 team_A = []
 team_B = []
+
 --- /code ---
 
 --- /task ---
@@ -83,6 +85,7 @@ players = file.read().splitlines()
 
 team_A = []
 team_B = []
+
 --- /code ---
 
 --- /task ---

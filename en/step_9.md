@@ -18,6 +18,7 @@ Here are your teams:
 
 Wasps ['Harry', 'Neville', 'Ginny']
 Pythons ['Hermione', 'Luna']
+
 --- /code ---
 
 --- /challenge ---
