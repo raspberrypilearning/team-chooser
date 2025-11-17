@@ -23,10 +23,10 @@ steps:
     title: Jucători
   - 
     title: 'Provocare: Adăugarea mai multor jucători'
-  - 
-    title: Jucători la întâmplare
     completion:
       - engaged
+  - 
+    title: Jucători la întâmplare
   - 
     title: 'Provocare: Alegerea jucătorilor pentru echipa B'
   - 
@@ -43,3 +43,5 @@ steps:
     title: 'Provocare: Salvarea numelor echipelor'
   - 
     title: 'Provocare: Mai multe echipe'
+    completion:
+      - external
