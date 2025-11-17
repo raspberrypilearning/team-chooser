@@ -1,12 +1,7 @@
 ## परिचय:
 
-इस परियोजना में, आप खिलाड़ियों की सूची से 2 अनियमित टीमें बनाने का तरीका सीखेंगे।
-
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/python/a699c44ce6?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-  <img src="images/team-finished.png">
-</div>
+इस परियोजना में, आप खिलाड़ियों की सूची से 2 अनियमित टीमें बनाने का तरीका सीखेंगे। <iframe src="https://editor.raspberrypi.org/en/embed/viewer/team-chooser-solution" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe> 
 
 ### क्लब लीडरों के लिए अतिरिक्त जानकारी
 
@@ -20,61 +15,29 @@
 
 इस प्रोजेक्ट में, बच्चे खिलाड़ियों की एक सूची को 2 अनियमित टीमों में विभाजित करने के लिए एक कंप्यूटर प्रोग्राम बनाने का तरीका सीखेंगे। यह प्रोजेक्ट सूची और फ़ाइलों का उपयोग करना सिखाता है।
 
-## ऑनलाइन संसाधन
-
-**यह प्रोजेक्ट Python 3** का उपयोग करता है। हम Python ऑनलाइन लिखने के लिए [trinket](https://trinket.io/) का उपयोग करने की सलाह देते हैं। इस प्रोजेक्ट में निम्नलिखित Trinket हैं:
-
-* [नया (रिक्त) ट्रिंकेट ट्रिंकेट - jumpto.cc/python-new](http://jumpto.cc/python-new)
-
-एक ऐसा trinket भी है जिसमें पूर्ण किया गया प्रोजेक्ट है:
-
-* [‘Team-chooser-finished/trinket.io/python/a699c44ce6](https://trinket.io/python/a699c44ce6)
-
 ## ऑफ़लाइन संसाधन
 
 यदि चाहें तो इस प्रोजेक्ट को [ऑफ़लाइन पूरा](https://www.codeclubprojects.org/en-GB/resources/python-working-offline/) किया जा सकता है। आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके परियोजना संसाधनों तक पहुंच सकते हैं। इस लिंक में एक 'प्रोजेक्ट रिसोर्सेज' सेक्शन शामिल है, जिसमें ऐसे संसाधन शामिल हैं जिन्हें बच्चों को ऑफलाइन इस प्रोजेक्ट को पूरा करने की आवश्यकता होगी। सुनिश्चित करें कि प्रत्येक बच्चे को इन संसाधनों की एक प्रति तक पहुंच है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
 
-* team/team.py
++ team/team.py
 
 आप 'वालंटियर रिसोर्सेज' अनुभाग में इस परियोजना का एक पूरा संस्करण भी पा सकते हैं, जिसमें शामिल हैं:
 
-* team-finished/team.py
++ team-finished/team.py
 
 ऊपर दिए गए सभी संसाधन भी प्रोजेक्ट और वालंटियर.ज़िप फ़ाइल के रूप में डाउनलोड किए जा सकते हैं
 
 ## सीखने के उद्देश्य
 
-* सूचियाँ
-* किसी फाइल से डेटा लोड करना।
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
-
-* [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
++ सूचियाँ
++ किसी फाइल से डेटा लोड करना।
 
 ## चुनौतियाँ
 
-* "अधिक खिलाड़ियों को जोड़ना" - खिलाड़ियों की सूची में तत्वों को जोड़ना
-* "टीम बी के लिए चुनना" - अनियमित खिलाड़ियों को जोड़ने के लिए एक नई टीम बी सूची बनाना;
-* "अनियमित टीम के नाम" - टीमों को अनियमित नाम आवंटित करने के लिए एक नई टीम नाम सूची बनाना और उपयोग करना;
-* "टीम के नाम संग्रहीत करना" फ़ाइल - एक फ़ाइल में टीम के नाम संग्रहीत करना, और उन्हें एक वेरिएबल teamName में लोड करे
-* "अधिक टीम" - दो के बजाय तीन टीमों में खिलाड़ियों को विभाजित करना। 
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: प्रोजेक्ट सामग्री
-
-## प्रोजेक्ट संसाधन
-
-* You can [find the resources for this project here](https://rpf.io/p/en/team-chooser-go){:target="_blank"}.
-* [ऑनलाइन रिक्त Python Trinket](http://jumpto.cc/python-new)
-* [ऑफ़लाइन खाली Python फ़ाइल](resources/new-new.py)
-
-## क्लब लीडर संसाधन
-
-* You can [find the solutions for this project here](https://rpf.io/p/en/team-chooser-get){:target="_blank"}.
-* [ऑनलाइन पूर्ण Trinket प्रोजेक्ट](https://trinket.io/python/a699c44ce6)
-* [team-chooser-finished/team-chooser.py](resources/team-chooser-finished-team-chooser.py)
++ "अधिक खिलाड़ियों को जोड़ना" - खिलाड़ियों की सूची में तत्वों को जोड़ना
++ "टीम बी के लिए चुनना" - अनियमित खिलाड़ियों को जोड़ने के लिए एक नई टीम बी सूची बनाना;
++ "अनियमित टीम के नाम" - टीमों को अनियमित नाम आवंटित करने के लिए एक नई टीम नाम सूची बनाना और उपयोग करना;
++ "टीम के नाम संग्रहीत करना" फ़ाइल - एक फ़ाइल में टीम के नाम संग्रहीत करना, और उन्हें एक वेरिएबल teamName में लोड करे
++ "अधिक टीम" - दो के बजाय तीन टीमों में खिलाड़ियों को विभाजित करना। 
 
 \--- /collapse \---
