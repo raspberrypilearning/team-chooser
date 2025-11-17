@@ -2,24 +2,84 @@
 
 Oyuncularınızın listesini kaydetmek için bir dosya kullanabilirsiniz.
 
-+ + simgesine tıklayın ve `oyuncular.txt` adlı yeni bir dosya oluşturun.
-    
-    ![ekran görüntüsü](images/team-file-create.png)
+\--- task \---
+
+Click **Add file** and create a new file called `players.txt`.
+
+![Add file button shown beneath the Project files menu](images/Add_file.png)
+
+\--- /task \---
+
+\--- task \---
 
 + Oyuncularınızı yeni dosyanıza ekleyin. Son oyuncunuzdan sonra boş satır olmadığından emin olun.
-    
-    ![ekran görüntüsü](images/team-file-add.png)
 
-+ `oyuncular` listesi değişkeninin boş olmasını sağlayın.
-    
-    ![ekran görüntüsü](images/team-players-empty.png)
+![screenshot showing the names in players.txt](images/players_file.png)
 
-+ `oyuncular.txt` dosyanızı açın (`'r'` ifadesi dosyanın sadece okunabilir olduğu anlamına gelir).
-    
-    ![ekran görüntüsü](images/team-file-open.png)
+\--- /task \---
 
-+ Dosyadaki listeyi okutun ve `oyuncular` listesi değişkenine ekleyin. (`splitlines` kodu, dosyanın içindeki her satırın, `oyuncular` listesinin yeni birer ögesi olduğu anlamına gelir).
-    
-    ![ekran görüntüsü](images/team-file-load.png)
+\--- task \---
 
-+ Eğer kodunuzu tekrar denerseniz aynı eskisi gibi çalışıyor olmalı. Ancak, şimdi `oyuncular.txt` dosyasına oyuncu eklemek çok daha kolay.
+`oyuncular` listesi değişkeninin boş olmasını sağlayın.
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 1
+
+## line_highlights: 3
+
+from random import choice
+
+players = []
+
+team_A = [] team_B = []
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+`oyuncular.txt` dosyanızı açın (`'r'` ifadesi dosyanın sadece okunabilir olduğu anlamına gelir).
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 1
+
+## line_highlights: 4
+
+from random import choice
+
+players = [] file = open('players.txt', 'r')
+
+team_A = [] team_B = []
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+Dosyadaki listeyi okutun ve `oyuncular` listesi değişkenine ekleyin. (`splitlines` kodu, dosyanın içindeki her satırın, `oyuncular` listesinin yeni birer ögesi olduğu anlamına gelir).
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 1
+
+## line_highlights: 5
+
+from random import choice
+
+players = [] file = open('players.txt', 'r') players = file.read().splitlines()
+
+team_A = [] team_B = []
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+Eğer kodunuzu tekrar denerseniz aynı eskisi gibi çalışıyor olmalı. Ancak, şimdi `oyuncular.txt` dosyasına oyuncu eklemek çok daha kolay.
+
+\--- /task \---
