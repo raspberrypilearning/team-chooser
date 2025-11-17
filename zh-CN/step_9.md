@@ -4,10 +4,20 @@
 
 你能给你的两个团队一个随机队名吗？
 
-您可以创建一个名为 `teamNames` 的列表，其中包含可供选择的名称。
+You can create a list called `team_names` containing the names to choose from.
 
 然后，您可以为每个团队选择（并显示）随机名称。
 
-![截图](images/team-finished.png)
+## \--- code \---
+
+language: python filename: main.py line_numbers: false line_number_start:
+
+## line_highlights:
+
+Here are your teams:
+
+Wasps ['Harry', 'Neville', 'Ginny'] Pythons ['Hermione', 'Luna']
+
+\--- /code \---
 
 \--- /challenge \---
