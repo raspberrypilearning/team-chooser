@@ -4,11 +4,11 @@
 
 क्या आप team B के लिए अनियमित पर खिलाड़ी चुनने के लिए कोड जोड़ सकते हैं? आपको इसकी आवश्यकता होगी:
 
-+ एक नई सूची बनाएं `teamB` 
-+ टीम बी के लिए एक अनियमित खिलाड़ी चुनें (जिसे `playerB` कहा जाता है)
-+ चुने गए खिलाड़ी को अपनी `teamB` लिस्ट में जोड़ें
++ Create a new `team_B` list
++ Choose a random player for team B (called `player_B`)
++ `append` the chosen player to your `team_B` list
 + चुने हुए खिलाड़ी को `players` की अपनी सूची से `remove`
 
-`teamB` के लिए आपको जो कोड चाहिए, वह आपके द्वारा पहले ही लिखे गए `teamA` के कोड के समान होगा!
+The code you'll need for `team_B` will be **very** similar to the code you've already written for `team_A`!
 
 \--- /challenge \---
