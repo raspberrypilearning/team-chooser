@@ -2,34 +2,138 @@
 
 चला कोणतेही खेळाडू निवडूया!
 
-+ `players` यादीतून कोणताही खेळाडू मिळवण्यासाठी, आधी तुम्हाला `रॅनडम(random)` मॉड्यूल मधील `चॉइस(choice)` चा भाग इम्पोर्ट करावा लागेल.
-    
-    ![screenshot](images/team-import-random.png)
+\--- task \---
 
-+ एक कोणताही खेळाडू मिळवण्यासाठी तुम्ही `चॉइस(choice)` वापरू शकता. (वैयक्तिक खेळाडू प्रिंट करण्यासाठी तुम्ही कोड हटवू शकता.)
-    
-    ![screenshot](images/team-random-player.png)
+`players` यादीतून कोणताही खेळाडू मिळवण्यासाठी, आधी तुम्हाला `रॅनडम(random)` मॉड्यूल मधील `चॉइस(choice)` चा भाग इम्पोर्ट करावा लागेल.
 
-+ तुमच्या `चॉइस(choice)` कोड ची काही वेळा चाचणी घ्या आणि मग तुम्हाला हे दिसून येईल की प्रत्येक वेळी एक वेघळा खेळाडू निवडल्या जातो आहे.
+## \--- code \---
 
-+ तुमचं कोणताही खेळाडू संग्रहीत करण्यासाठी तुम्ही एक नवीन चल(variable) `playerA` देखील तयार करू शकता.
-    
-    ![screenshot](images/team-random-playerA.png)
+language: python filename: main.py line_numbers: true line_number_start: 1
 
-+ सर्व खेळाडू team A मध्ये संग्रहीत करण्यासाठी तुम्हाला एक नवीन यादी लागेल. सुरुवात करण्यासाठी, ती यादी रिकामी असली पाहिजे.
-    
-    ![screenshot](images/team-teamA.png)
+## line_highlights: 1
 
-+ आता तुम्ही तुमचे कोणतेही निवडलेले खेळाडू `teamA` ला जोडू शकता. हे करण्यासाठी तुम्ही वापरा `teamA.append` (**append** म्हणजे शेवटी जोडणे).
-    
-    ![screenshot](images/team-teamA-add.png)
+from random import choice
 
-+ आता तुमचा खेळाडू निवडला गेला आहे, तर तुम्ही त्याला तुमच्या `players` यादीतून काढू शकता.
-    
-    ![screenshot](images/team-players-remove.png)
+players = ['Harry', 'Hermione', 'Neville', 'Ginny'] print(players)
 
-+ जे `players` निवडण्यासाठी बाकी आहेत, ते दाखविण्यासाठी `प्रिंट` आदेश जोडून ह्या कोड ची चाचणी घ्या.
-    
-    ![screenshot](images/team-players-remove-test.png)
-    
-    वरील उदाहरणात, Hermione `teamA` साठी निवडली गेली आहे, आणि म्हणून `players` च्या यादीतून काढल्या गेली आहे.
+print(players[0]) print(players[1])
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+एक कोणताही खेळाडू मिळवण्यासाठी तुम्ही `चॉइस(choice)` वापरू शकता. (वैयक्तिक खेळाडू प्रिंट करण्यासाठी तुम्ही कोड हटवू शकता.)
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 1
+
+## line_highlights: 6
+
+from random import choice
+
+players = ['Harry', 'Hermione', 'Neville', 'Ginny'] print(players)
+
+print(choice(players))
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+तुमच्या `चॉइस(choice)` कोड ची काही वेळा चाचणी घ्या आणि मग तुम्हाला हे दिसून येईल की प्रत्येक वेळी एक वेघळा खेळाडू निवडल्या जातो आहे.
+
+\--- /task \---
+
+\--- task \---
+
+तुमचं कोणताही खेळाडू संग्रहीत करण्यासाठी तुम्ही एक नवीन चल(variable) `playerA` देखील तयार करू शकता.
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 1
+
+## line_highlights: 6-7
+
+from random import choice
+
+players = ['Harry', 'Hermione', 'Neville', 'Ginny'] print(players)
+
+player_A = choice(players) print(player_A)
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+सर्व खेळाडू team A मध्ये संग्रहीत करण्यासाठी तुम्हाला एक नवीन यादी लागेल. सुरुवात करण्यासाठी, ती यादी रिकामी असली पाहिजे.
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 1
+
+## line_highlights: 6
+
+from random import choice
+
+players = ['Harry', 'Hermione', 'Neville', 'Ginny'] print(players)
+
+team_A = []
+
+player_A = choice(players) print(player_A)
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+आता तुम्ही तुमचे कोणतेही निवडलेले खेळाडू `teamA` ला जोडू शकता. हे करण्यासाठी तुम्ही वापरा `teamA.append` (**append** म्हणजे शेवटी जोडणे).
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 8
+
+## line_highlights: 10
+
+player_A = choice(players) print(player_A) team_A.append(player_A)
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+आता तुमचा खेळाडू निवडला गेला आहे, तर तुम्ही त्याला तुमच्या `players` यादीतून काढू शकता.
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 8
+
+## line_highlights: 11
+
+player_A = choice(players) print(player_A) team_A.append(player_A) players.remove(player_A)
+
+\--- /code \---
+
+\--- /task \---
+
+\--- task \---
+
+जे `players` निवडण्यासाठी बाकी आहेत, ते दाखविण्यासाठी `प्रिंट` आदेश जोडून ह्या कोड ची चाचणी घ्या.
+
+## \--- code \---
+
+language: python filename: main.py line_numbers: true line_number_start: 8
+
+## line_highlights: 12
+
+player_A = choice(players) print(player_A) team_A.append(player_A) players.remove(player_A) print('Players left: ', players)
+
+\--- /code \---
+
+\--- /task \---
