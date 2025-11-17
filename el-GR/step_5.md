@@ -4,11 +4,11 @@
 
 Μπορείς να προσθέσεις κώδικα για να επιλέγεις έναν παίκτη τυχαία για την ομάδα Β; Θα χρειαστεί:
 
-+ Να δημιουργήσεις μια νέα λίστα `teamB` για την ομάδα Β
-+ Να επιλέξεις έναν τυχαίο παίκτη για την ομάδα Β (ονομάζεται `playerB`)
-+ Να προσθέσεις με `append` στο τέλος της λίστας `teamB` τον επιλεγμένο παίκτη
++ Create a new `team_B` list
++ Choose a random player for team B (called `player_B`)
++ `append` the chosen player to your `team_B` list
 + Να αφαιρέσεις με `remove` τον επιλεγμένο παίκτη από τη λίστα παικτών `players`
 
-Ο κώδικας που θα χρειαστείς για την ομάδα `teamB` θα είναι **παρόμοιος** με τον κώδικα που έχεις ήδη γράψει για την ομάδα `teamA`!
+The code you'll need for `team_B` will be **very** similar to the code you've already written for `team_A`!
 
 \--- /challenge \---
