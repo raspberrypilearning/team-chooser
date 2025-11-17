@@ -23,10 +23,10 @@ steps:
     title: 플레이어
   - 
     title: '과제: 더 많은 플레이어 추가'
-  - 
-    title: 임의의 플레이어
     completion:
       - engaged
+  - 
+    title: 임의의 플레이어
   - 
     title: '과제: 팀 B에 대한 Code 제작'
   - 
@@ -43,3 +43,5 @@ steps:
     title: '과제: 팀 이름 저장'
   - 
     title: '과제: 더 많은 팀'
+    completion:
+      - external
