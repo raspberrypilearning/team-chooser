@@ -4,11 +4,11 @@
 
 Kannst du Code hinzufügen, um einen Spieler für Team B zufällig auszuwählen? Dazu musst du:
 
-+ Erstelle eine neue Liste `teamB`
-+ Wähle einen zufälligen Spieler für Team B (genannt `spielerB`)
-+ Füge den gewählten Spieler mit `append` an das Ende der Liste `teamB`
++ Create a new `team_B` list
++ Choose a random player for team B (called `player_B`)
++ `append` the chosen player to your `team_B` list
 + Entferne den ausgewählte Spieler mit `remove` aus deiner Liste `spieler`
 
-Der Code, den du für `teamB` benötigst wird **sehr** ähnlich sein wie der Code, den du bereits für `teamA` geschrieben hast!
+The code you'll need for `team_B` will be **very** similar to the code you've already written for `team_A`!
 
 \--- /challenge \---
