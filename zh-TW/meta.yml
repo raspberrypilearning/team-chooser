@@ -23,10 +23,10 @@ steps:
     title: 玩家
   - 
     title: '挑戰：增加更多玩家'
-  - 
-    title: 隨機玩家
     completion:
       - engaged
+  - 
+    title: 隨機玩家
   - 
     title: '挑戰：為B隊選擇隊員'
   - 
@@ -43,3 +43,5 @@ steps:
     title: '挑戰：儲存團隊名稱'
   - 
     title: '挑戰：更多團隊'
+    completion:
+      - external
