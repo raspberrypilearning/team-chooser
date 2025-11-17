@@ -23,10 +23,10 @@ steps:
     title: Joueurs
   - 
     title: 'Défi: Ajoute plus de joueurs'
-  - 
-    title: Joueurs aléatoires
     completion:
       - engaged
+  - 
+    title: Joueurs aléatoires
   - 
     title: 'Défi: Choisir pour l''équipe B'
   - 
@@ -43,3 +43,5 @@ steps:
     title: 'Défi: Stocker les noms d''équipe'
   - 
     title: 'Défi: Encore plus d''équipes'
+    completion:
+      - external
