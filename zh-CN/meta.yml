@@ -23,10 +23,10 @@ steps:
     title: 队员
   - 
     title: '挑战：添加更多队员'
-  - 
-    title: 随机队员
     completion:
       - engaged
+  - 
+    title: 随机队员
   - 
     title: '挑战：为B队选择队员'
   - 
@@ -43,3 +43,5 @@ steps:
     title: '挑战：保存团队名称'
   - 
     title: '挑战：更多团队'
+    completion:
+      - external
