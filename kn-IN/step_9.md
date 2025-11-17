@@ -4,10 +4,20 @@
 
 ಏನು ನೀವು ನಿಮ್ಮ ಎರಡು ತಂಡಗಳಿಗೆ ಸ್ವೀಚ್ವೇಯಾದ ಹೆಸರನ್ನು ಕೊಡಬಹುದೇ?
 
-ನೀವು ಒಂದು `teamNames`ಎಂಬ ಪಟ್ಟಿ ಯನ್ನು ತಯಾರಿಸಬಹುದು ಅದರಲ್ಲಿ ಹೊಂದಿರುವ ಹೆಸರನ್ನು ನೀವು ಆಯ್ಕೆ ಮಾಡಬಹುದು.
+You can create a list called `team_names` containing the names to choose from.
 
 ನೀವು ಆಯ್ಕೆ (ಹಾಗು ಪ್ರದರ್ಶನ) ಒಂದು ಸ್ವೇಚ್ಚೆಯಾದ ಹೆಸರು ಪ್ರತಿ ತಂಡಕ್ಕೆ ಮಾಡಬಹುದು.
 
-![screenshot](images/team-finished.png)
+## \--- code \---
+
+language: python filename: main.py line_numbers: false line_number_start:
+
+## line_highlights:
+
+Here are your teams:
+
+Wasps ['Harry', 'Neville', 'Ginny'] Pythons ['Hermione', 'Luna']
+
+\--- /code \---
 
 \--- /challenge \---
