@@ -4,11 +4,11 @@
 
 您可以新增程式碼來為B隊隨機選擇隊員嗎？ 你將會需要：
 
-+ 建立一個新的 `teamB` 列表
-+ 為B隊選擇一名隨機隊員（稱為`playerB`）
-+ 使用`append`將選擇的隊員新增到`teamB`列表
++ Create a new `team_B` list
++ Choose a random player for team B (called `player_B`)
++ `append` the chosen player to your `team_B` list
 + 使用`remove`將選擇的隊員從`players`列表中刪除
 
-為`teamB`所寫的程式碼將**非常**類似於你已經幫`teamA`寫好的程式碼。
+The code you'll need for `team_B` will be **very** similar to the code you've already written for `team_A`!
 
 \--- /挑戰\---
