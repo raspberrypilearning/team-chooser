@@ -4,11 +4,11 @@
 
 Czy potrafisz dodać kod, który wybierze losowego gracza do zespołu B? W tym celu musisz:
 
-+ Utworzyć nową listę `zespolB`
-+ Wylosować gracza do zespołu B (i zapisać go w zmiennej `graczB`)
-+ dopisać (`append`) wybranego gracza do listy `zespolB`
-+ usunąć (`remove`) wybranego gracza z listy `gracze`
++ Create a new `team_B` list
++ Choose a random player for team B (called `player_B`)
++ `append` the chosen player to your `team_B` list
++ Usunąć (`remove`) wybranego gracza z listy `gracze`
 
-Kod potrzebny do stworzenia `zespolB` będzie **bardzo** podobny do kodu, który już napisałeś dla `zespolA`!
+The code you'll need for `team_B` will be **very** similar to the code you've already written for `team_A`!
 
 \--- /challenge \---
