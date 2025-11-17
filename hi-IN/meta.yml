@@ -23,10 +23,10 @@ steps:
     title: खिलाड़ी
   - 
     title: 'चुनौती: और खिलाड़ी जोड़ना'
-  - 
-    title: अनियमित खिलाड़ी
     completion:
       - engaged
+  - 
+    title: अनियमित खिलाड़ी
   - 
     title: 'चुनौती: टीम B के लिए चुनना'
   - 
@@ -43,3 +43,5 @@ steps:
     title: 'चुनौती: टीम के नाम स्टोर करना'
   - 
     title: 'चुनौती: और टीमें'
+    completion:
+      - external
