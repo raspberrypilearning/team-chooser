@@ -4,11 +4,11 @@
 
 ನೀವು ಕೋಡ್ ಅನ್ನು ಹಾಕಬಹುದೇ ತಂಡ ಬಿ ಇಂದ ಆಟಗಾರನನ್ನು ಆಯ್ಕೆ ಮಾಡಲು? ನೀವು ಇದನ್ನು ಮಾಡಬೇಕಾಗಿದೆ:
 
-+ ಹೊಸ `teamB` ಪಟ್ಟಿ ತಯಾರಿಸಿ
-+ ರ್ಯಾಂಡಮ್ ಆಟಗಾರನನ್ನು ತಂಡ ಬಿ ಇಂದ ಆಯ್ಕೆ ಮಾಡಿ(ಕರೆಯಿರಿ `playerB`)
-+ `append` ಆಯ್ಕೆ ಮಾಡಿರುವ ಆಟಗಾರನನ್ನು ನಿಮ್ಮ `teamB` ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ
++ Create a new `team_B` list
++ Choose a random player for team B (called `player_B`)
++ `append` the chosen player to your `team_B` list
 + `remove` ನೀವು ಆಯ್ಕೆ ಮಾಡಿರುವ ಆಟಗಾರರನ್ನು ಪಟ್ಟಿ ಯಾ `players` ಇಂದ ತೆಗೆಯಿರಿ
 
-ಕೋಡ್ ನಿಮಗೆಬೇಕಾಗಿರುವ `teamB` ಯು **very** ಒಂದೇ ಸಮನೆ ಕೋಡ್ `teamA` ಗೆ ಬರೆದಂತೆ ಇರತ್ತದೆ!
+The code you'll need for `team_B` will be **very** similar to the code you've already written for `team_A`!
 
 \--- /challenge \---
